@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:fn="http://www.w3.org/2005/xpath-functions"
+     xmlns:foo="whatever"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Arthur Schnitzler: Briefwechsel mit Autorinnen und
+                                    Autoren</title>
+            <title level="a">Erwähnungen in Schniztlers Tagebuch von pmb12602</title>
+            <respStmt>
+               <resp>providing the content</resp>
+               <name>Martin Anton Müller</name>
+               <name>Gerd-Hermann Susen</name>
+               <name>Laura Untner</name>
+            </respStmt>
+            <respStmt>
+               <resp>converted to XML encoding</resp>
+               <name>Martin Anton Müller</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural
+                                    Heritage (ACDH-CH)</publisher>
+            <date>2023-12-28+01:00</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Erwähnungen im Tagebuch nach Jahren einzelner
+                                    Korrespondenzpartner</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event when="1888">
+               <desc>0</desc>
+            </event>
+            <event when="1889">
+               <desc>0</desc>
+            </event>
+            <event when="1890">
+               <desc>0</desc>
+            </event>
+            <event when="1891">
+               <desc>0</desc>
+            </event>
+            <event when="1892">
+               <desc>0</desc>
+            </event>
+            <event when="1893">
+               <desc>3</desc>
+            </event>
+            <event when="1894">
+               <desc>1</desc>
+            </event>
+            <event when="1895">
+               <desc>0</desc>
+            </event>
+            <event when="1896">
+               <desc>0</desc>
+            </event>
+            <event when="1897">
+               <desc>0</desc>
+            </event>
+            <event when="1898">
+               <desc>0</desc>
+            </event>
+            <event when="1899">
+               <desc>0</desc>
+            </event>
+            <event when="1900">
+               <desc>0</desc>
+            </event>
+            <event when="1901">
+               <desc>0</desc>
+            </event>
+            <event when="1902">
+               <desc>0</desc>
+            </event>
+            <event when="1903">
+               <desc>1</desc>
+            </event>
+            <event when="1904">
+               <desc>1</desc>
+            </event>
+            <event when="1905">
+               <desc>0</desc>
+            </event>
+            <event when="1906">
+               <desc>0</desc>
+            </event>
+            <event when="1907">
+               <desc>0</desc>
+            </event>
+            <event when="1908">
+               <desc>0</desc>
+            </event>
+            <event when="1909">
+               <desc>0</desc>
+            </event>
+            <event when="1910">
+               <desc>0</desc>
+            </event>
+            <event when="1911">
+               <desc>0</desc>
+            </event>
+            <event when="1912">
+               <desc>0</desc>
+            </event>
+            <event when="1913">
+               <desc>1</desc>
+            </event>
+            <event when="1914">
+               <desc>0</desc>
+            </event>
+            <event when="1915">
+               <desc>0</desc>
+            </event>
+            <event when="1916">
+               <desc>0</desc>
+            </event>
+            <event when="1917">
+               <desc>1</desc>
+            </event>
+            <event when="1918">
+               <desc>3</desc>
+            </event>
+            <event when="1919">
+               <desc>0</desc>
+            </event>
+            <event when="1920">
+               <desc>0</desc>
+            </event>
+            <event when="1921">
+               <desc>0</desc>
+            </event>
+            <event when="1922">
+               <desc>1</desc>
+            </event>
+            <event when="1923">
+               <desc>0</desc>
+            </event>
+            <event when="1924">
+               <desc>0</desc>
+            </event>
+            <event when="1925">
+               <desc>0</desc>
+            </event>
+            <event when="1926">
+               <desc>0</desc>
+            </event>
+            <event when="1927">
+               <desc>0</desc>
+            </event>
+            <event when="1928">
+               <desc>0</desc>
+            </event>
+            <event when="1929">
+               <desc>0</desc>
+            </event>
+            <event when="1930">
+               <desc>0</desc>
+            </event>
+            <event when="1931">
+               <desc>0</desc>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>
