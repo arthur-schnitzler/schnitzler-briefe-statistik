@@ -18,7 +18,7 @@
             <xsl:variable name="korrespondenz-nummer"
                 select="replace($current-doc/tei:list[1]/tei:item[not(descendant::tei:ref[@type = 'belongsToCorrespondence'][2])][1]/tei:correspDesc[1]/tei:correspContext[1]/tei:ref[@type = 'belongsToCorrespondence'][1]/@target, 'correspondence_', 'pmb')"/>
             <xsl:result-document indent="no"
-                href="../statistik1/statistik1_{$korrespondenz-nummer}.csv">
+                href="../statistik1/statistik_{$korrespondenz-nummer}.csv">
                 <xsl:apply-templates select="$current-doc"/>
             </xsl:result-document>
         </xsl:for-each>

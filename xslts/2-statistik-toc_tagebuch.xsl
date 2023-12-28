@@ -16,12 +16,14 @@
             <xsl:variable name="korrespondenz-nummer"
                 select="replace($current-doc/tei:list[1]/tei:item[not(descendant::tei:ref[@type = 'belongsToCorrespondence'][2])][1]/tei:correspDesc[1]/tei:correspContext[1]/tei:ref[@type = 'belongsToCorrespondence'][1]/@target, 'correspondence_', 'pmb')"/>
             <xsl:result-document indent="no"
-                href="../statistik2/statistik2_{$korrespondenz-nummer}.csv">
+                href="../statistik2/statistik_{$korrespondenz-nummer}.csv">
                 <xsl:apply-templates select="$current-doc"/>
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="tei:list">
+        <xsl:variable name="korrespondenz-nummer"
+            select="replace(tei:item[not(descendant::tei:ref[@type = 'belongsToCorrespondence'][2])][1]/tei:correspDesc[1]/tei:correspContext[1]/tei:ref[@type = 'belongsToCorrespondence'][1]/@target, 'correspondence_', 'pmb')" as="xs:string"/>
         <xsl:variable name="startYear" select="1888"/>
         <xsl:variable name="endYear" select="1931"/>
         <xsl:variable name="correspAction-gesamt" as="node()" select="."/>
@@ -35,7 +37,7 @@
             <xsl:value-of select="$correspAction-gesamt-zahl"/>
             <xsl:text>,</xsl:text>
             <xsl:value-of
-                select="document('../tagebuch-vorkommen-korrespondenzpartner/tagebuch-vorkommen_pmb2167.xml')/descendant::tei:event[@when = $currentYear]/tei:desc"/>
+                select="document(concat('../tagebuch-vorkommen-korrespondenzpartner/tagebuch-vorkommen_', $korrespondenz-nummer, '.xml'))/descendant::tei:event[@when = $currentYear]/tei:desc"/>
             <xsl:text>&#10;</xsl:text>
         </xsl:for-each>
     </xsl:template>
