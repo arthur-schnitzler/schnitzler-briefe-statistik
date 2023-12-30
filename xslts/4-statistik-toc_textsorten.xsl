@@ -58,29 +58,30 @@
             <list>
                 <item ref="anderes">Anderes</item>
                 <item ref="bild">Bild</item>
-                <item ref="bild_fotografie">Fotografie</item>
+                <item ref="bild-fotografie">Fotografie</item>
                 <item ref="brief">Brief</item>
-                <item ref="brief_entwurf">Briefentwurf</item>
+                <item ref="brief-entwurf">Briefentwurf</item>
                 <item ref="karte">Karte</item>
-                <item ref="karte_postkarte">Postkarte</item>
-                <item ref="karte_bildpostkarte">Bildpostkarte</item>
-                <item ref="karte_briefkarte">Briefkarte</item>
-                <item ref="karte_visitenkarte">Visitenkarte</item>
+                <item ref="karte-postkarte">Postkarte</item>
+                <item ref="karte-bildpostkarte">Bildpostkarte</item>
+                <item ref="karte-briefkarte">Briefkarte</item>
+                <item ref="karte-visitenkarte">Visitenkarte</item>
                 <item ref="kartenbrief">Kartenbrief</item>
                 <item ref="telegramm">Telegramm</item>
-                <item ref="telegramm_entwurf">Telegrammentwurf</item>
+                <item ref="telegramm-entwurf">Telegrammentwurf</item>
                 <item ref="umschlag">Umschlag</item>
                 <item ref="widmung">Widmung</item>
-                <item ref="widmung_umschlag">Widmung Umschlag</item>
-                <item ref="widmung_vorsatzblatt">Widmung Vorsatzblatt</item>
-                <item ref="widmung_schmutztitel">Widmung Schmutztitel</item>
-                <item ref="widmung_vortitel">Widmung Vortitel</item>
-                <item ref="widmung_titelblatt">Widmung Titelblatt</item>
+                <item ref="widmung-widmung_umschlag">Widmung Umschlag</item>
+                <item ref="widmung-widmung_vorsatzblatt">Widmung Vorsatzblatt</item>
+                <item ref="widmung-widmung_schmutztitel">Widmung Schmutztitel</item>
+                <item ref="widmung-widmung_vortitel">Widmung Vortitel</item>
+                <item ref="widmung-widmung_titelblatt">Widmung Titelblatt</item>
             </list>
         </xsl:variable>
         <xsl:for-each select="$textsorten/list/item">
-            <xsl:variable name="corresp" select="tokenize(@ref, '_')[1]" as="xs:string"/>
-            <xsl:variable name="ana" select="tokenize(@ref, '_')[2]" as="xs:string?"/>
+            <xsl:variable name="corresp" select="tokenize(@ref, '-')[1]" as="xs:string"/>
+            <xsl:variable name="ana" select="tokenize(@ref, '-')[2]" as="xs:string?"/>
+            <xsl:message select="$ana"></xsl:message>
             <xsl:value-of select="."/>
             <xsl:text>,</xsl:text>
             <xsl:choose>
