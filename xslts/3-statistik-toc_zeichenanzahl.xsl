@@ -44,7 +44,6 @@
                 </xsl:for-each>
             </xsl:element>
         </xsl:variable>
-        <xsl:message select="count($correspAction-schnitzler//tei:date)"/>
         <xsl:variable name="correspAction-notschnitzler" as="node()">
             <xsl:element name="profileDesc" namespace="http://www.tei-c.org/ns/1.0">
                 <xsl:for-each select="descendant::tei:item[tei:correspDesc[tei:correspAction[last()]/tei:persName/@ref = '#pmb2121']]">
