@@ -2,7 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xmlns:foo="whatever" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0"><xsl:output method="text" indent="no"/><xsl:mode on-no-match="shallow-skip"/>
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0">
+    <xsl:output method="text" indent="no"/>
+    <xsl:mode on-no-match="shallow-skip"/>
     <!-- dieses XSLT wird auf statistik_toc_XXXX.xml angewandt und 
         schreibt ein CSV für die Kreisgrafik der verwendeten Textsorten
    -->
@@ -17,7 +19,7 @@
                 select="replace($current-doc/tei:list[1]/tei:item[not(descendant::tei:ref[@type = 'belongsToCorrespondence'][2])][1]/tei:correspDesc[1]/tei:correspContext[1]/tei:ref[@type = 'belongsToCorrespondence'][1]/@target, 'correspondence_', 'pmb')"/>
             <xsl:result-document indent="no"
                 href="../statistik4/statistik_{$korrespondenz-nummer}-a.csv">
-                <xsl:apply-templates select="$current-doc" mode="list-a" />
+                <xsl:apply-templates select="$current-doc" mode="list-a"/>
             </xsl:result-document>
             <xsl:result-document indent="no"
                 href="../statistik4/statistik_{$korrespondenz-nummer}-b.csv">
@@ -60,8 +62,8 @@
                 <item ref="brief">Brief</item>
                 <item ref="brief_entwurf">Briefentwurf</item>
                 <item ref="karte">Karte</item>
-                <item ref="karte_bildpostkarte">Bildpostkarte</item>
                 <item ref="karte_postkarte">Postkarte</item>
+                <item ref="karte_bildpostkarte">Bildpostkarte</item>
                 <item ref="karte_briefkarte">Briefkarte</item>
                 <item ref="karte_visitenkarte">Visitenkarte</item>
                 <item ref="kartenbrief">Kartenbrief</item>
@@ -69,29 +71,33 @@
                 <item ref="telegramm_entwurf">Telegrammentwurf</item>
                 <item ref="umschlag">Umschlag</item>
                 <item ref="widmung">Widmung</item>
+                <item ref="widmung_umschlag">Widmung Umschlag</item>
+                <item ref="widmung_vorsatzblatt">Widmung Vorsatzblatt</item>
+                <item ref="widmung_schmutztitel">Widmung Schmutztitel</item>
+                <item ref="widmung_vortitel">Widmung Vortitel</item>
+                <item ref="widmung_titelblatt">Widmung Titelblatt</item>
             </list>
         </xsl:variable>
         <xsl:for-each select="$textsorten/list/item">
             <xsl:variable name="corresp" select="tokenize(@ref, '_')[1]" as="xs:string"/>
             <xsl:variable name="ana" select="tokenize(@ref, '_')[2]" as="xs:string?"/>
+            <xsl:value-of select="."/>
+            <xsl:text>,</xsl:text>
             <xsl:choose>
-                <xsl:when
-                    test="$correspAction-gesamt/descendant::tei:objectType[@corresp = $corresp and normalize-space($ana) = ''][1]">
-                    <xsl:value-of select="."/>
-                    <xsl:text>,</xsl:text>
+                <xsl:when test="fn:normalize-space($ana) =''">
                     <xsl:value-of
                         select="count($correspAction-gesamt/descendant::*:objectType[@corresp = $corresp and not(@ana)])"/>
-                    <xsl:text>&#10;</xsl:text>
                 </xsl:when>
                 <xsl:when
                     test="$correspAction-gesamt/descendant::tei:objectType[@corresp = $corresp and @ana = $ana][1]">
-                    <xsl:value-of select="."/>
-                    <xsl:text>,</xsl:text>
                     <xsl:value-of
                         select="count($correspAction-gesamt/descendant::*:objectType[@corresp = $corresp and @ana = $ana])"/>
-                    <xsl:text>&#10;</xsl:text>
                 </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>0</xsl:text>
+                </xsl:otherwise>
             </xsl:choose>
+            <xsl:text>&#10;</xsl:text>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
