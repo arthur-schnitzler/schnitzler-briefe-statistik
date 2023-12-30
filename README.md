@@ -10,3 +10,9 @@ is similar to the one above but exists of xml-files (not csv) and is limited to 
 # statistik1
 contains csvs for a graph that shows number of surviving correspondence pieces per sender and receiver. schnitzler’s letters (usually fewer survive than the one he received) are shown as negative numbers
 
+# statistik2
+csvs comparing the amount of letters/year with the amount of mentions/year (using the data in tagebuch-vorkommen-korrespondenzpartner)
+
+# statistik3
+this sums the element `<measure unit='zeichenanzahl' quantity='XXX'>` for each correspondence
+partner individually
