@@ -1,0 +1,40 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Kopenhagen",
+"lat": 55.67594,
+"lon": 12.56553
+},
+"weight": 100
+}
+]}
+]
+}

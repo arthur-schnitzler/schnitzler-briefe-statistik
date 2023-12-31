@@ -1,0 +1,27 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Ascona",
+"lat": 46.15451,
+"lon": 8.77327
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+}
+]}
+]
+}

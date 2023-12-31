@@ -1,0 +1,313 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Opatija",
+"lat": 45.33771,
+"lon": 14.30515
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Schliersee",
+"lat": 47.73621,
+"lon": 11.85936
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+}
+]}
+]
+}

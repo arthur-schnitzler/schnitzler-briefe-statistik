@@ -1,0 +1,7554 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lélex",
+"lat": 46.30057,
+"lon": 5.93838
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Pieve di Cadore",
+"lat": 46.42302,
+"lon": 12.361
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Strobl",
+"lat": 47.71667,
+"lon": 13.48333
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"to":{
+"name": "Hodonín",
+"lat": 48.84893,
+"lon": 17.13244
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hodonín",
+"lat": 48.84893,
+"lon": 17.13244
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hodonín",
+"lat": 48.84893,
+"lon": 17.13244
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Hodonín",
+"lat": 48.84893,
+"lon": 17.13244
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Znojmo",
+"lat": 48.85024,
+"lon": 16.04869
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Hodonín",
+"lat": 48.84893,
+"lon": 17.13244
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Tlumatsch",
+"lat": 48.86403,
+"lon": 25.00325
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Tlumatsch",
+"lat": 48.86403,
+"lon": 25.00325
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Trondheim",
+"lat": 63.43049,
+"lon": 10.39506
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Kopenhagen",
+"lat": 55.67594,
+"lon": 12.56553
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Varese",
+"lat": 45.82908,
+"lon": 8.82193
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Steindorf am Ossiacher See",
+"lat": 46.6992,
+"lon": 13.98892
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Graz",
+"lat": 47.06667,
+"lon": 15.43333
+},
+"to":{
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Johann im Pongau",
+"lat": 47.35,
+"lon": 13.2
+},
+"to":{
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Fusch an der Großglocknerstraße",
+"lat": 47.22729,
+"lon": 12.82727
+},
+"to":{
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Tschortkiw",
+"lat": 49.01701,
+"lon": 25.79808
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Gastein",
+"lat": 47.11547,
+"lon": 13.13467
+},
+"to":{
+"name": "Mödling",
+"lat": 48.08605,
+"lon": 16.28921
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Tegernsee",
+"lat": 47.7123,
+"lon": 11.7582
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Tegernsee",
+"lat": 47.7123,
+"lon": 11.7582
+},
+"to":{
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Tegernsee",
+"lat": 47.7123,
+"lon": 11.7582
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Tegernsee",
+"lat": 47.7123,
+"lon": 11.7582
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"to":{
+"name": "Luzern",
+"lat": 47.05048,
+"lon": 8.30635
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Luzern",
+"lat": 47.05048,
+"lon": 8.30635
+},
+"to":{
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"to":{
+"name": "Luzern",
+"lat": 47.05048,
+"lon": 8.30635
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Alpnachstad",
+"lat": 46.95317,
+"lon": 8.2776
+},
+"to":{
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"to":{
+"name": "Bologna",
+"lat": 44.49381,
+"lon": 11.33875
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bologna",
+"lat": 44.49381,
+"lon": 11.33875
+},
+"to":{
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lugano",
+"lat": 46.01008,
+"lon": 8.96004
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Baden bei Wien",
+"lat": 48.00543,
+"lon": 16.23264
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Velden am Wörthersee",
+"lat": 46.61901,
+"lon": 14.03129
+},
+"to":{
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Velden am Wörthersee",
+"lat": 46.61901,
+"lon": 14.03129
+},
+"to":{
+"name": "Marienbad",
+"lat": 49.96115,
+"lon": 12.72872
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"to":{
+"name": "Toblach",
+"lat": 46.72493,
+"lon": 12.22109
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"to":{
+"name": "San Martino di Castrozza",
+"lat": 46.26667,
+"lon": 11.8
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"to":{
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Vahrn",
+"lat": 46.73901,
+"lon": 11.63749
+},
+"to":{
+"name": "Frankfurt am Main",
+"lat": 50.11552,
+"lon": 8.68417
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Vahrn",
+"lat": 46.73901,
+"lon": 11.63749
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wiesbaden",
+"lat": 50.08258,
+"lon": 8.24932
+},
+"to":{
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Split",
+"lat": 43.5,
+"lon": 16.433333
+},
+"to":{
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Paris",
+"lat": 48.85341,
+"lon": 2.3488
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Brighton",
+"lat": 50.82838,
+"lon": -0.13947
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Brügge",
+"lat": 51.20892,
+"lon": 3.22424
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Reichenau an der Rax",
+"lat": 47.7,
+"lon": 15.83333
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"to":{
+"name": "Reichenau an der Rax",
+"lat": 47.7,
+"lon": 15.83333
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Sambir",
+"lat": 49.5183,
+"lon": 23.19752
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Nago–Torbole",
+"lat": 45.87594,
+"lon": 10.89106
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Ouchy",
+"lat": 46.50666,
+"lon": 6.62493
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lido",
+"lat": 45.38333,
+"lon": 12.35
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "San Martino di Castrozza",
+"lat": 46.26667,
+"lon": 11.8
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Anton am Arlberg",
+"lat": 47.1275,
+"lon": 10.26372
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Gainfarn",
+"lat": 47.9628,
+"lon": 16.19368
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rom",
+"lat": 41.89193,
+"lon": 12.51133
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Rom",
+"lat": 41.89193,
+"lon": 12.51133
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rom",
+"lat": 41.89193,
+"lon": 12.51133
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Breslau",
+"lat": 51.10773,
+"lon": 17.03533
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Cortina d'Ampezzo",
+"lat": 46.5369,
+"lon": 12.13903
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Brenner",
+"lat": 47.00528,
+"lon": 11.50836
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Madonna di Campiglio",
+"lat": 46.22671,
+"lon": 10.82582
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Weimar",
+"lat": 50.97361,
+"lon": 11.33806
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rom",
+"lat": 41.89193,
+"lon": 12.51133
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Monreale",
+"lat": 38.08125,
+"lon": 13.28947
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Taormina",
+"lat": 37.85358,
+"lon": 15.28851
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "IV., Wieden",
+"lat": 48.19198,
+"lon": 16.36714
+},
+"to":{
+"name": "XVIII., Währing",
+"lat": 48.23333,
+"lon": 16.31667
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bozen",
+"lat": 46.49067,
+"lon": 11.33982
+},
+"to":{
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Mödling",
+"lat": 48.08605,
+"lon": 16.28921
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Agnetendorf",
+"lat": 50.816944,
+"lon": 15.609444
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Messina",
+"lat": 38.19394,
+"lon": 15.55256
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Dubrovnik",
+"lat": 42.64807,
+"lon": 18.09216
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Dubrovnik",
+"lat": 42.64807,
+"lon": 18.09216
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Versailles",
+"lat": 48.80359,
+"lon": 2.13424
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Kremsmünster",
+"lat": 48.05301,
+"lon": 14.12842
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Kaltenleutgeben",
+"lat": 48.11646,
+"lon": 16.19956
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Helsingør",
+"lat": 56.03606,
+"lon": 12.6136
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"to":{
+"name": "Helsingør",
+"lat": 56.03606,
+"lon": 12.6136
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Helsingør",
+"lat": 56.03606,
+"lon": 12.6136
+},
+"to":{
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"weight": 100
+},
+{
+"from": {
+"name": "St. Gilgen",
+"lat": 47.76667,
+"lon": 13.36667
+},
+"to":{
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Gerngroß",
+"lat": 48.199904627721,
+"lon": 16.354007973149
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Hinterbrühl",
+"lat": 48.08611,
+"lon": 16.24809
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Florenz",
+"lat": 43.77925,
+"lon": 11.24626
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Venedig",
+"lat": 45.43713,
+"lon": 12.33265
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lido",
+"lat": 45.38333,
+"lon": 12.35
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Lido",
+"lat": 45.38333,
+"lon": 12.35
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Cortina d'Ampezzo",
+"lat": 46.5369,
+"lon": 12.13903
+},
+"to":{
+"name": "Welsberg-Taisten",
+"lat": 46.75774,
+"lon": 12.10556
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Cortina d'Ampezzo",
+"lat": 46.5369,
+"lon": 12.13903
+},
+"to":{
+"name": "Welsberg-Taisten",
+"lat": 46.75774,
+"lon": 12.10556
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Meran",
+"lat": 46.66817,
+"lon": 11.15953
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Meran",
+"lat": 46.66817,
+"lon": 11.15953
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Sládkovičovo",
+"lat": 48.203056,
+"lon": 17.646944
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"to":{
+"name": "Seis am Schlern",
+"lat": 46.54133,
+"lon": 11.55868
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Fusch",
+"lat": 47.2003,
+"lon": 12.85589
+},
+"to":{
+"name": "Seis am Schlern",
+"lat": 46.54133,
+"lon": 11.55868
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Seis am Schlern",
+"lat": 46.54133,
+"lon": 11.55868
+},
+"to":{
+"name": "Sils im Engadin",
+"lat": 46.41603,
+"lon": 9.77504
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Weimar",
+"lat": 50.97361,
+"lon": 11.33806
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Budapest",
+"lat": 47.49835,
+"lon": 19.04045
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Lido",
+"lat": 45.38333,
+"lon": 12.35
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Neubeuern",
+"lat": 47.77368,
+"lon": 12.14002
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hradec nad Moravicí",
+"lat": 49.85192,
+"lon": 17.86698
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Kopenhagen",
+"lat": 55.67594,
+"lon": 12.56553
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Neubeuern",
+"lat": 47.77368,
+"lon": 12.14002
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Sterzing",
+"lat": 46.89313,
+"lon": 11.42961
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Eppan an der Weinstraße",
+"lat": 46.45472,
+"lon": 11.26178
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Neubeuern",
+"lat": 47.77368,
+"lon": 12.14002
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Semmering",
+"lat": 47.64224,
+"lon": 15.8241
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Weißenbach am Attersee",
+"lat": 47.8004,
+"lon": 13.5358
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Dürnstein",
+"lat": 48.40751,
+"lon": 15.51978
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Magglingen",
+"lat": 47.139,
+"lon": 7.21407
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Celerina",
+"lat": 46.5146,
+"lon": 9.8622
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Palermo",
+"lat": 38.13205,
+"lon": 13.33561
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Avignon",
+"lat": 43.94834,
+"lon": 4.80892
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Marrakesh",
+"lat": 31.63416,
+"lon": -7.99994
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Agrigento",
+"lat": 37.31065,
+"lon": 13.57661
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Breitenstein am Semmering",
+"lat": 47.65949,
+"lon": 15.82151
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Rodaun",
+"lat": 48.132793312328,
+"lon": 16.256152195922
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Aussee",
+"lat": 47.60998,
+"lon": 13.78243
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Heidelberg",
+"lat": 49.40768,
+"lon": 8.69079
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+}
+]}
+]
+}

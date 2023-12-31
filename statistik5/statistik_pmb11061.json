@@ -1,0 +1,391 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Zürich",
+"lat": 47.37174,
+"lon": 8.54226
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Königs Wusterhausen",
+"lat": 52.30141,
+"lon": 13.633
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Höhlenstein",
+"lat": 46.641944,
+"lon": 12.2322
+},
+"to":{
+"name": "Edlach",
+"lat": 47.69255,
+"lon": 15.80915
+},
+"weight": 100
+}
+]}
+]
+}

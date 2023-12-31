@@ -1,0 +1,235 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"weight": 100
+},
+{
+"from": {
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Salzburg",
+"lat": 47.80067,
+"lon": 13.04532
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+}
+]}
+]
+}

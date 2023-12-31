@@ -1,0 +1,183 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Berlin-Pankow",
+"lat": 52.569167,
+"lon": 13.403333
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Blankenese",
+"lat": 53.5652,
+"lon": 9.7972
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Blankenese",
+"lat": 53.5652,
+"lon": 9.7972
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Blankenese",
+"lat": 53.5652,
+"lon": 9.7972
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Blankenese",
+"lat": 53.5652,
+"lon": 9.7972
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Braunwald",
+"lat": 46.94159,
+"lon": 8.99643
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hamburg",
+"lat": 53.57532,
+"lon": 10.01534
+},
+"to":{
+"name": "Brijuni",
+"lat": 44.91417,
+"lon": 13.76222
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Brijuni",
+"lat": 44.91417,
+"lon": 13.76222
+},
+"to":{
+"name": "Hamburg",
+"lat": 53.57532,
+"lon": 10.01534
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Hamburg",
+"lat": 53.57532,
+"lon": 10.01534
+},
+"to":{
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"weight": 100
+},
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "Blankenese",
+"lat": 53.5652,
+"lon": 9.7972
+},
+"weight": 100
+}
+]}
+]
+}

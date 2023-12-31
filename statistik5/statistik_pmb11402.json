@@ -1,0 +1,27 @@
+{
+"title": {
+"text": "Flow Map"
+},
+"subtitle": {
+ "text": "Example"
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+{
+"from": {
+"name": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+"to":{
+"name": "München",
+"lat": 48.13743,
+"lon": 11.57549
+},
+"weight": 100
+}
+]}
+]
+}
