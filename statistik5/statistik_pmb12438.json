@@ -9,1449 +9,614 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Wien",
+         {
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
+"id": "Zistersdorf",
 "lat": 48.53585,
 "lon": 16.75613
 },
-"weight": 100
-},
 {
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Zistersdorf",
-"lat": 48.53585,
-"lon": 16.75613
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Altaussee",
+"id": "Altaussee",
 "lat": 47.6698,
 "lon": 13.78453
 },
-"to":{
-"name": "Altaussee",
-"lat": 47.6698,
-"lon": 13.78453
-},
-"weight": 100
-},
 {
-"from": {
-"name": "Altaussee",
-"lat": 47.6698,
-"lon": 13.78453
-},
-"to":{
-"name": "Altaussee",
-"lat": 47.6698,
-"lon": 13.78453
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Bad Gastein",
+"id": "Bad Gastein",
 "lat": 47.11547,
 "lon": 13.13467
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Andorf",
+"id": "Andorf",
 "lat": 48.3713,
 "lon": 13.57412
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
+{
+"id": "Karlsbad",
+"lat": 50.23271,
+"lon": 12.87117
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Andorf",
-"lat": 48.3713,
-"lon": 13.57412
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Gutenstein",
+"id": "Gutenstein",
 "lat": 47.875833333333,
 "lon": 15.889166666667
 },
-"weight": 100
-},
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Millstatt",
+"id": "Millstatt",
 "lat": 46.82295,
 "lon": 13.60447
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
+{
+"id": "XII., Meidling",
+"lat": 48.17192,
+"lon": 16.32586
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Bad Aussee",
+"id": "Bad Aussee",
 "lat": 47.60998,
 "lon": 13.78243
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Zistersdorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Zistersdorf",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Altaussee",
+"to": "Altaussee",
+"weight": 20}
+,
+{
+"from": "Altaussee",
+"to": "Altaussee",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Bad Gastein",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Andorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Andorf",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Gutenstein",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Millstatt",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Bad Aussee",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+
 ]}
 ]
 }

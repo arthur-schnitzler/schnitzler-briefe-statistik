@@ -9,370 +9,164 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Wien",
+         {
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Meran",
+"id": "Meran",
 "lat": 46.66817,
 "lon": 11.15953
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
 {
-"from": {
-"name": "Meran",
-"lat": 46.66817,
-"lon": 11.15953
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Meran",
-"lat": 46.66817,
-"lon": 11.15953
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Meran",
-"lat": 46.66817,
-"lon": 11.15953
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Meran",
-"lat": 46.66817,
-"lon": 11.15953
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zürich",
+"id": "Zürich",
 "lat": 47.37174,
 "lon": 8.54226
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zürich",
-"lat": 47.37174,
-"lon": 8.54226
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zürich",
-"lat": 47.37174,
-"lon": 8.54226
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zürich",
-"lat": 47.37174,
-"lon": 8.54226
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zürich",
-"lat": 47.37174,
-"lon": 8.54226
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Zürich",
-"lat": 47.37174,
-"lon": 8.54226
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Meran",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Meran",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Meran",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Meran",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Meran",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 20}
+
 ]}
 ]
 }

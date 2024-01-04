@@ -9,266 +9,134 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Paris",
+         {
+"id": "Paris",
 "lat": 48.85341,
 "lon": 2.3488
 },
-"to":{
-"name": "Wien",
+{
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"weight": 100
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Paris",
-"lat": 48.85341,
-"lon": 2.3488
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Paris",
-"lat": 48.85341,
-"lon": 2.3488
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Berlin",
+"id": "Berlin",
 "lat": 52.52437,
 "lon": 13.41053
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
+{
+"id": "Dießen am Ammersee",
+"lat": 47.950839,
+"lon": 11.103059
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-"to":{
-"name": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
+"id": "Göttingen",
+"lat": 51.53443,
+"lon": 9.93228
 }
+
+      ],
+"data2": [
+{
+"from": "Paris",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Paris",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Paris",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Berlin",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Berlin",
+"to": "Berlin",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+
 ]}
 ]
 }

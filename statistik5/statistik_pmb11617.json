@@ -9,214 +9,124 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Wien",
+         {
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
 },
-"to":{
-"name": "Szklarska Poręba",
+{
+"id": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+{
+"id": "Szklarska Poręba",
 "lat": 50.82567,
 "lon": 15.52274
 },
-"weight": 100
-},
 {
-"from": {
-"name": "Szklarska Poręba",
-"lat": 50.82567,
-"lon": 15.52274
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Bad Ischl",
+"id": "Bad Ischl",
 "lat": 47.71109,
 "lon": 13.61893
 },
-"to":{
-"name": "Insel Hiddensee",
+{
+"id": "Insel Hiddensee",
 "lat": 54.56689,
 "lon": 13.10411
 },
-"weight": 100
-},
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-"to":{
-"name": "Agnetendorf",
+"id": "Agnetendorf",
 "lat": 50.816944,
 "lon": 15.609444
 },
-"weight": 100
-},
 {
-"from": {
-"name": "Szklarska Poręba",
-"lat": 50.82567,
-"lon": 15.52274
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "St. Gilgen",
+"id": "St. Gilgen",
 "lat": 47.76667,
 "lon": 13.36667
-},
-"to":{
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Agnetendorf",
-"lat": 50.816944,
-"lon": 15.609444
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Wien",
+"to": "Szklarska Poręba",
+"weight": 20}
+,
+{
+"from": "Szklarska Poręba",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Bad Ischl",
+"to": "Insel Hiddensee",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Berlin",
+"to": "Agnetendorf",
+"weight": 20}
+,
+{
+"from": "Szklarska Poręba",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "St. Gilgen",
+"to": "Agnetendorf",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Berlin",
+"weight": 20}
+,
+{
+"from": "Agnetendorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Agnetendorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Agnetendorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Agnetendorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Berlin",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Agnetendorf",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Agnetendorf",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Agnetendorf",
+"weight": 20}
+
 ]}
 ]
 }

@@ -9,45 +9,34 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Schliersee",
+         {
+"id": "Schliersee",
 "lat": 47.73621,
 "lon": 11.85936
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
 {
-"from": {
-"name": "Schliersee",
-"lat": 47.73621,
-"lon": 11.85936
-},
-"to":{
-"name": "Wien",
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Schliersee",
-"lat": 47.73621,
-"lon": 11.85936
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Schliersee",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Schliersee",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Schliersee",
+"to": "Wien",
+"weight": 20}
+
 ]}
 ]
 }

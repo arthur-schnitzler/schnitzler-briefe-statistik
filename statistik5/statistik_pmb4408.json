@@ -9,32 +9,34 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Wien",
+         {
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 },
 {
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
+"id": "Thurø",
+"lat": 55.04767,
+"lon": 10.69703
 },
-"to":{
-"name": "Kopenhagen",
+{
+"id": "Kopenhagen",
 "lat": 55.67594,
 "lon": 12.56553
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Kopenhagen",
+"weight": 20}
+
 ]}
 ]
 }

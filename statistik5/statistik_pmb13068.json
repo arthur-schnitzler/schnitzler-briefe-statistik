@@ -9,32 +9,29 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "München",
+         {
+"id": "München",
 "lat": 48.13743,
 "lon": 11.57549
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
 {
-"from": {
-"name": "München",
-"lat": 48.13743,
-"lon": 11.57549
-},
-"to":{
-"name": "Wien",
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "München",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "München",
+"to": "Wien",
+"weight": 20}
+
 ]}
 ]
 }

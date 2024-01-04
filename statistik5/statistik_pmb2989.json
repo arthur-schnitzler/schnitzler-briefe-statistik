@@ -9,6 +9,14 @@
 "type": "map",
 "name": "Flow",
 "data": [
+         {
+"id": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+}
+
+      ],
+"data2": [
 ]}
 ]
 }

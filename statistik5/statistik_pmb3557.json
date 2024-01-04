@@ -9,97 +9,54 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Bern",
+         {
+"id": "Bern",
 "lat": 46.9489,
 "lon": 7.4638
 },
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
 {
-"from": {
-"name": "Bern",
-"lat": 46.9489,
-"lon": 7.4638
-},
-"to":{
-"name": "Wien",
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Bern",
-"lat": 46.9489,
-"lon": 7.4638
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Bern",
-"lat": 46.9489,
-"lon": 7.4638
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Bern",
-"lat": 46.9489,
-"lon": 7.4638
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Bern",
-"lat": 46.9489,
-"lon": 7.4638
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Bern",
-"lat": 46.9489,
-"lon": 7.4638
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Bern",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Bern",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Bern",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Bern",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Bern",
+"weight": 20}
+,
+{
+"from": "Bern",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Bern",
+"to": "Wien",
+"weight": 20}
+
 ]}
 ]
 }

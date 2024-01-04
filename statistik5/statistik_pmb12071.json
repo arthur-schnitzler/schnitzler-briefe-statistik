@@ -9,84 +9,54 @@
 "type": "map",
 "name": "Flow",
 "data": [
-{
-"from": {
-"name": "Hamburg",
+         {
+"id": "Hamburg",
 "lat": 53.57532,
 "lon": 10.01534
 },
-"to":{
-"name": "Wien",
+{
+"id": "Wien",
 "lat": 48.2066,
 "lon": 16.37341
-},
-"weight": 100
 },
 {
-"from": {
-"name": "Hamburg",
-"lat": 53.57532,
-"lon": 10.01534
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Hamburg",
-"lat": 53.57532,
-"lon": 10.01534
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"to":{
-"name": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-"weight": 100
-},
-{
-"from": {
-"name": "Edlach",
+"id": "Edlach",
 "lat": 47.69255,
 "lon": 15.80915
-},
-"to":{
-"name": "Hamburg",
-"lat": 53.57532,
-"lon": 10.01534
-},
-"weight": 100
 }
+
+      ],
+"data2": [
+{
+"from": "Hamburg",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Hamburg",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Hamburg",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 20}
+,
+{
+"from": "Edlach",
+"to": "Hamburg",
+"weight": 20}
+
 ]}
 ]
 }
