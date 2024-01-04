@@ -35,9 +35,12 @@
 "lon": 15.8241
 }
 
-      ],
-"data2": [
+      ]
+},
 {
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
 "from": "Gmunden",
 "to": "Bad Ischl",
 "weight": 20}
@@ -153,5 +156,4 @@
 "weight": 20}
 
 ]}
-]
-}
+]}

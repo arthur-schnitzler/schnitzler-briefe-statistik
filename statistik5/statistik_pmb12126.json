@@ -25,13 +25,15 @@
 "lon": 16.37341
 }
 
-      ],
-"data2": [
+      ]
+},
 {
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
 "from": "Ascona",
 "to": "Wien",
 "weight": 20}
 
 ]}
-]
-}
+]}

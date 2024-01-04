@@ -40,9 +40,12 @@
 "lon": 9.67621
 }
 
-      ],
-"data2": [
+      ]
+},
 {
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
 "from": "München",
 "to": "Wien",
 "weight": 20}
@@ -173,5 +176,4 @@
 "weight": 20}
 
 ]}
-]
-}
+]}

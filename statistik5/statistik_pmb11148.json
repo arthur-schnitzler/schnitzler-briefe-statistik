@@ -45,9 +45,12 @@
 "lon": 13.76222
 }
 
-      ],
-"data2": [
+      ]
+},
 {
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
 "from": "Wien",
 "to": "Berlin-Pankow",
 "weight": 20}
@@ -113,5 +116,4 @@
 "weight": 20}
 
 ]}
-]
-}
+]}

@@ -25,9 +25,12 @@
 "lon": 13.660556
 }
 
-      ],
-"data2": [
+      ]
+},
 {
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
 "from": "Grundlsee",
 "to": "Wien",
 "weight": 20}
@@ -78,5 +81,4 @@
 "weight": 20}
 
 ]}
-]
-}
+]}

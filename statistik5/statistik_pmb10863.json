@@ -760,9 +760,12 @@
 "lon": -74.00597
 }
 
-      ],
-"data2": [
+      ]
+},
 {
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
 "from": "Brünn",
 "to": "Wien",
 "weight": 20}
@@ -4798,5 +4801,4 @@
 "weight": 20}
 
 ]}
-]
-}
+]}

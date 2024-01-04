@@ -21,10 +21,11 @@
                 <xsl:text>"name": "Flow",&#10;</xsl:text>
                 <xsl:text>"data": [</xsl:text>
                 <xsl:apply-templates select="$current-doc" mode="ids"/>
-                <xsl:text>],&#10;</xsl:text>
-                <xsl:text>"data2": [&#10;</xsl:text>
+                <xsl:text>]&#10;},&#10;</xsl:text>
+                <xsl:text>{&#10;"type": "mapline",&#10;"name": "Flow Lines",&#10;</xsl:text>
+                <xsl:text>"data": [</xsl:text>
                 <xsl:apply-templates select="$current-doc"/>
-                <xsl:text>]}&#10;]&#10;}</xsl:text>
+                <xsl:text>]}&#10;]}</xsl:text>
             </xsl:result-document>
         </xsl:for-each>
     </xsl:template>
