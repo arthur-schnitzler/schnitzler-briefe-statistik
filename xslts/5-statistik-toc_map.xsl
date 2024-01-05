@@ -30,7 +30,7 @@
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="tei:list" mode="ids">
-        <!--<xsl:variable name="correspAction-gesamt" as="node()" select="."/>
+        <xsl:variable name="correspAction-gesamt" as="node()" select="."/>
         <xsl:for-each
             select="distinct-values(descendant::tei:correspAction/tei:placeName[1]/tokenize(normalize-space(@ref), ' ')[1])">
             <xsl:variable name="absenderort-ref" select="normalize-space(replace(., '#pmb', ''))"
@@ -55,7 +55,7 @@
                 <xsl:text>,</xsl:text>
             </xsl:if>
             <xsl:text>&#10;</xsl:text>
-        </xsl:for-each>-->
+        </xsl:for-each>
     </xsl:template>
     <xsl:template match="tei:list">
         <xsl:variable name="correspAction-gesamt" as="node()" select="."/>

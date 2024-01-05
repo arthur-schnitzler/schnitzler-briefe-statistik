@@ -9,7 +9,22 @@
 "type": "map",
 "name": "Flow",
 "data": [
-         
+         {
+"id": "Grundlsee (Gemeinde)",
+"lat": 47.61667,
+"lon": 13.81667
+},
+{
+"id": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+{
+"id": "Hallstätter See",
+"lat": 47.578611,
+"lon": 13.660556
+}
+
       ]
 },
 {
