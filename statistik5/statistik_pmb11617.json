@@ -15,11 +15,6 @@
 "lon": 16.37341
 },
 {
-"id": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-{
 "id": "Szklarska Poręba",
 "lat": 50.82567,
 "lon": 15.52274
@@ -33,6 +28,11 @@
 "id": "Insel Hiddensee",
 "lat": 54.56689,
 "lon": 13.10411
+},
+{
+"id": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
 },
 {
 "id": "Agnetendorf",

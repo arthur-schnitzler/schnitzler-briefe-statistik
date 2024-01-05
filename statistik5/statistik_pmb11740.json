@@ -20,11 +20,6 @@
 "lon": 13.48333
 },
 {
-"id": "Bad Ischl",
-"lat": 47.71109,
-"lon": 13.61893
-},
-{
 "id": "Bad Fusch",
 "lat": 47.2003,
 "lon": 12.85589
@@ -33,6 +28,11 @@
 "id": "Lélex",
 "lat": 46.30057,
 "lon": 5.93838
+},
+{
+"id": "Bad Ischl",
+"lat": 47.71109,
+"lon": 13.61893
 },
 {
 "id": "Pieve di Cadore",
@@ -433,11 +433,6 @@
 "id": "Weißenbach am Attersee",
 "lat": 47.8004,
 "lon": 13.5358
-},
-{
-"id": "Lunz am See",
-"lat": 47.8612,
-"lon": 15.02998
 },
 {
 "id": "Dürnstein",

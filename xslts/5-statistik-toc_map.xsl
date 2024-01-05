@@ -32,7 +32,7 @@
     <xsl:template match="tei:list" mode="ids">
         <xsl:variable name="correspAction-gesamt" as="node()" select="."/>
         <xsl:for-each
-            select="distinct-values(descendant::tei:correspAction/tei:placeName[1]/tokenize(normalize-space(@ref), ' ')[1])">
+            select="distinct-values(descendant::tei:correspAction[@type='sent' or @type='received']/tei:placeName[1]/tokenize(normalize-space(@ref), ' ')[1])">
             <xsl:variable name="absenderort-ref" select="normalize-space(replace(., '#pmb', ''))"
                 as="xs:string"/>
             <xsl:variable name="absender-nachgeschlagen"

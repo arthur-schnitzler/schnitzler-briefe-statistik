@@ -145,11 +145,6 @@
 "lon": 82.2876
 },
 {
-"id": "Sri Lanka",
-"lat": 7.75,
-"lon": 80.75
-},
-{
 "id": "Singapur",
 "lat": 1.35335,
 "lon": 103.86454
@@ -180,11 +175,6 @@
 "lon": 117.17994
 },
 {
-"id": "Yokohama",
-"lat": 35.43333,
-"lon": 139.65
-},
-{
 "id": "Peking",
 "lat": 39.9075,
 "lon": 116.39723
@@ -193,6 +183,11 @@
 "id": "Gelbes Meer",
 "lat": 35.0,
 "lon": 123.0
+},
+{
+"id": "Yokohama",
+"lat": 35.43333,
+"lon": 139.65
 },
 {
 "id": "Velden am Wörthersee",
@@ -405,11 +400,6 @@
 "lon": 9.0832
 },
 {
-"id": "Cernobbio",
-"lat": 45.841667,
-"lon": 9.077778
-},
-{
 "id": "Semmering",
 "lat": 47.64224,
 "lon": 15.8241
@@ -428,11 +418,6 @@
 "id": "Tremezzo",
 "lat": 45.98423,
 "lon": 9.21613
-},
-{
-"id": "Helsingør",
-"lat": 56.03606,
-"lon": 12.6136
 },
 {
 "id": "Marienlyst",
