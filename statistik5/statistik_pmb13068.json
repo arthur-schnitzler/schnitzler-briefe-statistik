@@ -1,25 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "München",
-"lat": 48.13743,
-"lon": 11.57549
-},
-{
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-}
-
+         
       ]
 },
 {
@@ -28,12 +18,7 @@
 "data": [{
 "from": "München",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "München",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 
 ]}
 ]}

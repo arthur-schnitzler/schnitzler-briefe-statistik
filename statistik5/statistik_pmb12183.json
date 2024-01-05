@@ -1,25 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Schliersee",
-"lat": 47.73621,
-"lon": 11.85936
-},
-{
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-}
-
+         
       ]
 },
 {
@@ -28,17 +18,7 @@
 "data": [{
 "from": "Schliersee",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Schliersee",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Schliersee",
-"to": "Wien",
-"weight": 20}
+"weight": 3}
 
 ]}
 ]}

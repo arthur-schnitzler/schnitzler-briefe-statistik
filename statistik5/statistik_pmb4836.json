@@ -1,25 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "Bernried",
-"lat": 47.86604,
-"lon": 11.29386
-}
-
+         
       ]
 },
 {
@@ -28,57 +18,12 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
+"weight": 9}
 ,
 {
 "from": "Bernried",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Bernried",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 
 ]}
 ]}

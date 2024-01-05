@@ -1,25 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "Rájec-Jestřebí",
-"lat": 49.41094,
-"lon": 16.63902
-}
-
+         
       ]
 },
 {
@@ -28,37 +18,12 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 20}
+"weight": 5}
 ,
 {
 "from": "Rájec-Jestřebí",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Rájec-Jestřebí",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 
 ]}
 ]}

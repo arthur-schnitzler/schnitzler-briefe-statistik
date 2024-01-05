@@ -1,30 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "Thurø",
-"lat": 55.04767,
-"lon": 10.69703
-},
-{
-"id": "Kopenhagen",
-"lat": 55.67594,
-"lon": 12.56553
-}
-
+         
       ]
 },
 {
@@ -33,12 +18,11 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 20}
-,
+"weight": 1},
 {
 "from": "Wien",
 "to": "Kopenhagen",
-"weight": 20}
+"weight": 1}
 
 ]}
 ]}

@@ -1,30 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Hamburg",
-"lat": 53.57532,
-"lon": 10.01534
-},
-{
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "Edlach",
-"lat": 47.69255,
-"lon": 15.80915
-}
-
+         
       ]
 },
 {
@@ -33,32 +18,21 @@
 "data": [{
 "from": "Hamburg",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Hamburg",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 ,
 {
 "from": "Wien",
 "to": "Hamburg",
-"weight": 20}
-,
+"weight": 1},
 {
 "from": "Wien",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 ,
 {
 "from": "Edlach",
 "to": "Hamburg",
-"weight": 20}
+"weight": 1}
 
 ]}
 ]}

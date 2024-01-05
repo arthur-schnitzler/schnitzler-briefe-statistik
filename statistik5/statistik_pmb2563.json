@@ -1,45 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "Brünn",
-"lat": 49.19522,
-"lon": 16.60796
-},
-{
-"id": "Prag",
-"lat": 50.08333,
-"lon": 14.46667
-},
-{
-"id": "Leipzig",
-"lat": 51.33962,
-"lon": 12.37129
-},
-{
-"id": "Breslau",
-"lat": 51.10773,
-"lon": 17.03533
-},
-{
-"id": "Kreiensen",
-"lat": 51.85363,
-"lon": 9.96481
-}
-
+         
       ]
 },
 {
@@ -48,47 +18,32 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 20}
+"weight": 2}
 ,
 {
 "from": "Brünn",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Brünn",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Brünn",
-"to": "Wien",
-"weight": 20}
+"weight": 3}
 ,
 {
 "from": "Prag",
 "to": "Wien",
-"weight": 20}
+"weight": 1}
 ,
 {
 "from": "Leipzig",
 "to": "Wien",
-"weight": 20}
+"weight": 1}
 ,
 {
 "from": "Breslau",
 "to": "Wien",
-"weight": 20}
+"weight": 1}
 ,
 {
 "from": "Kreiensen",
 "to": "Wien",
-"weight": 20}
+"weight": 1}
 
 ]}
 ]}

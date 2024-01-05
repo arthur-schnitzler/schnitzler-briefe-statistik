@@ -1,30 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "München",
-"lat": 48.13743,
-"lon": 11.57549
-},
-{
-"id": "Salzburg",
-"lat": 47.80067,
-"lon": 13.04532
-}
-
+         
       ]
 },
 {
@@ -33,87 +18,21 @@
 "data": [{
 "from": "Wien",
 "to": "München",
-"weight": 20}
+"weight": 1},
+{
+"from": "Wien",
+"to": "Wien",
+"weight": 14}
 ,
 {
 "from": "München",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
+"weight": 1}
 ,
 {
 "from": "Salzburg",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Wien",
-"to": "Wien",
-"weight": 20}
+"weight": 1}
 
 ]}
 ]}

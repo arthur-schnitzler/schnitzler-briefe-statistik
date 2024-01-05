@@ -15,8 +15,8 @@
             <xsl:if test="position() > 1">,</xsl:if>
             <xsl:result-document href="../statistik5/statistik_{$korrespondenz-nummer}.json">
                 <xsl:text>{&#10;</xsl:text>
-                <xsl:text>"title": {&#10;"text": "Flow Map"&#10;},&#10;</xsl:text>
-                <xsl:text>"subtitle": {&#10; "text": "Example"&#10;},&#10;"series": [{&#10;</xsl:text>
+                <xsl:text>"title": {&#10;"text": "Gesamte Korrespondenz"&#10;},&#10;</xsl:text>
+                <xsl:text>"subtitle": {&#10; "text": ""&#10;},&#10;"series": [{&#10;</xsl:text>
                 <xsl:text>"type": "map",&#10;</xsl:text>
                 <xsl:text>"name": "Flow",&#10;</xsl:text>
                 <xsl:text>"data": [</xsl:text>
@@ -30,7 +30,7 @@
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="tei:list" mode="ids">
-        <xsl:variable name="correspAction-gesamt" as="node()" select="."/>
+        <!--<xsl:variable name="correspAction-gesamt" as="node()" select="."/>
         <xsl:for-each
             select="distinct-values(descendant::tei:correspAction/tei:placeName[1]/tokenize(normalize-space(@ref), ' ')[1])">
             <xsl:variable name="absenderort-ref" select="normalize-space(replace(., '#pmb', ''))"
@@ -55,18 +55,32 @@
                 <xsl:text>,</xsl:text>
             </xsl:if>
             <xsl:text>&#10;</xsl:text>
-        </xsl:for-each>
+        </xsl:for-each>-->
     </xsl:template>
     <xsl:template match="tei:list">
         <xsl:variable name="correspAction-gesamt" as="node()" select="."/>
-        <xsl:for-each select="tei:item[descendant::tei:correspDesc[1][tei:correspAction[@type='sent'][1]/tei:placeName[1]/@ref[starts-with(., '#pmb')] and tei:correspAction[@type='received'][1]/tei:placeName[1]/@ref[starts-with(., '#pmb')]]]">
-            <xsl:text>{&#10;"from": "</xsl:text><xsl:value-of select="descendant::tei:correspDesc[1]/tei:correspAction[@type='sent'][1]/tei:placeName[1]/text()[1]"/>
-            <xsl:text>",&#10;</xsl:text>
-            <xsl:text>"to": "</xsl:text>
-            <xsl:value-of select="descendant::tei:correspDesc[1]/tei:correspAction[@type='received'][1]/tei:placeName[1]/text()[1]"/><xsl:text>",&#10;</xsl:text>
-            <xsl:text>"weight": 20</xsl:text>
-            <xsl:text>}&#10;</xsl:text>
-            <xsl:if test="not(fn:position()=last())">
+        <xsl:for-each
+            select="distinct-values(child::tei:item/descendant::tei:correspDesc[tei:correspAction[@type = 'received'][1]/tei:placeName[1][@ref[starts-with(., '#pmb')]]][1]/tei:correspAction[@type = 'sent'][1]/tei:placeName[1][@ref[starts-with(., '#pmb')]])">
+            <xsl:variable name="from" select="." as="xs:string"/>
+            <xsl:for-each
+                select="distinct-values($correspAction-gesamt/descendant::tei:item/tei:correspDesc[tei:correspAction[@type='sent'][1]/tei:placeName[1]=$from]/tei:correspAction[@type = 'received']/tei:placeName[1])">
+                <xsl:variable name="to" select="." as="xs:string"/>
+                <xsl:text>{&#10;"from": "</xsl:text>
+                <xsl:value-of select="$from"/>
+                <xsl:text>",&#10;</xsl:text>
+                <xsl:text>"to": "</xsl:text>
+                <xsl:value-of select="$to"/>
+                <xsl:text>",&#10;</xsl:text>
+                <xsl:text>"weight": </xsl:text>
+                <xsl:value-of
+                    select="count($correspAction-gesamt/descendant::tei:correspDesc[tei:correspAction[@type = 'sent']/tei:placeName[1] = $from and tei:correspAction[@type = 'received']/tei:placeName[1] = $to])"/>
+                <xsl:text>}</xsl:text>
+                <xsl:if test="not(position() = last())">
+                    <xsl:text>,</xsl:text>
+                </xsl:if>
+                <xsl:text>&#10;</xsl:text>
+            </xsl:for-each>
+            <xsl:if test="not(position() = last())">
                 <xsl:text>,</xsl:text>
             </xsl:if>
             <xsl:text>&#10;</xsl:text>

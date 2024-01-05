@@ -1,30 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
-},
-{
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-},
-{
-"id": "Lauffen",
-"lat": 47.67203,
-"lon": 13.61438
-}
-
+         
       ]
 },
 {
@@ -33,62 +18,17 @@
 "data": [{
 "from": "Berlin",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
+"weight": 9}
 ,
 {
 "from": "Wien",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
+"weight": 1}
 ,
 {
 "from": "Lauffen",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Berlin",
-"to": "Wien",
-"weight": 20}
-,
-{
-"from": "Lauffen",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 
 ]}
 ]}

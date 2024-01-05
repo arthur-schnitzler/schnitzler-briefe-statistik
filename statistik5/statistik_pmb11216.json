@@ -1,25 +1,15 @@
 {
 "title": {
-"text": "Flow Map"
+"text": "Gesamte Korrespondenz"
 },
 "subtitle": {
- "text": "Example"
+ "text": ""
 },
 "series": [{
 "type": "map",
 "name": "Flow",
 "data": [
-         {
-"id": "Zdislavice",
-"lat": 49.22351,
-"lon": 17.26127
-},
-{
-"id": "Wien",
-"lat": 48.2066,
-"lon": 16.37341
-}
-
+         
       ]
 },
 {
@@ -28,12 +18,7 @@
 "data": [{
 "from": "Zdislavice",
 "to": "Wien",
-"weight": 20}
-,
-{
-"from": "Zdislavice",
-"to": "Wien",
-"weight": 20}
+"weight": 2}
 
 ]}
 ]}
