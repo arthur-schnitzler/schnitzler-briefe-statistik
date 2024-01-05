@@ -44,12 +44,12 @@
             <xsl:text>"id": "</xsl:text>
             <xsl:value-of select="$absender-nachgeschlagen/descendant::*:placeName[1]/text()"/>
             <xsl:text>",&#10;</xsl:text>
-            <xsl:text>"lat": </xsl:text>
+            <xsl:text>"lat": "</xsl:text>
             <xsl:value-of select="replace(tokenize($absender-geo, ' ')[1], ',', '.')"/>
-            <xsl:text>,&#10;</xsl:text>
-            <xsl:text>"lon": </xsl:text>
+            <xsl:text>",&#10;</xsl:text>
+            <xsl:text>"lon": "</xsl:text>
             <xsl:value-of select="replace(tokenize($absender-geo, ' ')[2], ',', '.')"/>
-            <xsl:text>&#10;</xsl:text>
+            <xsl:text>"&#10;</xsl:text>
             <xsl:text>}</xsl:text>
             <xsl:if test="not(fn:position() = last())">
                 <xsl:text>,</xsl:text>
