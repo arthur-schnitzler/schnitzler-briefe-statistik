@@ -1,0 +1,69 @@
+{
+"title": {
+"text": "Korrespondenzstücke von Schnitzler"
+},
+"subtitle": {
+ "text": ""
+},
+"series": [{
+"type": "map",
+"name": "Flow",
+"data": [
+         {
+"id": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+{
+"id": "Wien",
+"lat": 48.2066,
+"lon": 16.37341
+},
+{
+"id": "Zürich",
+"lat": 47.37174,
+"lon": 8.54226
+},
+{
+"id": "Königs Wusterhausen",
+"lat": 52.30141,
+"lon": 13.633
+},
+{
+"id": "Höhlenstein",
+"lat": 46.641944,
+"lon": 12.2322
+},
+{
+"id": "Edlach",
+"lat": 47.69255,
+"lon": 15.80915
+}
+
+      ]
+},
+{
+"type": "mapline",
+"name": "Flow Lines",
+"data": [{
+"from": "Berlin",
+"to": "Wien",
+"weight": 10}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Königs Wusterhausen",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Höhlenstein",
+"to": "Edlach",
+"weight": 1}
+
+]}
+]}
