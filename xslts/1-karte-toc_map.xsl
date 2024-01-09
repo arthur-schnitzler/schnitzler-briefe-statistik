@@ -13,7 +13,7 @@
             <xsl:variable name="korrespondenz-nummer"
                 select="replace($current-doc/tei:list[1]/tei:item[not(descendant::tei:ref[@type = 'belongsToCorrespondence'][2])][1]/tei:correspDesc[1]/tei:correspContext[1]/tei:ref[@type = 'belongsToCorrespondence'][1]/@target, 'correspondence_', 'pmb')"/>
             <xsl:if test="position() > 1">,</xsl:if>
-            <xsl:result-document href="../statistik5/statistik_{$korrespondenz-nummer}.json">
+            <xsl:result-document href="../karte1/karte_{$korrespondenz-nummer}.json">
                 <xsl:text>{&#10;</xsl:text>
                 <xsl:text>"title": {&#10;"text": "Gesamte Korrespondenz"&#10;},&#10;</xsl:text>
                 <xsl:text>"subtitle": {&#10; "text": ""&#10;},&#10;"series": [{&#10;</xsl:text>
