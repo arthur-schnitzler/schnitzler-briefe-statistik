@@ -275,14 +275,129 @@
 "lon": 8.61554
 },
 {
-"id": "Czernowitz",
-"lat": 48.29149,
-"lon": 25.94034
+"id": "Triest",
+"lat": 45.66667,
+"lon": 13.76667
+},
+{
+"id": "Brijuni",
+"lat": 44.91417,
+"lon": 13.76222
+},
+{
+"id": "Tutzing",
+"lat": 47.90938,
+"lon": 11.2803
 },
 {
 "id": "Dresden",
 "lat": 51.0833,
 "lon": 13.7666
+},
+{
+"id": "Cuxhaven",
+"lat": 53.86828,
+"lon": 8.69902
+},
+{
+"id": "Altaussee",
+"lat": 47.6698,
+"lon": 13.78453
+},
+{
+"id": "Olomouc",
+"lat": 49.59552,
+"lon": 17.25175
+},
+{
+"id": "Hannover",
+"lat": 52.37052,
+"lon": 9.73322
+},
+{
+"id": "Hildesheim",
+"lat": 52.15077,
+"lon": 9.95112
+},
+{
+"id": "Rom",
+"lat": 41.89193,
+"lon": 12.51133
+},
+{
+"id": "Neapel",
+"lat": 40.85216,
+"lon": 14.26811
+},
+{
+"id": "Pompei",
+"lat": 40.750556,
+"lon": 14.489722
+},
+{
+"id": "Berchtesgaden",
+"lat": 47.63236,
+"lon": 13.00187
+},
+{
+"id": "Prievoz",
+"lat": 48.146297222222,
+"lon": 17.167102777778
+},
+{
+"id": "Assuan",
+"lat": 24.09082,
+"lon": 32.89942
+},
+{
+"id": "Jaffa",
+"lat": 32.05043,
+"lon": 34.75224
+},
+{
+"id": "Czernowitz",
+"lat": 48.29149,
+"lon": 25.94034
+},
+{
+"id": "Chemnitz",
+"lat": 50.8357,
+"lon": 12.92922
+},
+{
+"id": "Grundlsee (Gemeinde)",
+"lat": 47.61667,
+"lon": 13.81667
+},
+{
+"id": "Zürich",
+"lat": 47.37174,
+"lon": 8.54226
+},
+{
+"id": "Atlantischer Ozean",
+"lat": 7.0,
+"lon": -31.0
+},
+{
+"id": "El Tovar Hotel",
+"lat": 36.05748,
+"lon": -112.13711
+},
+{
+"id": "San Francisco",
+"lat": 37.77493,
+"lon": -122.41942
+},
+{
+"id": "Omaha",
+"lat": 41.25626,
+"lon": -95.94043
+},
+{
+"id": "Niagara Falls",
+"lat": 43.0945,
+"lon": -79.05671
 }
 
       ]
@@ -293,7 +408,7 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 210},
+"weight": 223},
 {
 "from": "Wien",
 "to": "Miskolc",
@@ -359,7 +474,11 @@
 {
 "from": "Unterach am Attersee",
 "to": "Wien",
-"weight": 5}
+"weight": 7},
+{
+"from": "Unterach am Attersee",
+"to": "Tutzing",
+"weight": 1}
 ,
 {
 "from": "Bad Ischl",
@@ -428,7 +547,7 @@
 {
 "from": "Paris",
 "to": "Wien",
-"weight": 2}
+"weight": 3}
 ,
 {
 "from": "London",
@@ -438,6 +557,26 @@
 {
 "from": "Unterach",
 "to": "Ischl",
+"weight": 1},
+{
+"from": "Unterach",
+"to": "Wien",
+"weight": 7},
+{
+"from": "Unterach",
+"to": "Brioni",
+"weight": 1},
+{
+"from": "Unterach",
+"to": "Brijuni",
+"weight": 1},
+{
+"from": "Unterach",
+"to": "Alt-Aussee",
+"weight": 2},
+{
+"from": "Unterach",
+"to": "Berchtesgaden",
 "weight": 1}
 ,
 {
@@ -458,7 +597,7 @@
 {
 "from": "Berlin",
 "to": "Wien",
-"weight": 20},
+"weight": 23},
 {
 "from": "Berlin",
 "to": "Marienlyst",
@@ -571,7 +710,7 @@
 {
 "from": "Venedig",
 "to": "Wien",
-"weight": 1}
+"weight": 2}
 ,
 {
 "from": "Höhlenstein",
@@ -590,6 +729,111 @@
 ,
 {
 "from": "Axenstein",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Triest",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Dresden",
+"to": "Wien",
+"weight": 2}
+,
+{
+"from": "Cuxhaven",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Olmütz",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Hannover",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Hildesheim",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Rom",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Neapel",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Pompei",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Prievoz",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Assuan",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Jaffa",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Czernowitz",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Chemnitz",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Grundlsee (Gemeinde)",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Zürich",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Atlantischer Ozean",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "El Tovar Hotel",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "San Francisco",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Omaha",
+"to": "Wien",
+"weight": 1}
+,
+{
+"from": "Niagara Falls",
 "to": "Wien",
 "weight": 1}
 

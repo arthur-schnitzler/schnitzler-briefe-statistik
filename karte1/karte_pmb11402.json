@@ -18,6 +18,11 @@
 "id": "München",
 "lat": 48.13743,
 "lon": 11.57549
+},
+{
+"id": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
 }
 
       ]
@@ -28,6 +33,11 @@
 "data": [{
 "from": "Wien",
 "to": "München",
+"weight": 1}
+,
+{
+"from": "München",
+"to": "Berlin",
 "weight": 1}
 
 ]}
