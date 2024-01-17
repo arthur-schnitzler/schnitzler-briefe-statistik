@@ -1,0 +1,37 @@
+name: import input files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  transform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Java
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'adopt'
+        java-version: '11'
+    - name: Install Saxon, Ant and Fundament
+      run: |
+        apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
+        ./shellscripts/script.sh
+
+    - name: Run XSLT Transformation
+      run: |
+        mkdir -p inputs
+        java -cp path/to/saxon-he.jar net.sf.saxon.Transform -s:source.xml -xsl:xslts/01_asbwzusammenkopieren-tocs-statistik.xsl -o:inputs/
+
+    - name: Commit Changes
+      run: |
+        git config user.name "${{ github.actor }}"
+        git config user.email "${{ github.actor }}@users.noreply.github.com"
+        git add inputs
+        git commit -m "Run XSLT Transformation and store results"
+        git push
