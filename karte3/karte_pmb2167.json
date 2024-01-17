@@ -319,6 +319,10 @@
 "weight": 0},
 {
 "from": "Wien",
+"to": "Czernowitz",
+"weight": 0},
+{
+"from": "Wien",
 "to": "Dresden",
 "weight": 0}
 ,

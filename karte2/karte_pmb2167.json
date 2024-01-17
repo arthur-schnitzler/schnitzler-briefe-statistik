@@ -75,6 +75,11 @@
 "lon": 13.48728
 },
 {
+"id": "Czernowitz",
+"lat": 48.29149,
+"lon": 25.94034
+},
+{
 "id": "Dresden",
 "lat": 51.0833,
 "lon": 13.7666
@@ -88,7 +93,7 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 65},
+"weight": 64},
 {
 "from": "Wien",
 "to": "Miskolc",
@@ -137,6 +142,10 @@
 "from": "Wien",
 "to": "Unterach",
 "weight": 3},
+{
+"from": "Wien",
+"to": "Czernowitz",
+"weight": 1},
 {
 "from": "Wien",
 "to": "Dresden",

@@ -380,6 +380,11 @@
 "lon": 11.045222
 },
 {
+"id": "Taormina",
+"lat": 37.85358,
+"lon": 15.28851
+},
+{
 "id": "Kiel",
 "lat": 54.32133,
 "lon": 10.13489
@@ -520,7 +525,7 @@
 {
 "from": "Frankfurt am Main",
 "to": "Wien",
-"weight": 42},
+"weight": 43},
 {
 "from": "Frankfurt am Main",
 "to": "Paris",
@@ -669,7 +674,7 @@
 {
 "from": "Berlin",
 "to": "Wien",
-"weight": 147},
+"weight": 146},
 {
 "from": "Berlin",
 "to": "Altaussee?",
@@ -733,6 +738,10 @@
 {
 "from": "Berlin",
 "to": "Hinterbrühl",
+"weight": 1},
+{
+"from": "Berlin",
+"to": "Taormina?",
 "weight": 1},
 {
 "from": "Berlin",

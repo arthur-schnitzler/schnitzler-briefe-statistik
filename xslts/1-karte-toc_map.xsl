@@ -36,7 +36,7 @@
             <xsl:variable name="absenderort-ref" select="normalize-space(replace(., '#pmb', ''))"
                 as="xs:string"/>
             <xsl:variable name="absender-nachgeschlagen"
-                select="document(concat('https://pmb.acdh.oeaw.ac.at/apis/entities/tei/place/', $absenderort-ref))"
+                select="document(concat('https://pmb.acdh.oeaw.ac.at/apis/tei/place/', $absenderort-ref))"
                 as="node()"/>
             <xsl:variable name="absender-geo"
                 select="$absender-nachgeschlagen/descendant::*:location[@type = 'coords'][1]/*:geo[1]"/>
