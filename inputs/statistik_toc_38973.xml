@@ -51,12 +51,9 @@
                      <date evidence="conjecture" notBefore="1924-12-11" notAfter="1924-12-15">[11. 12. 1924 – 15. 12. 1924?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_38973">Lasker-Schüler,
-                  Else</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02422">Brandes an
-                  Schnitzler, 10. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02423">Schnitzler an
-                  Brandes, 14. 12. 1924</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_38973">Lasker-Schüler, Else</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02422">Brandes an Schnitzler, 10. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02423">Schnitzler an Brandes, 14. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_38973"
@@ -81,17 +78,13 @@
                   – 2. 5. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_38973">Lasker-Schüler,
-                  Else</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02439">Hofmannsthal
-                  an Schnitzler, 11. 3. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03045">Salten an
-                  Schnitzler, 30. 4. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_38973">Lasker-Schüler, Else</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02439">Hofmannsthal an Schnitzler, 11. 3. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03045">Salten an Schnitzler, 30. 4. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_38973"
-                          target="L02653">Lasker-Schüler an Schnitzler,
-                  10. 12. 1924</ref>
+                          target="L02653">Lasker-Schüler an Schnitzler, 10. 12. 1924</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>

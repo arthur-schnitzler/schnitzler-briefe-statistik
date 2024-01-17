@@ -52,12 +52,10 @@
                   – 7. 12. 1905?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03050">Salten an
-                  Schnitzler, [zwischen 1. und 20. 12.] 1905</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03001">Schnitzler an
-                  Salten, 20. 12. 1905</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03050">Salten an Schnitzler, [zwischen 1. und
+                  20. 12.] 1905</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03001">Schnitzler an Salten, 20. 12. 1905</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -80,17 +78,13 @@
                      <date evidence="conjecture" notBefore="1905-12-21" notAfter="1905-12-25">[21. 12. 1905 – 25. 12. 1905?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03001">Schnitzler an
-                  Salten, 20. 12. 1905</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01571">Hofmannsthal an
-                  Schnitzler, 2. 1. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03001">Schnitzler an Salten, 20. 12. 1905</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01571">Hofmannsthal an Schnitzler, 2. 1. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01569">Ehrenstein an Schnitzler,
-                  3. 12. 1905</ref>
+                          target="L01569">Ehrenstein an Schnitzler, 3. 12. 1905</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -115,17 +109,13 @@
                   – 19. 1. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01571">Hofmannsthal
-                  an Schnitzler, 2. 1. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01573">Schnitzler an
-                  Hauptmann, [17. 1. 1906]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01571">Hofmannsthal an Schnitzler, 2. 1. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01573">Schnitzler an Hauptmann, [17. 1. 1906]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01570">Ehrenstein an Schnitzler,
-                  21. 12. 1905</ref>
+                          target="L01570">Ehrenstein an Schnitzler, 21. 12. 1905</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -150,17 +140,13 @@
                   – 22. 1. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01573">Schnitzler an
-                  Hauptmann, [17. 1. 1906]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01575">Treibl an
-                  Schnitzler, [22.? 1. 1906]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01573">Schnitzler an Hauptmann, [17. 1. 1906]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01575">Treibl an Schnitzler, [22.? 1. 1906]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01572">Treibl an Schnitzler,
-                  15 1. 1906</ref>
+                          target="L01572">Treibl an Schnitzler, 15 1. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -185,17 +171,13 @@
                   – 26. 1. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01574">Treibl an
-                  Schnitzler, 18. 1. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01576">Ehrenstein an
-                  Schnitzler, [22. 1.? 1906]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01574">Treibl an Schnitzler, 18. 1. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01576">Ehrenstein an Schnitzler, [22. 1.? 1906]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01574">Treibl an Schnitzler,
-                  18. 1. 1906</ref>
+                          target="L01574">Treibl an Schnitzler, 18. 1. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -220,17 +202,13 @@
                   – 26. 1. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01575">Treibl an
-                  Schnitzler, [22.? 1. 1906]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01577">Bahr an
-                  Schnitzler, 29. 1. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01575">Treibl an Schnitzler, [22.? 1. 1906]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01577">Bahr an Schnitzler, 29. 1. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01575">Treibl an Schnitzler,
-                  [22.? 1. 1906]</ref>
+                          target="L01575">Treibl an Schnitzler, [22.? 1. 1906]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -254,17 +232,13 @@
                   – 2. 2. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01578">Schnitzler an
-                  Bahr, 29. 1. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03413">Salten an
-                  Schnitzler, 29. 1. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01578">Schnitzler an Bahr, 29. 1. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03413">Salten an Schnitzler, 29. 1. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01576">Ehrenstein an Schnitzler,
-                  [22. 1.? 1906]</ref>
+                          target="L01576">Ehrenstein an Schnitzler, [22. 1.? 1906]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -290,17 +264,13 @@
                   – 19. 2. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03239">Goldmann an
-                  Schnitzler, 7. 2. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01585">Andreas-Salomé an
-                  Schnitzler, 19. 2. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03239">Goldmann an Schnitzler, 7. 2. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01585">Andreas-Salomé an Schnitzler, 19. 2. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01579">Schnitzler an Ehrenstein,
-                  29. 1. 1906</ref>
+                          target="L01579">Schnitzler an Ehrenstein, 29. 1. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -325,17 +295,13 @@
                   – 20. 3. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01590">Schnitzler an
-                  Brandes, 13. 3. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03241">Goldmann an
-                  Schnitzler, 22. 3. [1906]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01590">Schnitzler an Brandes, 13. 3. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03241">Goldmann an Schnitzler, 22. 3. [1906]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01584">Ehrenstein an Schnitzler, [Mitte
-                  Februar 1906?]</ref>
+                          target="L01584">Ehrenstein an Schnitzler, [Mitte Februar 1906?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -361,17 +327,13 @@
                   – 24. 5. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03425">Salten an
-                  Schnitzler, 17. 5. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03006">Schnitzler an
-                  Salten, 26. 5. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03425">Salten an Schnitzler, 17. 5. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03006">Schnitzler an Salten, 26. 5. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01591">Ehrenstein an Schnitzler,
-                  [16. 3.? 1906]</ref>
+                          target="L01591">Ehrenstein an Schnitzler, [16. 3.? 1906]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -399,17 +361,13 @@
                      <date when="1906-06-06">6. 6. 1906</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03426">Salten,
-                  Salten, Fischer, Fischer, an Schnitzler, 4. 6. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03424">Salten an
-                  Schnitzler, 9. 6. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03424">Salten an Schnitzler, 9. 6. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01598">Schnitzler an Ehrenstein, [vor dem
-                  21. 5.? 1906]</ref>
+                          target="L01598">Schnitzler an Ehrenstein, [vor dem 21. 5.? 1906]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -433,17 +391,13 @@
                      <date evidence="conjecture" notBefore="1906-11-30" notAfter="1906-12-02">[30. 11. 1906 – 4. 12. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01639">Hofmannsthal
-                  an Schnitzler, 29. 11. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01641">Schnitzler an
-                  Ehrenstein, 30. 11. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01639">Hofmannsthal an Schnitzler, 29. 11. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01641">Schnitzler an Ehrenstein, 30. 11. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02796">Schnitzler an Ehrenstein,
-                  5. 6. 1906</ref>
+                          target="L02796">Schnitzler an Ehrenstein, 5. 6. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -466,17 +420,13 @@
                      <date evidence="conjecture" notBefore="1906-11-30" notAfter="1906-12-04">[30. 11. 1906 – 4. 12. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01640">Ehrenstein an
-                  Schnitzler, 30. 11. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01642">Schnitzler an
-                  Beer-Hofmann, 17. 12. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01640">Ehrenstein an Schnitzler, 30. 11. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01642">Schnitzler an Beer-Hofmann, 17. 12. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01640">Ehrenstein an Schnitzler,
-                  30. 11. 1906</ref>
+                          target="L01640">Ehrenstein an Schnitzler, 30. 11. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -500,17 +450,13 @@
                      <date when="1906-12-20">20. 12. 1906</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01643">Hauptmann an
-                  Schnitzler, 18. 12. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01645">Burckhard an
-                  Schnitzler, 2[2?]. 12. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01643">Hauptmann an Schnitzler, 18. 12. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01645">Burckhard an Schnitzler, 2[2?]. 12. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01641">Schnitzler an Ehrenstein,
-                  30. 11. 1906</ref>
+                          target="L01641">Schnitzler an Ehrenstein, 30. 11. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -535,17 +481,13 @@
                   – 20. 1. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03490">Salten an
-                  Schnitzler, 15. 1. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03460">Goldmann an
-                  Schnitzler, 16. 1. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03490">Salten an Schnitzler, 15. 1. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03460">Goldmann an Schnitzler, 16. 1. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01644">Schnitzler an Ehrenstein,
-                  19. 12. 1906</ref>
+                          target="L01644">Schnitzler an Ehrenstein, 19. 12. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -569,17 +511,13 @@
                   – 28. 1. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01755">Kraus an
-                  Schnitzler, 22. 1. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02599">Schnitzler an
-                  Herzfeld, 24. 1. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01755">Kraus an Schnitzler, 22. 1. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02599">Schnitzler an Herzfeld, 24. 1. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01751">Ehrenstein an Schnitzler,
-                  16. 1. 1908</ref>
+                          target="L01751">Ehrenstein an Schnitzler, 16. 1. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -603,17 +541,13 @@
                      <date evidence="conjecture" notBefore="1908-10-10" notAfter="1908-10-12">[10. 10. 1908 – 14. 10. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01791">Hofmannsthal
-                  an Schnitzler, 3. 10. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02585">Schnitzler an
-                  Hauschner, 12. 10. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01791">Hofmannsthal an Schnitzler, 3. 10. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02585">Schnitzler an Hauschner, 12. 10. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01757">Schnitzler an Ehrenstein,
-                  24. 1. 1908</ref>
+                          target="L01757">Schnitzler an Ehrenstein, 24. 1. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -637,17 +571,13 @@
                      <date evidence="conjecture" notBefore="1908-10-20" notAfter="1908-10-22">[20. 10. 1908 – 24. 10. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02585">Schnitzler an
-                  Hauschner, 12. 10. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01794">Schnitzler an
-                  Ehrenstein, 20. 10. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02585">Schnitzler an Hauschner, 12. 10. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01794">Schnitzler an Ehrenstein, 20. 10. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01792">Ehrenstein an Schnitzler,
-                  10. 10. 1908</ref>
+                          target="L01792">Ehrenstein an Schnitzler, 10. 10. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -671,17 +601,13 @@
                      <date evidence="conjecture" notBefore="1908-10-20" notAfter="1908-10-22">[20. 10. 1908 – 24. 10. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01793">Ehrenstein an
-                  Schnitzler, 20. 10. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01795">Schnitzler an
-                  Beer-Hofmann, [23. 10. 1908?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01793">Ehrenstein an Schnitzler, 20. 10. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01795">Schnitzler an Beer-Hofmann, [23. 10. 1908?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01793">Ehrenstein an Schnitzler,
-                  20. 10. 1908</ref>
+                          target="L01793">Ehrenstein an Schnitzler, 20. 10. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -706,18 +632,13 @@
                   – 13. 11. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01797">Schnitzler an
-                  Beer-Hofmann, 5. 11. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01799">Probst, Probst,
-                  Staehelin-Baechtold, Huber, Staehelin-Baechtold, Kesser, Bodmer, Bodmer, Bodman,
-                  Sartoris, Sartoris, Bodmer, Bahr an Schnitzler, 9. 11. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01797">Schnitzler an Beer-Hofmann, 5. 11. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01799">Probst, Probst, Staehelin-Baechtold, Huber, Staehelin-Baechtold, Kesser, Bodmer, Bodmer, Bodman, Sartoris, Sartoris, Bodmer, Bahr an Schnitzler, 9. 11. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01794">Schnitzler an Ehrenstein,
-                  20. 10. 1908</ref>
+                          target="L01794">Schnitzler an Ehrenstein, 20. 10. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -741,17 +662,13 @@
                   – 19. 1. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01821">Schnitzler an
-                  Hofmannsthal, [15. 1. 1909?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01823">Schnitzler an
-                  Bahr, 16. 1. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01821">Schnitzler an Hofmannsthal, [15. 1. 1909?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01823">Schnitzler an Bahr, 16. 1. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01798">Schnitzler an Ehrenstein,
-                  9. 11. 1908</ref>
+                          target="L01798">Schnitzler an Ehrenstein, 9. 11. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -776,17 +693,13 @@
                   – 24. 1. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01824">Bahr an
-                  Schnitzler, 18. 1. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02583">Schnitzler an
-                  Hauschner, 23. 1. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01824">Bahr an Schnitzler, 18. 1. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02583">Schnitzler an Hauschner, 23. 1. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01822">Ehrenstein an Schnitzler,
-                  15. 1. 1909</ref>
+                          target="L01822">Ehrenstein an Schnitzler, 15. 1. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -811,17 +724,13 @@
                   – 28. 1. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02583">Schnitzler an
-                  Hauschner, 23. 1. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01827">Schnitzler an
-                  Beer-Hofmann, 26. 1. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02583">Schnitzler an Hauschner, 23. 1. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01827">Schnitzler an Beer-Hofmann, 26. 1. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01825">Schnitzler an Ehrenstein,
-                  20. 1. 1909</ref>
+                          target="L01825">Schnitzler an Ehrenstein, 20. 1. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -846,17 +755,13 @@
                   – 31. 1. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01827">Schnitzler an
-                  Beer-Hofmann, 26. 1. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02588">Hauschner an
-                  Schnitzler, 2. 2. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01827">Schnitzler an Beer-Hofmann, 26. 1. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02588">Hauschner an Schnitzler, 2. 2. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01826">Ehrenstein an Schnitzler,
-                  24. 1. 1909</ref>
+                          target="L01826">Ehrenstein an Schnitzler, 24. 1. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -881,17 +786,13 @@
                   – 31. 3. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01834">Schnitzler an
-                  Hofmannsthal, 25. 3. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01836">Schnitzler an
-                  Ehrenstein, 29. 3. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01834">Schnitzler an Hofmannsthal, 25. 3. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01836">Schnitzler an Ehrenstein, 29. 3. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01828">Schnitzler an Ehrenstein,
-                  26. 1. 1909</ref>
+                          target="L01828">Schnitzler an Ehrenstein, 26. 1. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -915,17 +816,13 @@
                   – 2. 4. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01835">Ehrenstein an
-                  Schnitzler, 27. 3. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01837">Hofmannsthal an
-                  Schnitzler, 1. 4. [1909]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01835">Ehrenstein an Schnitzler, 27. 3. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01837">Hofmannsthal an Schnitzler, 1. 4. [1909]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01835">Ehrenstein an Schnitzler,
-                  27. 3. 1909</ref>
+                          target="L01835">Ehrenstein an Schnitzler, 27. 3. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -950,17 +847,13 @@
                   – 10. 5. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03468">Goldmann an
-                  Schnitzler, 26. 4. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01841">Schnitzler an
-                  Ehrenstein, 7. 5. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03468">Goldmann an Schnitzler, 26. 4. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01841">Schnitzler an Ehrenstein, 7. 5. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01836">Schnitzler an Ehrenstein,
-                  29. 3. 1909</ref>
+                          target="L01836">Schnitzler an Ehrenstein, 29. 3. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -984,17 +877,13 @@
                   – 11. 5. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01840">Ehrenstein an
-                  Schnitzler, 6. 5. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01842">Bahr an
-                  Schnitzler, 10. 5. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01840">Ehrenstein an Schnitzler, 6. 5. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01842">Bahr an Schnitzler, 10. 5. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01840">Ehrenstein an Schnitzler,
-                  6. 5. 1909</ref>
+                          target="L01840">Ehrenstein an Schnitzler, 6. 5. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1022,17 +911,13 @@
                   – 7. 7. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03501">Salten an
-                  Schnitzler, 29. 6. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01853">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 6. 7. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03501">Salten an Schnitzler, 29. 6. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01853">Schnitzler, Schnitzler an Beer-Hofmann, 6. 7. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01841">Schnitzler an Ehrenstein,
-                  7. 5. 1909</ref>
+                          target="L01841">Schnitzler an Ehrenstein, 7. 5. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1056,17 +941,13 @@
                   – 11. 7. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01853">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 6. 7. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01855">Beer-Hofmann an
-                  Schnitzler, 12. 7. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01853">Schnitzler, Schnitzler an Beer-Hofmann, 6. 7. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01855">Beer-Hofmann an Schnitzler, 12. 7. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01852">Ehrenstein an Schnitzler,
-                  1. 7. 1909</ref>
+                          target="L01852">Ehrenstein an Schnitzler, 1. 7. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1091,17 +972,13 @@
                   – 24. 7. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03502">Salten an
-                  Schnitzler, 12. 7. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01858">Schnitzler an
-                  Beer-Hofmann, 18. 7. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03502">Salten an Schnitzler, 12. 7. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01858">Schnitzler an Beer-Hofmann, 18. 7. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01854">Schnitzler an Ehrenstein,
-                  7. 7. 1909</ref>
+                          target="L01854">Schnitzler an Ehrenstein, 7. 7. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1125,18 +1002,14 @@
                   – 28. 7. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03504">Salten,
-                  Salten, Wassermann, Fischer, Fischer an Schnitzler, [zwischen 19. und
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler, [zwischen 19. und
                   30. 7.? 1909]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01860">Schnitzler an
-                  Liliencron, 24. 7. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01860">Schnitzler an Liliencron, 24. 7. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01857">Ehrenstein an Schnitzler,
-                  13. 7. 1909</ref>
+                          target="L01857">Ehrenstein an Schnitzler, 13. 7. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1164,17 +1037,13 @@
                      <date evidence="conjecture" when="1909-09-02">[2. 9. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03506">Salten an
-                  Schnitzler, 23. 8. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01868">Bahr,
-                  Bahr-Mildenburg an Schnitzler, 25. 8. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03506">Salten an Schnitzler, 23. 8. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01868">Bahr, Bahr-Mildenburg an Schnitzler, 25. 8. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01859">Schnitzler an Ehrenstein,
-                  24. 7. 1909</ref>
+                          target="L01859">Schnitzler an Ehrenstein, 24. 7. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1198,17 +1067,13 @@
                      <date evidence="conjecture" notBefore="1909-10-17" notAfter="1909-10-19">[17. 10. 1909 – 21. 10. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01879">Burckhard an
-                  Schnitzler, 14. 10. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01881">Schnitzler an
-                  Beer-Hofmann, 27. 10. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01879">Burckhard an Schnitzler, 14. 10. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01881">Schnitzler an Beer-Hofmann, 27. 10. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01867">Ehrenstein an Schnitzler,
-                  24. 8. 1909</ref>
+                          target="L01867">Ehrenstein an Schnitzler, 24. 8. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1233,17 +1098,13 @@
                   – 10. 11. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01883">Schnitzler an
-                  Beer-Hofmann, [6. 11. 1909?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01885">Hofmannsthal an
-                  Schnitzler, 7. 11. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01883">Schnitzler an Beer-Hofmann, [6. 11. 1909?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01885">Hofmannsthal an Schnitzler, 7. 11. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01880">Ehrenstein an Schnitzler,
-                  17. 10. 1909</ref>
+                          target="L01880">Ehrenstein an Schnitzler, 17. 10. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1267,17 +1128,13 @@
                      <date evidence="conjecture" notBefore="1909-11-22" notAfter="1909-11-24">[22. 11. 1909 – 26. 11. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01886">Hofmannsthal
-                  an Schnitzler, 9. 11. [1909]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01888">Schnitzler an
-                  Ehrenstein, 23. 11. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01886">Hofmannsthal an Schnitzler, 9. 11. [1909]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01888">Schnitzler an Ehrenstein, 23. 11. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01884">Ehrenstein an Schnitzler,
-                  06. 11. 1909</ref>
+                          target="L01884">Ehrenstein an Schnitzler, 06. 11. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1300,17 +1157,13 @@
                      <date evidence="conjecture" notBefore="1909-11-23" notAfter="1909-11-27">[23. 11. 1909 – 27. 11. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01887">Ehrenstein an
-                  Schnitzler, 22. 11. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01889">Ehrenstein an
-                  Schnitzler, 25. 11. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01887">Ehrenstein an Schnitzler, 22. 11. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01889">Ehrenstein an Schnitzler, 25. 11. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01887">Ehrenstein an Schnitzler,
-                  22. 11. 1909</ref>
+                          target="L01887">Ehrenstein an Schnitzler, 22. 11. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1334,17 +1187,13 @@
                      <date evidence="conjecture" notBefore="1909-11-25" notAfter="1909-11-27">[25. 11. 1909 – 29. 11. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01888">Schnitzler an
-                  Ehrenstein, 23. 11. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01890">Beer-Hofmann an
-                  Schnitzler, 30. 11. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01888">Schnitzler an Ehrenstein, 23. 11. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01890">Beer-Hofmann an Schnitzler, 30. 11. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01888">Schnitzler an Ehrenstein,
-                  23. 11. 1909</ref>
+                          target="L01888">Schnitzler an Ehrenstein, 23. 11. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1369,17 +1218,13 @@
                   – 14. 2. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02553">Schnitzler an
-                  Beer-Hofmann, 23. 1. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01913">Schnitzler an
-                  Ehrenstein, 12. 2. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03544">Salten an Schnitzler, 29. 1. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01913">Schnitzler an Ehrenstein, 12. 2. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01889">Ehrenstein an Schnitzler,
-                  25. 11. 1909</ref>
+                          target="L01889">Ehrenstein an Schnitzler, 25. 11. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1403,17 +1248,13 @@
                   – 16. 2. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01912">Ehrenstein an
-                  Schnitzler, 10. 2. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01914">Schnitzler an
-                  Hofmannsthal, 21. 2. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01912">Ehrenstein an Schnitzler, 10. 2. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01914">Schnitzler an Hofmannsthal, 21. 2. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01912">Ehrenstein an Schnitzler,
-                  10. 2. 1910</ref>
+                          target="L01912">Ehrenstein an Schnitzler, 10. 2. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1438,17 +1279,13 @@
                   – 17. 7. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01945">Schnitzler an
-                  Beer-Hofmann, 12. 7. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01947">Hofmannsthal an
-                  Schnitzler, 13. 7. [1910]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01945">Schnitzler an Beer-Hofmann, 12. 7. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01947">Hofmannsthal an Schnitzler, 13. 7. [1910]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01913">Schnitzler an Ehrenstein,
-                  12. 2. 1910</ref>
+                          target="L01913">Schnitzler an Ehrenstein, 12. 2. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1473,17 +1310,13 @@
                   – 23. 7. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01947">Hofmannsthal
-                  an Schnitzler, 13. 7. [1910]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01949">Beer-Hofmann an
-                  Schnitzler, 20. 7. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01947">Hofmannsthal an Schnitzler, 13. 7. [1910]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01949">Beer-Hofmann an Schnitzler, 20. 7. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01946">Ehrenstein an Schnitzler,
-                  12. 7. 1910</ref>
+                          target="L01946">Ehrenstein an Schnitzler, 12. 7. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1507,17 +1340,13 @@
                   – 13. 10. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01964">Schnitzler an
-                  Beer-Hofmann, 9. 10. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01966">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 18. 10. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01964">Schnitzler an Beer-Hofmann, 9. 10. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03552">Salten an Schnitzler, 14. 10. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01948">Ehrenstein an Schnitzler,
-                  18. 7. 1910</ref>
+                          target="L01948">Ehrenstein an Schnitzler, 18. 7. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1541,17 +1370,13 @@
                      <date evidence="conjecture" notBefore="1910-12-25" notAfter="1910-12-27">[25. 12. 1910 – 29. 12. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01993">Schnitzler an
-                  Beer-Hofmann, 22. 12. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03471">Goldmann an
-                  Schnitzler, 26. 12. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01993">Schnitzler an Beer-Hofmann, 22. 12. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03471">Goldmann an Schnitzler, 26. 12. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01965">Schnitzler an Ehrenstein,
-                  9. 10. 1910</ref>
+                          target="L01965">Schnitzler an Ehrenstein, 9. 10. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1575,17 +1400,13 @@
                      <date evidence="conjecture" notBefore="1910-12-31" notAfter="1911-01-02">[31. 12. 1910 – 4. 1. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03472">Goldmann an
-                  Schnitzler, 30. 12. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03473">Goldmann an
-                  Schnitzler, 31. 12. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03472">Goldmann an Schnitzler, 30. 12. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03473">Goldmann an Schnitzler, 31. 12. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01994">Schnitzler an Ehrenstein,
-                  25. 12. 1910</ref>
+                          target="L01994">Schnitzler an Ehrenstein, 25. 12. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1610,17 +1431,13 @@
                   – 4. 2. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02000">Schnitzler an
-                  Brandes, 19. 1. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03521">Schnitzler an
-                  Goldmann, 1. 2. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02000">Schnitzler an Brandes, 19. 1. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03521">Schnitzler an Goldmann, 1. 2. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L01997">Ehrenstein an Schnitzler,
-                  31. 12. 1910</ref>
+                          target="L01997">Ehrenstein an Schnitzler, 31. 12. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1645,17 +1462,13 @@
                   – 13. 2. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02007">Schnitzler an
-                  Großmann, 8. 2. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02009">Adam an
-                  Schnitzler, 9. 2. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02007">Schnitzler an Großmann, 8. 2. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02009">Adam an Schnitzler, 9. 2. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02001">Schnitzler an Ehrenstein,
-                  31. 1. 1911</ref>
+                          target="L02001">Schnitzler an Ehrenstein, 31. 1. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1680,17 +1493,13 @@
                   – 1. 5. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02016">Brandes an
-                  Schnitzler, 11. 4. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02018">Schnitzler an
-                  Brandes, 29. 4. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02016">Brandes an Schnitzler, 11. 4. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02018">Schnitzler an Brandes, 29. 4. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02008">Schnitzler an Ehrenstein,
-                  9. 2. 1911</ref>
+                          target="L02008">Schnitzler an Ehrenstein, 9. 2. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1715,17 +1524,13 @@
                   – 10. 5. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02018">Schnitzler an
-                  Brandes, 29. 4. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02020">Ehrenstein an
-                  Schnitzler, 17. 5. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02018">Schnitzler an Brandes, 29. 4. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02020">Ehrenstein an Schnitzler, 17. 5. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02017">Ehrenstein an Schnitzler,
-                  27. 4. 1911</ref>
+                          target="L02017">Ehrenstein an Schnitzler, 27. 4. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
@@ -1749,21 +1554,18 @@
                   – 21. 5. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02019">Schnitzler an
-                  Ehrenstein, 6. 5. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02021">Hofmannsthal an
-                  Schnitzler, 2. 6. [1911]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02019">Schnitzler an Ehrenstein, 6. 5. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02021">Hofmannsthal an Schnitzler, 2. 6. [1911]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02019">Schnitzler an Ehrenstein,
-                  6. 5. 1911</ref>
+                          target="L02019">Schnitzler an Ehrenstein, 6. 5. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02068">Schnitzler an Ehrenstein, [nach dem 15.] 5. 1912</ref>
+                          target="L02068">Schnitzler an Ehrenstein, [nach dem
+                  15.] 5. 1912</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="visitenkarte"/>
@@ -1782,17 +1584,13 @@
                      <persName ref="#pmb11230">Ehrenstein, Albert</persName>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein,
-                  Albert</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02067">Bahr an
-                  Schnitzler, 15. 5. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02069">Beer-Hofmann an
-                  Schnitzler, 23. 5. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11230">Ehrenstein, Albert</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02067">Bahr an Schnitzler, 15. 5. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02069">Beer-Hofmann an Schnitzler, 23. 5. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11230"
-                          target="L02020">Ehrenstein an Schnitzler,
-                  17. 5. 1911</ref>
+                          target="L02020">Ehrenstein an Schnitzler, 17. 5. 1911</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="briefkarte"/>

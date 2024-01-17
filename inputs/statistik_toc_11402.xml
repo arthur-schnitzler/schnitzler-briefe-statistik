@@ -52,16 +52,43 @@
                   – 9. 2. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11402">Ganghofer,
-                  Ludwig</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00883">Hofmannsthal
-                  an Schnitzler, 2. 2. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00885">Schnitzler an
-                  Beer-Hofmann, 7. 2. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11402">Ganghofer, Ludwig</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00883">Hofmannsthal an Schnitzler, 2. 2. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00885">Schnitzler an Beer-Hofmann, 7. 2. 1899</ref>
+                     <ref subtype="next_letter"
+                          type="withinCorrespondence"
+                          source="correspondence_11402"
+                          target="L03543">Ganghofer an Schnitzler, 30. 4. [1899]</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>
                <measure unit="zeichenanzahl" quantity="942"/>
+            </item>
+            <item corresp="L03543">
+               <title level="a">Ludwig Ganghofer an Arthur Schnitzler, 30. 4. [1899]</title>
+               <correspDesc>
+                  <correspAction type="sent">
+                     <persName ref="#pmb11402">Ganghofer, Ludwig</persName>
+                     <placeName ref="#pmb45258">München</placeName>
+                     <date when="1899-04-30" n="01">30. 4. [1899]</date>
+                  </correspAction>
+                  <correspAction type="received">
+                     <persName ref="#pmb2121">Schnitzler, Arthur</persName>
+                     <placeName ref="#pmb168">Berlin</placeName>
+                     <date when="1899-04-30">30. 4. [1899]</date>
+                  </correspAction>
+                  <correspContext>
+                     <ref type="belongsToCorrespondence" target="correspondence_11402">Ganghofer, Ludwig</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02873">Goldmann an Schnitzler, 29. 4. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03289">Salten an Schnitzler, 30. 4. 1899</ref>
+                     <ref subtype="previous_letter"
+                          type="withinCorrespondence"
+                          source="correspondence_11402"
+                          target="L00884">Schnitzler an Ganghofer, 4. 2. 1899</ref>
+                  </correspContext>
+               </correspDesc>
+               <objectType corresp="telegramm"/>
+               <measure unit="zeichenanzahl" quantity="373"/>
             </item>
          </list>
       </body>

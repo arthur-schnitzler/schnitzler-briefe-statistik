@@ -53,10 +53,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02283">Schnitzler an
-                  Beer-Hofmann, 12. 4. 1918</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02285">Braun an
-                  Schnitzler, 21. 4. 1918</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02283">Schnitzler an Beer-Hofmann, 12. 4. 1918</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02285">Braun an Schnitzler, 21. 4. 1918</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -82,15 +80,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02284">Schnitzler an
-                  Braun, 19. 4. 1918</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02286">Schnitzler an
-                  Adam, 11. 6. 1918</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02284">Schnitzler an Braun, 19. 4. 1918</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02286">Schnitzler an Adam, 11. 6. 1918</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02284">Schnitzler an Braun,
-                  19. 4. 1918</ref>
+                          target="L02284">Schnitzler an Braun, 19. 4. 1918</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -116,15 +111,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02380">Adam an
-                  Schnitzler, 13. 5. 1922</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02382">Schnitzler an
-                  Beer-Hofmann, 15. 5. 1921</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02380">Adam an Schnitzler, 13. 5. 1922</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02382">Schnitzler an Beer-Hofmann, 15. 5. 1921</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02285">Braun an Schnitzler,
-                  21. 4. 1918</ref>
+                          target="L02285">Braun an Schnitzler, 21. 4. 1918</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -150,15 +142,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02410">Schnitzler an
-                  Beer-Hofmann, 27. 2. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02412">Hofmannsthal,
-                  Hofmannsthal, Hofmannsthal an Schnitzler, 8. 5. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03583">Salten an Schnitzler, 26. 3. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02412">Hofmannsthal, Hofmannsthal, Hofmannsthal an Schnitzler, 8. 5. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02381">Braun an Schnitzler,
-                  13. 5. 1922</ref>
+                          target="L02381">Braun an Schnitzler, 13. 5. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -184,15 +173,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02414">Schnitzler an
-                  Beer-Hofmann, 18. 8. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02416">Schnitzler an
-                  Braun, 19. 10. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02414">Schnitzler an Beer-Hofmann, 18. 8. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02416">Schnitzler an Braun, 19. 10. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02411">Braun an Schnitzler,
-                  27. 3. 1924</ref>
+                          target="L02411">Braun an Schnitzler, 27. 3. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -217,15 +203,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02415">Braun an
-                  Schnitzler, 2. 10. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02417">Mann an
-                  Schnitzler, 22. 10. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02415">Braun an Schnitzler, 2. 10. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02417">Mann an Schnitzler, 22. 10. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02415">Braun an Schnitzler,
-                  2. 10. 1924</ref>
+                          target="L02415">Braun an Schnitzler, 2. 10. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -250,15 +233,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02420">Schnitzler an
-                  Mann, 6. 11. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02422">Brandes an
-                  Schnitzler, 10. 12. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02420">Schnitzler an Mann, 6. 11. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02422">Brandes an Schnitzler, 10. 12. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02416">Schnitzler an Braun,
-                  19. 10. 1924</ref>
+                          target="L02416">Schnitzler an Braun, 19. 10. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -283,15 +263,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02424">Schnitzler an
-                  Hofmannsthal, 23. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02426">Schnitzler an
-                  Braun, 28. 12. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02424">Schnitzler an Hofmannsthal, 23. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02426">Schnitzler an Braun, 28. 12. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02421">Braun an Schnitzler,
-                  9. 12. 1924</ref>
+                          target="L02421">Braun an Schnitzler, 9. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -316,15 +293,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02425">Braun an
-                  Schnitzler, 26. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02427">Hofmannsthal an
-                  Schnitzler, 28. 12. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02425">Braun an Schnitzler, 26. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02427">Hofmannsthal an Schnitzler, 28. 12. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02425">Braun an Schnitzler,
-                  26. 12. 1924</ref>
+                          target="L02425">Braun an Schnitzler, 26. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -349,15 +323,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02427">Hofmannsthal
-                  an Schnitzler, 28. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02429">Schnitzler an
-                  Mann, 5. 1. 1925</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02427">Hofmannsthal an Schnitzler, 28. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02429">Schnitzler an Mann, 5. 1. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02426">Schnitzler an Braun,
-                  28. 12. 1924</ref>
+                          target="L02426">Schnitzler an Braun, 28. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -382,15 +353,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02457">Hofmannsthal
-                  an Schnitzler, 10. 12. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02459">Schnitzler an
-                  Großmann, 24. 12. 1925</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02457">Hofmannsthal an Schnitzler, 10. 12. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02459">Schnitzler an Großmann, 24. 12. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02428">Braun an Schnitzler,
-                  31. 12. 1924</ref>
+                          target="L02428">Braun an Schnitzler, 31. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -415,15 +383,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02459">Schnitzler an
-                  Großmann, 24. 12. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02461">Schnitzler an
-                  Hofmannsthal, 26. 12. 1925</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02459">Schnitzler an Großmann, 24. 12. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02461">Schnitzler an Hofmannsthal, 26. 12. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02458">Braun an Schnitzler,
-                  14. 12. 1925</ref>
+                          target="L02458">Braun an Schnitzler, 14. 12. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -449,15 +414,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02467">Schnitzler an
-                  Hofmannsthal, 11. 3. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02469">Schnitzler an
-                  Braun, [nach dem 15. 3. 1926?]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02467">Schnitzler an Hofmannsthal, 11. 3. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02469">Schnitzler an Braun, [nach dem 15. 3. 1926?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02460">Schnitzler an Braun,
-                  26. 12. 1925</ref>
+                          target="L02460">Schnitzler an Braun, 26. 12. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -483,15 +445,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02468">Braun an
-                  Schnitzler, 15. 3. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02470">Brandes an
-                  Schnitzler, 21. 4. 1926</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02468">Braun an Schnitzler, 15. 3. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02470">Brandes an Schnitzler, 21. 4. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02468">Braun an Schnitzler,
-                  15. 3. 1926</ref>
+                          target="L02468">Braun an Schnitzler, 15. 3. 1926</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -517,15 +476,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02485">Adam an
-                  Schnitzler, 1. 5. 1927</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02487">Schnitzler an
-                  Braun, 28. 5. 1927</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02485">Adam an Schnitzler, 1. 5. 1927</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02487">Schnitzler an Braun, 28. 5. 1927</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02469">Schnitzler an Braun, [nach dem
-                  15. 3. 1926?]</ref>
+                          target="L02469">Schnitzler an Braun, [nach dem 15. 3. 1926?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -551,15 +507,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02486">Braun an
-                  Schnitzler, 10. 5. 1927</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02488">Beer-Hofmann an
-                  Schnitzler, 8. 6. 1927</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02486">Braun an Schnitzler, 10. 5. 1927</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02488">Beer-Hofmann an Schnitzler, 8. 6. 1927</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02486">Braun an Schnitzler,
-                  10. 5. 1927</ref>
+                          target="L02486">Braun an Schnitzler, 10. 5. 1927</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
@@ -584,15 +537,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11002">Braun, Felix</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03515">Goldmann an
-                  Schnitzler, 23. 12. 1927</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02495">Mann an
-                  Schnitzler, 25. 12. 1927</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03515">Goldmann an Schnitzler, 23. 12. 1927</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02495">Mann an Schnitzler, 25. 12. 1927</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11002"
-                          target="L02487">Schnitzler an Braun,
-                  28. 5. 1927</ref>
+                          target="L02487">Schnitzler an Braun, 28. 5. 1927</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>

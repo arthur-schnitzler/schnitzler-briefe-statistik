@@ -52,12 +52,9 @@
                   – 20. 9. 1898?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00846">Bahr an
-                  Schnitzler, 16. 9. [1898]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00848">Schnitzler an
-                  Brandes, 22. 9. 1898</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00846">Bahr an Schnitzler, 16. 9. [1898]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00848">Schnitzler an Brandes, 22. 9. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -82,17 +79,13 @@
                   – 3. 9. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02928">Goldmann an
-                  Schnitzler, 28. 8. [1900]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02929">Goldmann an
-                  Schnitzler, 2. 9. 1900</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02928">Goldmann an Schnitzler, 28. 8. [1900]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02929">Goldmann an Schnitzler, 2. 9. 1900</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L00847">Großmann an Schnitzler,
-                  16. 9. 1898</ref>
+                          target="L00847">Großmann an Schnitzler, 16. 9. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -117,17 +110,13 @@
                   – 8. 5. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03422">Salten an
-                  Schnitzler, 1. 5. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01596">Hofmannsthal an
-                  Schnitzler, 7. 5. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03422">Salten an Schnitzler, 1. 5. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01596">Hofmannsthal an Schnitzler, 7. 5. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01069">Großmann an Schnitzler,
-                  30. 8. 1900</ref>
+                          target="L01069">Großmann an Schnitzler, 30. 8. 1900</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -152,17 +141,13 @@
                   – 1. 10. 1907?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01710">Beer-Hofmann
-                  an Schnitzler, [27. 9. 1907]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01712">Schnitzler an
-                  Großmann, 28. 9. 1907</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01710">Beer-Hofmann an Schnitzler, [27. 9. 1907]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01712">Schnitzler an Großmann, 28. 9. 1907</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01595">Großmann an Schnitzler,
-                  4. 5. 1906</ref>
+                          target="L01595">Großmann an Schnitzler, 4. 5. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -187,17 +172,13 @@
                   – 2. 10. 1907?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01711">Großmann an
-                  Schnitzler, 27. 9. 1907</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01713">Bahr an
-                  Schnitzler, 29. 9. 1907</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01711">Großmann an Schnitzler, 27. 9. 1907</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01713">Bahr an Schnitzler, 29. 9. 1907</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01711">Großmann an Schnitzler,
-                  27. 9. 1907</ref>
+                          target="L01711">Großmann an Schnitzler, 27. 9. 1907</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -222,17 +203,13 @@
                   – 3. 10. 1907?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01713">Bahr an
-                  Schnitzler, 29. 9. 1907</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03512">Salten an
-                  Schnitzler, 1. 10. 1907</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01713">Bahr an Schnitzler, 29. 9. 1907</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03512">Salten an Schnitzler, 1. 10. 1907</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01712">Schnitzler an Großmann,
-                  28. 9. 1907</ref>
+                          target="L01712">Schnitzler an Großmann, 28. 9. 1907</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -257,17 +234,13 @@
                   – 11. 10. 1907?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01716">Beer-Hofmann
-                  an Schnitzler, 7. 10. 1907</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01718">Schnitzler an
-                  Großmann, 9. 10. 1907</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01716">Beer-Hofmann an Schnitzler, 7. 10. 1907</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01718">Schnitzler an Großmann, 9. 10. 1907</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01714">Großmann an Schnitzler,
-                  29. 9. 1907</ref>
+                          target="L01714">Großmann an Schnitzler, 29. 9. 1907</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -292,17 +265,13 @@
                   – 13. 10. 1907?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01717">Großmann an
-                  Schnitzler, 7. 10. 1907</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01719">Schnitzler an
-                  Beer-Hofmann, 10. 10. 1907</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01717">Großmann an Schnitzler, 7. 10. 1907</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01719">Schnitzler an Beer-Hofmann, 10. 10. 1907</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01717">Großmann an Schnitzler,
-                  7. 10. 1907</ref>
+                          target="L01717">Großmann an Schnitzler, 7. 10. 1907</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -326,17 +295,13 @@
                      <date evidence="conjecture" notBefore="1907-10-12" notAfter="1907-10-14">[12. 10. 1907 – 16. 10. 1907?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01721">Schnitzler an
-                  Bahr, 11. 10. 1907</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03513">Salten an
-                  Schnitzler, 15. 10. 1907</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01721">Schnitzler an Bahr, 11. 10. 1907</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03513">Salten an Schnitzler, 15. 10. 1907</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01718">Schnitzler an Großmann,
-                  9. 10. 1907</ref>
+                          target="L01718">Schnitzler an Großmann, 9. 10. 1907</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -361,17 +326,13 @@
                   – 4. 4. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01919">Schnitzler an
-                  Beer-Hofmann, 20. 3. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01921">Großmann an
-                  Schnitzler, 2. 4. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01919">Schnitzler an Beer-Hofmann, 20. 3. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01921">Großmann an Schnitzler, 2. 4. 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01722">Großmann an Schnitzler,
-                  12. 10. 1907</ref>
+                          target="L01722">Großmann an Schnitzler, 12. 10. 1907</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -396,17 +357,13 @@
                   – 6. 4. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01920">Großmann an
-                  Schnitzler, 31. 3. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01922">Burckhard an
-                  Schnitzler, 8. 4. 1910</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01920">Großmann an Schnitzler, 31. 3. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03547">Salten an Schnitzler, [3. 4.?] 1910</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01920">Großmann an Schnitzler,
-                  31. 3. 1910</ref>
+                          target="L01920">Großmann an Schnitzler, 31. 3. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -431,17 +388,13 @@
                   – 11. 2. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02004">Schnitzler an
-                  Adam, 7. 2. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02006">Schnitzler an
-                  Großmann, [8. 2. 1911]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02004">Schnitzler an Adam, 7. 2. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02006">Schnitzler an Großmann, [8. 2. 1911]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L01921">Großmann an Schnitzler,
-                  2. 4. 1910</ref>
+                          target="L01921">Großmann an Schnitzler, 2. 4. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -466,17 +419,13 @@
                   – 12. 2. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02005">Großmann an
-                  Schnitzler, [7.] 2. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02007">Schnitzler an
-                  Großmann, 8. 2. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02005">Großmann an Schnitzler, [7.] 2. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02007">Schnitzler an Großmann, 8. 2. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02005">Großmann an Schnitzler,
-                  [7.] 2. 1911</ref>
+                          target="L02005">Großmann an Schnitzler, [7.] 2. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -501,17 +450,13 @@
                   – 12. 2. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02006">Schnitzler an
-                  Großmann, [8. 2. 1911]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02008">Schnitzler an
-                  Ehrenstein, 9. 2. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02006">Schnitzler an Großmann, [8. 2. 1911]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02008">Schnitzler an Ehrenstein, 9. 2. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02006">Schnitzler an Großmann,
-                  [8. 2. 1911]</ref>
+                          target="L02006">Schnitzler an Großmann, [8. 2. 1911]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -538,17 +483,13 @@
                   – 18. 3. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02012">Hofmannsthal
-                  an Schnitzler, [4. 3. 1911]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02014">Hofmannsthal an
-                  Schnitzler, 26. [3. 1911]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02012">Hofmannsthal an Schnitzler, [4. 3. 1911]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02014">Hofmannsthal an Schnitzler, 26. [3. 1911]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02007">Schnitzler an Großmann,
-                  8. 2. 1911</ref>
+                          target="L02007">Schnitzler an Großmann, 8. 2. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -573,17 +514,13 @@
                   – 10. 2. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02051">Brandes an
-                  Schnitzler, Schnitzler, 3. 2. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02569">Rie an Schnitzler,
-                  6. 2. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02051">Brandes an Schnitzler, Schnitzler, 3. 2. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02569">Rie an Schnitzler, 6. 2. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02013">Pernerstorfer, Großmann an
-                  Schnitzler, 14. 3. 1911</ref>
+                          target="L02013">Pernerstorfer, Großmann an Schnitzler, 14. 3. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -608,17 +545,13 @@
                   – 16. 2. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02053">Hofmannsthal
-                  an Schnitzler, [7. 2. 1912]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02574">Schnitzler an Rie,
-                  12. 2. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02053">Hofmannsthal an Schnitzler, [7. 2. 1912]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02574">Schnitzler an Rie, 12. 2. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02052">Großmann an Schnitzler,
-                  5. 2. 1912</ref>
+                          target="L02052">Großmann an Schnitzler, 5. 2. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -643,17 +576,13 @@
                   – 23. 2. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02056">Schnitzler an
-                  Beer-Hofmann, 14. 2. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02111">Blumenthal an
-                  Schnitzler, [nach dem 13. 3. 1912]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03556">Salten an Schnitzler, [18. 2. 1912]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02111">Blumenthal an Schnitzler, [nach dem 13. 3. 1912]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02054">Schnitzler an Großmann,
-                  12. 2. 1912</ref>
+                          target="L02054">Schnitzler an Großmann, 12. 2. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -677,17 +606,13 @@
                      <date evidence="conjecture" notBefore="1913-11-30" notAfter="1913-12-02">[30. 11. 1913 – 4. 12. 1913?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02157">Dehmel an
-                  Schnitzler, [18. 11. 1913?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02159">Schnitzler an
-                  Großmann, 2. 12. 1913</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02157">Dehmel an Schnitzler, [18. 11. 1913?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02159">Schnitzler an Großmann, 2. 12. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02057">Großmann an Schnitzler,
-                  19. 2. 1912</ref>
+                          target="L02057">Großmann an Schnitzler, 19. 2. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -712,17 +637,13 @@
                   – 6. 12. 1913?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02158">Großmann an
-                  Schnitzler, 30. 11. 1913</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02160">Großmann an
-                  Schnitzler, 5. 12. 1913</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02158">Großmann an Schnitzler, 30. 11. 1913</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02160">Großmann an Schnitzler, 5. 12. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02158">Großmann an Schnitzler,
-                  30. 11. 1913</ref>
+                          target="L02158">Großmann an Schnitzler, 30. 11. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -747,17 +668,13 @@
                   – 9. 12. 1913?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02159">Schnitzler an
-                  Großmann, 2. 12. 1913</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02161">Suttner an
-                  Schnitzler, 8. 12. 1913</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02159">Schnitzler an Großmann, 2. 12. 1913</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02161">Suttner an Schnitzler, 8. 12. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02159">Schnitzler an Großmann,
-                  2. 12. 1913</ref>
+                          target="L02159">Schnitzler an Großmann, 2. 12. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -782,17 +699,13 @@
                   – 15. 2. 1921?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02361">Bahr an
-                  Schnitzler, 9. 2. 1921</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02363">Schnitzler an
-                  Großmann, 17. 2. 1921</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02361">Bahr an Schnitzler, 9. 2. 1921</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02363">Schnitzler an Großmann, 17. 2. 1921</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02160">Großmann an Schnitzler,
-                  5. 12. 1913</ref>
+                          target="L02160">Großmann an Schnitzler, 5. 12. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -817,17 +730,13 @@
                   – 22. 2. 1921?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02362">Großmann an
-                  Schnitzler, 10. 2. 1921</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02364">Hofmannsthal an
-                  Schnitzler, [19. 3. 1921]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02362">Großmann an Schnitzler, 10. 2. 1921</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03569">Salten an Schnitzler, 18. 3. 1921</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02362">Großmann an Schnitzler,
-                  10. 2. 1921</ref>
+                          target="L02362">Großmann an Schnitzler, 10. 2. 1921</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -852,17 +761,13 @@
                   – 1. 5. 1922?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02377">Schnitzler an
-                  Hauptmann, 17. 3. 1922</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02379">Schnitzler an
-                  Beer-Hofmann, 4. 5. 1922</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03579">Salten an Schnitzler, 21. 4. 1922</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02379">Schnitzler an Beer-Hofmann, 4. 5. 1922</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02363">Schnitzler an Großmann,
-                  17. 2. 1921</ref>
+                          target="L02363">Schnitzler an Großmann, 17. 2. 1921</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -887,17 +792,13 @@
                   – 26. 9. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02448">Schnitzler an
-                  Beer-Hofmann, 16. 9. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02450">Schnitzler an
-                  Großmann, 24. 9. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02448">Schnitzler an Beer-Hofmann, 16. 9. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02450">Schnitzler an Großmann, 24. 9. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02378">Großmann an Schnitzler,
-                  26. 4. 1922</ref>
+                          target="L02378">Großmann an Schnitzler, 26. 4. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -922,21 +823,19 @@
                   – 29. 9. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02449">Großmann an
-                  Schnitzler, 21. 9. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02451">Großmann an
-                  Schnitzler, [nach dem 25. 9. 1925]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02449">Großmann an Schnitzler, 21. 9. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02451">Großmann an Schnitzler, [nach dem
+                  25. 9. 1925]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02449">Großmann an Schnitzler,
-                  21. 9. 1925</ref>
+                          target="L02449">Großmann an Schnitzler, 21. 9. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02451">Großmann an Schnitzler, [nach dem 25. 9. 1925]</ref>
+                          target="L02451">Großmann an Schnitzler, [nach dem
+                  25. 9. 1925]</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>
@@ -956,17 +855,13 @@
                      <placeName ref="#pmb50">Wien</placeName>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02450">Schnitzler an
-                  Großmann, 24. 9. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02452">Hofmannsthal an
-                  Schnitzler, 8. 10. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02450">Schnitzler an Großmann, 24. 9. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02452">Hofmannsthal an Schnitzler, 8. 10. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02450">Schnitzler an Großmann,
-                  24. 9. 1925</ref>
+                          target="L02450">Schnitzler an Großmann, 24. 9. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -990,12 +885,9 @@
                      <date evidence="conjecture" notBefore="1925-11-24" notAfter="1925-11-28">[24. 11. 1925 – 28. 11. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03480">Goldmann an
-                  Schnitzler, 20. 11. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02457">Hofmannsthal an
-                  Schnitzler, 10. 12. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03480">Goldmann an Schnitzler, 20. 11. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02457">Hofmannsthal an Schnitzler, 10. 12. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -1024,17 +916,13 @@
                      <date evidence="conjecture" notBefore="1925-12-25" notAfter="1925-12-29">[25. 12. 1925 – 29. 12. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02458">Braun an
-                  Schnitzler, 14. 12. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02460">Schnitzler an
-                  Braun, 26. 12. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02458">Braun an Schnitzler, 14. 12. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02460">Schnitzler an Braun, 26. 12. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02456">Großmann an Schnitzler,
-                  23. 11. 1925</ref>
+                          target="L02456">Großmann an Schnitzler, 23. 11. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -1059,17 +947,13 @@
                   – 7. 1. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02463">Rung an
-                  Schnitzler, 30. 12. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02465">Schnitzler an
-                  Brandes, 3. 1. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02463">Rung an Schnitzler, 30. 12. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02465">Schnitzler an Brandes, 3. 1. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02459">Schnitzler an Großmann,
-                  24. 12. 1925</ref>
+                          target="L02459">Schnitzler an Großmann, 24. 12. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -1094,17 +978,13 @@
                   – 30. 5. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02474">Mann, Mann an
-                  Schnitzler, 23. 5. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02476">Schnitzler an
-                  Großmann, 31. 5. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02474">Mann, Mann an Schnitzler, 23. 5. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02476">Schnitzler an Großmann, 31. 5. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02464">Großmann an Schnitzler,
-                  2. 1. 192[6?]</ref>
+                          target="L02464">Großmann an Schnitzler, 2. 1. 192[6?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -1129,17 +1009,13 @@
                   – 5. 6. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02475">Großmann an
-                  Schnitzler, 25. 5. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02477">Großmann an
-                  Schnitzler, 2. 6. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02475">Großmann an Schnitzler, 25. 5. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02477">Großmann an Schnitzler, 2. 6. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02475">Großmann an Schnitzler,
-                  25. 5. 1926</ref>
+                          target="L02475">Großmann an Schnitzler, 25. 5. 1926</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -1164,17 +1040,13 @@
                   – 7. 6. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02476">Schnitzler an
-                  Großmann, 31. 5. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02478">Brandes an
-                  Schnitzler, 28. 8. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02476">Schnitzler an Großmann, 31. 5. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02478">Brandes an Schnitzler, 28. 8. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02476">Schnitzler an Großmann,
-                  31. 5. 1926</ref>
+                          target="L02476">Schnitzler an Großmann, 31. 5. 1926</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
@@ -1199,17 +1071,14 @@
                   – 12. 11. 1927?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann,
-                  Stefan</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02491">Schnitzler an
-                  Beer-Hofmann, 31. 8. 1927</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02493">Schnitzler an
-                  Hofmannsthal, 16. 12. 1927</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11527">Grossmann, Stefan</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03580">Salten, Salten, Salten, Salten an Schnitzler, [November 1927 – Juni
+                  1928?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02493">Schnitzler an Hofmannsthal, 16. 12. 1927</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11527"
-                          target="L02477">Großmann an Schnitzler,
-                  2. 6. 1926</ref>
+                          target="L02477">Großmann an Schnitzler, 2. 6. 1926</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>

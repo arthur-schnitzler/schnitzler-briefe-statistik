@@ -52,10 +52,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00129">Schnitzler an
-                  Bahr, [29. 10.?] 1892</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02703">Goldmann an
-                  Schnitzler, 2. 11. [1892]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00129">Schnitzler an Bahr, [29. 10.?] 1892</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02703">Goldmann an Schnitzler, 2. 11. [1892]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -80,15 +78,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00136">Beer-Hofmann
-                  an Schnitzler, [1892–1894?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00138">Hofmannsthal an
-                  Schnitzler, [23. 11. 1892?]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00136">Beer-Hofmann an Schnitzler, [1892–1894?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00138">Hofmannsthal an Schnitzler, [23. 11. 1892?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00130">Kraus an Schnitzler,
-                  31. 10. 1892</ref>
+                          target="L00130">Kraus an Schnitzler, 31. 10. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -113,15 +108,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00149">Schnitzler an
-                  Beer-Hofmann, 29. 12. 1892</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00151">Fels an
-                  Schnitzler, [Ende 1892?]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00149">Schnitzler an Beer-Hofmann, 29. 12. 1892</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00151">Fels an Schnitzler, [Ende 1892?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00137">Kraus an Schnitzler,
-                  22. 11. 1892</ref>
+                          target="L00137">Kraus an Schnitzler, 22. 11. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -147,15 +139,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00155">Schnitzler an
-                  Hofmannsthal, 7. 1. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00157">Schnitzler an
-                  Beer-Hofmann, 11. 1. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00155">Schnitzler an Hofmannsthal, 7. 1. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00157">Schnitzler an Beer-Hofmann, 11. 1. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00150">Kraus an Schnitzler,
-                  31. 12. 1892</ref>
+                          target="L00150">Kraus an Schnitzler, 31. 12. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -181,15 +170,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00160">Fels an
-                  Schnitzler, [20. 1. 1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00162">Kafka an
-                  Schnitzler, 24. 1. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00160">Fels an Schnitzler, [20. 1. 1893]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00162">Kafka an Schnitzler, 24. 1. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00156">Kraus an Schnitzler,
-                  11. 1. 1893</ref>
+                          target="L00156">Kraus an Schnitzler, 11. 1. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -214,15 +200,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00163">Hofmannsthal
-                  an Schnitzler, 25. 1. [1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00165">Hofmannsthal an
-                  Schnitzler, [30.? 1. 1893]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00163">Hofmannsthal an Schnitzler, 25. 1. [1893]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00165">Hofmannsthal an Schnitzler, [30.? 1. 1893]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00161">Kraus an Schnitzler,
-                  22. 1. 1893</ref>
+                          target="L00161">Kraus an Schnitzler, 22. 1. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -248,15 +231,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02705">Goldmann an
-                  Schnitzler, 25. 2. [1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00184">Kraus an
-                  Schnitzler, 4. 3. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02705">Goldmann an Schnitzler, 25. 2. [1893]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00184">Kraus an Schnitzler, 4. 3. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00164">Kraus an Schnitzler,
-                  26. 1. 1893</ref>
+                          target="L00164">Kraus an Schnitzler, 26. 1. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -282,15 +262,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00183">Kraus an
-                  Schnitzler, 27. 2. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00185">Schnitzler an
-                  Beer-Hofmann, 5. 3. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00183">Kraus an Schnitzler, 27. 2. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00185">Schnitzler an Beer-Hofmann, 5. 3. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00183">Kraus an Schnitzler,
-                  27. 2. 1893</ref>
+                          target="L00183">Kraus an Schnitzler, 27. 2. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -316,15 +293,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00190">Schnitzler an
-                  Beer-Hofmann, 18. 3. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00192">Kraus an
-                  Schnitzler, 22. 3. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00190">Schnitzler an Beer-Hofmann, 18. 3. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00192">Kraus an Schnitzler, 22. 3. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00184">Kraus an Schnitzler,
-                  4. 3. 1893</ref>
+                          target="L00184">Kraus an Schnitzler, 4. 3. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -350,15 +324,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00191">Kraus an
-                  Schnitzler, 19. 3. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00193">Widmann an
-                  Schnitzler, 26. 3. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00191">Kraus an Schnitzler, 19. 3. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00193">Widmann an Schnitzler, 26. 3. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00191">Kraus an Schnitzler,
-                  19. 3. 1893</ref>
+                          target="L00191">Kraus an Schnitzler, 19. 3. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -384,15 +355,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03121">Salten an
-                  Schnitzler, 30. 4. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00207">Altenberg an
-                  Schnitzler, [2.? 5. 1893]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03121">Salten an Schnitzler, 30. 4. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00207">Altenberg an Schnitzler, [2.? 5. 1893]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00192">Kraus an Schnitzler,
-                  22. 3. 1893</ref>
+                          target="L00192">Kraus an Schnitzler, 22. 3. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -418,15 +386,14 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00211">Schnitzler an
-                  Beer-Hofmann, [zwischen 5. 5. 1893 und 2. 5. 1894]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00213">Schnitzler an
-                  Beer-Hofmann, [zwischen 5. 5. 1893 und 2. 5. 1894]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00211">Schnitzler an Beer-Hofmann, [zwischen 5. 5. 1893 und
+                  2. 5. 1894]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00213">Schnitzler an Beer-Hofmann, [zwischen 5. 5. 1893 und
+                  2. 5. 1894]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00206">Kraus an Schnitzler,
-                  2. 5. 1895</ref>
+                          target="L00206">Kraus an Schnitzler, 2. 5. 1895</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -452,15 +419,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00238">Hofmannsthal
-                  an Schnitzler, 19. 7. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00240">Schnitzler an
-                  Beer-Hofmann, 22. 7. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00238">Hofmannsthal an Schnitzler, 19. 7. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00240">Schnitzler an Beer-Hofmann, 22. 7. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00212">Kraus an Schnitzler,
-                  5. 5. 1893</ref>
+                          target="L00212">Kraus an Schnitzler, 5. 5. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -486,15 +450,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00243">Beer-Hofmann
-                  an Schnitzler, [25. 7. 1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00245">Beer-Hofmann an
-                  Schnitzler, 28. 7. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00243">Beer-Hofmann an Schnitzler, [25. 7. 1893]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00245">Beer-Hofmann an Schnitzler, 28. 7. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00239">Kraus an Schnitzler,
-                  21. 7. 1893</ref>
+                          target="L00239">Kraus an Schnitzler, 21. 7. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -520,15 +481,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00254">Hofmannsthal
-                  an Schnitzler, 12. 8. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03126">Salten an
-                  Schnitzler, 12. 8. 1893</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00254">Hofmannsthal an Schnitzler, 12. 8. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03126">Salten an Schnitzler, 12. 8. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00244">Kraus an Schnitzler,
-                  27. 7. 1893</ref>
+                          target="L00244">Kraus an Schnitzler, 27. 7. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -556,15 +514,14 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02718">Goldmann an
-                  Schnitzler, [zwischen 29. 9. und 2. 10. 1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00268">Schnitzler an
-                  Beer-Hofmann, [zwischen 5. 10. und 14. 11. 1893]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02718">Goldmann an Schnitzler, [zwischen 29. 9. und
+                  2. 10. 1893]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00268">Schnitzler an Beer-Hofmann, [zwischen 5. 10. und
+                  14. 11. 1893]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00255">Kraus an Schnitzler,
-                  12. 8. 1893</ref>
+                          target="L00255">Kraus an Schnitzler, 12. 8. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -589,15 +546,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02613">Goldmann an
-                  Schnitzler, 21. 3. [1894]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00309">Schnitzler an
-                  Beer-Hofmann, [2. 4. 1894?]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02613">Goldmann an Schnitzler, 21. 3. [1894]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00309">Schnitzler an Beer-Hofmann, [2. 4. 1894?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00267">Kraus, Rosner, Schaumberger an
-                  Schnitzler, 30. 9. 1893</ref>
+                          target="L00267">Kraus, Rosner, Schaumberger an Schnitzler, 30. 9. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -623,15 +577,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00344">Burckhard an
-                  Schnitzler, 2. 7. 1894</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02629">Goldmann an
-                  Schnitzler, 3. 7. [1894]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00344">Burckhard an Schnitzler, 2. 7. 1894</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02629">Goldmann an Schnitzler, 3. 7. [1894]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00308">Kraus an Schnitzler,
-                  22. 3. 1894</ref>
+                          target="L00308">Kraus an Schnitzler, 22. 3. 1894</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -656,15 +607,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00347">Beer-Hofmann
-                  an Schnitzler, 5. 7. 1894</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00349">Beer-Hofmann an
-                  Schnitzler, [10. 7. 1894]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00347">Beer-Hofmann an Schnitzler, 5. 7. 1894</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00349">Beer-Hofmann an Schnitzler, [10. 7. 1894]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00345">Kraus an Schnitzler,
-                  2. 7. 1894</ref>
+                          target="L00345">Kraus an Schnitzler, 2. 7. 1894</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -690,20 +638,16 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02734">Goldmann an
-                  Schnitzler, 24. 4. [1895]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00433">Andreas-Salomé an
-                  Schnitzler, 28. 4. 1895</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02734">Goldmann an Schnitzler, 24. 4. [1895]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00433">Andreas-Salomé an Schnitzler, 28. 4. 1895</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00348">Kraus an Schnitzler,
-                  9. 7. 1894</ref>
+                          target="L00348">Kraus an Schnitzler, 9. 7. 1894</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L01391">Liliencron, Stefan, Horwitz, Kahler, Altenberg, Kraus, Wymetal,
-                  Loos, Webern, Devrient an Schnitzler, 1[0?]. 4. 1904</ref>
+                          target="L01391">Liliencron, Stefan, Horwitz, Kahler, Altenberg, Kraus, Wymetal, Loos, Webern, Devrient an Schnitzler, 1[0?]. 4. 1904</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>
@@ -734,30 +678,23 @@
                   – 14. 4. 1904?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_12071">Liliencron, Detlev
-                  von</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_12071">Liliencron, Detlev von</ref>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_2147">Altenberg,
-                  Peter</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01390">Hofmannsthal
-                  an Schnitzler, [9. 4. 1904]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02991">Schnitzler an
-                  Salten, 13. 4. 1904</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2147">Altenberg, Peter</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01390">Hofmannsthal an Schnitzler, [9. 4. 1904]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02991">Schnitzler an Salten, 13. 4. 1904</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12071"
-                          target="L00627">Schnitzler an Liliencron,
-                  10. 12. 1896</ref>
+                          target="L00627">Schnitzler an Liliencron, 10. 12. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12071"
-                          target="L01735">Wymetal, Liliencron, Stefan, Kurzweil, Markowitz, Goldschmied an
-                  Schnitzler, 27. 11. [1907]</ref>
+                          target="L01735">Wymetal, Liliencron, Stefan, Kurzweil, Markowitz, Goldschmied an Schnitzler, 27. 11. [1907]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L00432">Kraus an Schnitzler,
-                  25. 4. 1895</ref>
+                          target="L00432">Kraus an Schnitzler, 25. 4. 1895</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -765,8 +702,7 @@
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2147"
-                          target="L00861">Altenberg an Schnitzler,
-                  30. 11. 1898</ref>
+                          target="L00861">Altenberg an Schnitzler, 30. 11. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2147"
@@ -792,16 +728,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01753">Hofmannsthal
-                  an Schnitzler, 17. 1. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01755">Kraus an
-                  Schnitzler, 22. 1. 1908</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01753">Hofmannsthal an Schnitzler, 17. 1. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01755">Kraus an Schnitzler, 22. 1. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L01391">Liliencron, Stefan, Horwitz, Kahler,
-                  Altenberg, Kraus, Wymetal, Loos, Webern, Devrient an Schnitzler,
-                  1[0?]. 4. 1904</ref>
+                          target="L01391">Liliencron, Stefan, Horwitz, Kahler, Altenberg, Kraus, Wymetal, Loos, Webern, Devrient an Schnitzler, 1[0?]. 4. 1904</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
@@ -827,15 +759,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11988">Kraus, Karl</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01754">Kraus an
-                  Schnitzler, 20. 1. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01757">Schnitzler an
-                  Ehrenstein, 24. 1. 1908</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01754">Kraus an Schnitzler, 20. 1. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01757">Schnitzler an Ehrenstein, 24. 1. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11988"
-                          target="L01754">Kraus an Schnitzler,
-                  20. 1. 1908</ref>
+                          target="L01754">Kraus an Schnitzler, 20. 1. 1908</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>

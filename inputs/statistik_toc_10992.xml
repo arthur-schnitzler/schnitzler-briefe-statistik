@@ -52,12 +52,9 @@
                   – 31. 5. 1894?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00330">Beer-Hofmann
-                  an Schnitzler, [26. 5. 1894]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00332">Beer-Hofmann an
-                  Schnitzler, [29. 5. 1894]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00330">Beer-Hofmann an Schnitzler, [26. 5. 1894]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00332">Beer-Hofmann an Schnitzler, [29. 5. 1894]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -81,17 +78,13 @@
                   – 16. 6. 1894?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00335">Beer-Hofmann,
-                  Schnitzler an Hofmannsthal, [5. 6. 1894]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00337">Schnitzler an
-                  Andreas-Salomé, 13. 6. 1894</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00335">Beer-Hofmann, Schnitzler an Hofmannsthal, [5. 6. 1894]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00337">Schnitzler an Andreas-Salomé, 13. 6. 1894</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00331">Brandes an Schnitzler,
-                  26. 5. 1894</ref>
+                          target="L00331">Brandes an Schnitzler, 26. 5. 1894</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -116,17 +109,13 @@
                   – 27. 4. 1896?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02771">Goldmann an
-                  Schnitzler, 9. [4.] 1896</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00542">Schnitzler an
-                  Brandes, 25. 4. 1896</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02771">Goldmann an Schnitzler, 9. [4.] 1896</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00542">Schnitzler an Brandes, 25. 4. 1896</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00336">Schnitzler an Brandes,
-                  12. 6. 1894</ref>
+                          target="L00336">Schnitzler an Brandes, 12. 6. 1894</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -150,17 +139,13 @@
                   – 29. 4. 1896?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00541">Brandes an
-                  Schnitzler, 22. 4. 1896</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03171">Salten an
-                  Schnitzler, [27. 4. 1896]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00541">Brandes an Schnitzler, 22. 4. 1896</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03171">Salten an Schnitzler, [27. 4. 1896]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00541">Brandes an Schnitzler,
-                  22. 4. 1896</ref>
+                          target="L00541">Brandes an Schnitzler, 22. 4. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -184,17 +169,13 @@
                   – 29. 6. 1896?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03173">Salten an
-                  Schnitzler, [23. 6. 1896]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00553">Burckhard an
-                  Schnitzler, 25. 6. 1896</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03173">Salten an Schnitzler, [23. 6. 1896]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00553">Burckhard an Schnitzler, 25. 6. 1896</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00542">Schnitzler an Brandes,
-                  25. 4. 1896</ref>
+                          target="L00542">Schnitzler an Brandes, 25. 4. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -218,18 +199,13 @@
                   – 11. 8. 1896?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03177">Salten,
-                  Schlesinger, Fanto, Eisler, Schlesinger, Schlesinger, Berger, Schlesinger, Laurent
-                  an Schnitzler, 6. 8. 1896</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00579">Schnitzler an
-                  Hofmannsthal, 7. 8. 1896</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03177">Salten, Schlesinger, Fanto, Eisler, Schlesinger, Schlesinger, Berger, Schlesinger, Laurent an Schnitzler, 6. 8. 1896</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00579">Schnitzler an Hofmannsthal, 7. 8. 1896</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00552">Schnitzler an Brandes,
-                  25. 6. 1896</ref>
+                          target="L00552">Schnitzler an Brandes, 25. 6. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -253,17 +229,13 @@
                      <date when="1896-10-08">8. 10. 1896</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00599">Schnitzler an
-                  Beer-Hofmann, 29. 9. 1896</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00601">Hofmannsthal an
-                  Schnitzler, 6. 10. 1896</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00599">Schnitzler an Beer-Hofmann, 29. 9. 1896</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00601">Hofmannsthal an Schnitzler, 6. 10. 1896</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00578">Schnitzler an Brandes,
-                  7. 8. 1896</ref>
+                          target="L00578">Schnitzler an Brandes, 7. 8. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -287,17 +259,13 @@
                   – 12. 10. 1896?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00601">Hofmannsthal
-                  an Schnitzler, 6. 10. 1896</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00603">Bahr an
-                  Schnitzler, 8. 10. 1896</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00601">Hofmannsthal an Schnitzler, 6. 10. 1896</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00603">Bahr an Schnitzler, 8. 10. 1896</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00600">Brandes an Schnitzler,
-                  6. 10. 1896</ref>
+                          target="L00600">Brandes an Schnitzler, 6. 10. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -322,17 +290,13 @@
                   – 16. 1. 1897?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00635">Schnitzler an
-                  Beer-Hofmann, 11. 1. 1897</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00637">Beer-Hofmann an
-                  Schnitzler, 14. 1. 1897</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00635">Schnitzler an Beer-Hofmann, 11. 1. 1897</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00637">Beer-Hofmann an Schnitzler, 14. 1. 1897</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00602">Schnitzler an Brandes,
-                  8. 10. 1896</ref>
+                          target="L00602">Schnitzler an Brandes, 8. 10. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -356,17 +320,13 @@
                   – 20. 1. 1897?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00638">Bahr an
-                  Schnitzler, 16. 1. 1897</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00640">Hofmannsthal an
-                  Schnitzler, [16. 1. 1897]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00638">Bahr an Schnitzler, 16. 1. 1897</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00640">Hofmannsthal an Schnitzler, [16. 1. 1897]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00636">Schnitzler an Brandes,
-                  11. 1. 1897</ref>
+                          target="L00636">Schnitzler an Brandes, 11. 1. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -390,17 +350,13 @@
                   – 7. 2. 1897?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02801">Goldmann an
-                  Schnitzler, 27. 1. [1897]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00644">Hofmannsthal an
-                  Schnitzler, 9. 2. 1897</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02801">Goldmann an Schnitzler, 27. 1. [1897]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00644">Hofmannsthal an Schnitzler, 9. 2. 1897</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00639">Brandes an Schnitzler,
-                  16. 1. 1897</ref>
+                          target="L00639">Brandes an Schnitzler, 16. 1. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -425,17 +381,13 @@
                   – 13. 7. 1897?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00695">Bahr an
-                  Schnitzler, 8. 7. 1897</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00697">Hofmannsthal an
-                  Schnitzler, 9. [7. 1897]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00695">Bahr an Schnitzler, 8. 7. 1897</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00697">Hofmannsthal an Schnitzler, 9. [7. 1897]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00643">Schnitzler an Brandes,
-                  3. 2. 1897</ref>
+                          target="L00643">Schnitzler an Brandes, 3. 2. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -460,17 +412,13 @@
                   – 17. 7. 1897?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00700">Hofmannsthal
-                  an Schnitzler, [12.? 7. 1897]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02817">Goldmann an
-                  Schnitzler, 13. 7. [1897]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00700">Hofmannsthal an Schnitzler, [12.? 7. 1897]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02817">Goldmann an Schnitzler, 13. 7. [1897]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00696">Schnitzler an Brandes,
-                  9. 7. 1897</ref>
+                          target="L00696">Schnitzler an Brandes, 9. 7. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -495,17 +443,14 @@
                   – 23. 7. 1897?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00704">Schnitzler an
-                  Beer-Hofmann, [17. oder 18. 7. 1897?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02818">Goldmann an
-                  Schnitzler, 18. 7. [1897]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00704">Schnitzler an Beer-Hofmann, [17. oder
+                  18. 7. 1897?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02818">Goldmann an Schnitzler, 18. 7. [1897]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00701">Brandes an Schnitzler,
-                  [13. 7. 1897]</ref>
+                          target="L00701">Brandes an Schnitzler, [13. 7. 1897]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -529,17 +474,13 @@
                      <date evidence="conjecture" notBefore="1897-12-29" notAfter="1898-01-02">[29. 12. 1897 – 2. 1. 1898?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00753">Burckhard an
-                  Schnitzler, [27.? 12. 1897]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00755">Schnitzler an
-                  Beer-Hofmann, 30. 12. 1897</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00753">Burckhard an Schnitzler, [27.? 12. 1897]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00755">Schnitzler an Beer-Hofmann, 30. 12. 1897</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00705">Schnitzler an Brandes,
-                  18. 7. 1897</ref>
+                          target="L00705">Schnitzler an Brandes, 18. 7. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -562,17 +503,13 @@
                      <date evidence="conjecture" notBefore="1897-12-31" notAfter="1898-01-04">[31. 12. 1897 – 4. 1. 1898?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02835">Goldmann an
-                  Schnitzler, 30. 12. [1897]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03278">Salten an
-                  Schnitzler, [1898]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02835">Goldmann an Schnitzler, 30. 12. [1897]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03278">Salten an Schnitzler, [1898]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00754">Brandes an Schnitzler,
-                  28. 12. 1897</ref>
+                          target="L00754">Brandes an Schnitzler, 28. 12. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -597,17 +534,13 @@
                   – 29. 1. 1898?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00765">Bahr an
-                  Schnitzler, 24. 1. 1898</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00767">Schnitzler an
-                  Bahr, [25. 1. 1898?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00765">Bahr an Schnitzler, 24. 1. 1898</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00767">Schnitzler an Bahr, [25. 1. 1898?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00757">Schnitzler an Brandes,
-                  31. 12. 1897</ref>
+                          target="L00757">Schnitzler an Brandes, 31. 12. 1897</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -632,17 +565,13 @@
                   – 21. 3. 1898?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00783">Schnitzler an
-                  Beer-Hofmann, 12. 3. 1898</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02843">Goldmann an
-                  Schnitzler, 16. 3. [1898]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00783">Schnitzler an Beer-Hofmann, 12. 3. 1898</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02843">Goldmann an Schnitzler, 16. 3. [1898]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00766">Brandes an Schnitzler,
-                  25. 1. 1898</ref>
+                          target="L00766">Brandes an Schnitzler, 25. 1. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -666,17 +595,13 @@
                   – 31. 3. 1898?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00786">Hofmannsthal
-                  an Schnitzler, [23. 3. 1898]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02849">Goldmann an
-                  Schnitzler, [28.–31. 3. 1898?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00786">Hofmannsthal an Schnitzler, [23. 3. 1898]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02849">Goldmann an Schnitzler, [28.–31. 3. 1898?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00784">Brandes an Schnitzler,
-                  16. 3. 1898</ref>
+                          target="L00784">Brandes an Schnitzler, 16. 3. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -701,17 +626,13 @@
                   abgesandt]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00847">Großmann an
-                  Schnitzler, 16. 9. 1898</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03284">Salten an
-                  Schnitzler, 23. 9. 1898</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00847">Großmann an Schnitzler, 16. 9. 1898</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03284">Salten an Schnitzler, 23. 9. 1898</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00787">Schnitzler an Brandes,
-                  27. 3. 1898</ref>
+                          target="L00787">Schnitzler an Brandes, 27. 3. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -736,17 +657,13 @@
                   – 9. 1. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00873">Hofmannsthal
-                  an Schnitzler, [1. 1. 1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00875">Schnitzler an
-                  Beer-Hofmann, 5. 1. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00873">Hofmannsthal an Schnitzler, [1. 1. 1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00875">Schnitzler an Beer-Hofmann, 5. 1. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00848">Schnitzler an Brandes,
-                  22. 9. 1898</ref>
+                          target="L00848">Schnitzler an Brandes, 22. 9. 1898</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -770,17 +687,13 @@
                   – 11. 1. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00875">Schnitzler an
-                  Beer-Hofmann, 5. 1. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00877">Hofmannsthal an
-                  Schnitzler, [10. 1. 1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00875">Schnitzler an Beer-Hofmann, 5. 1. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00877">Hofmannsthal an Schnitzler, [10. 1. 1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00874">Schnitzler an Brandes,
-                  4. 1. 1899</ref>
+                          target="L00874">Schnitzler an Brandes, 4. 1. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -805,17 +718,13 @@
                   – 17. 1. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00879">Hofmannsthal
-                  an Schnitzler, [nach dem 11.? 1. 1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00881">Hofmannsthal an
-                  Schnitzler, [16. 1. 1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00879">Hofmannsthal an Schnitzler, [nach dem 11.? 1. 1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00881">Hofmannsthal an Schnitzler, [16. 1. 1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00876">Brandes an Schnitzler,
-                  7. 1. 1899</ref>
+                          target="L00876">Brandes an Schnitzler, 7. 1. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -839,17 +748,13 @@
                      <date when="1899-01-24">24. 1. 1899</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00881">Hofmannsthal
-                  an Schnitzler, [16. 1. 1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03286">Salten an
-                  Schnitzler, [28. 1. 1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00881">Hofmannsthal an Schnitzler, [16. 1. 1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03286">Salten an Schnitzler, [28. 1. 1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00880">Schnitzler an Brandes,
-                  12. 1. 1899</ref>
+                          target="L00880">Schnitzler an Brandes, 12. 1. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -873,17 +778,13 @@
                   – 28. 2. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00891">Hofmannsthal
-                  an Schnitzler, [17. 2. 1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00893">Beer-Hofmann an
-                  Schnitzler, 24. 2. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00891">Hofmannsthal an Schnitzler, [17. 2. 1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00893">Beer-Hofmann an Schnitzler, 24. 2. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00882">Brandes an Schnitzler,
-                  22. 1. 1899</ref>
+                          target="L00882">Brandes an Schnitzler, 22. 1. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -907,17 +808,13 @@
                   – 14. 3. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00904">Rodenberg an
-                  Schnitzler, 9. 3. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02869">Goldmann an
-                  Schnitzler, 12. 3. [1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00904">Rodenberg an Schnitzler, 9. 3. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02869">Goldmann an Schnitzler, 12. 3. [1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00892">Schnitzler an Brandes,
-                  24. 2. 1899</ref>
+                          target="L00892">Schnitzler an Brandes, 24. 2. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -942,17 +839,13 @@
                   – 13. 5. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03290">Salten an
-                  Schnitzler, 4. 5. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00916">Brandes an
-                  Schnitzler, 11. 5. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03290">Salten an Schnitzler, 4. 5. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00916">Brandes an Schnitzler, 11. 5. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00905">Brandes an Schnitzler,
-                  10. 3. 1899</ref>
+                          target="L00905">Brandes an Schnitzler, 10. 3. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -976,17 +869,13 @@
                   – 15. 5. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00915">Schnitzler an
-                  Brandes, 8. 5. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03292">Salten an
-                  Schnitzler, 13. 5. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00915">Schnitzler an Brandes, 8. 5. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03292">Salten an Schnitzler, 13. 5. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00915">Schnitzler an Brandes,
-                  8. 5. 1899</ref>
+                          target="L00915">Schnitzler an Brandes, 8. 5. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1011,17 +900,13 @@
                   – 24. 5. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03292">Salten an
-                  Schnitzler, 13. 5. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02875">Goldmann an
-                  Schnitzler, 20. 5. [1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03292">Salten an Schnitzler, 13. 5. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02875">Goldmann an Schnitzler, 20. 5. [1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00916">Brandes an Schnitzler,
-                  11. 5. 1899</ref>
+                          target="L00916">Brandes an Schnitzler, 11. 5. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1045,17 +930,13 @@
                   – 12. 6. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00922">Hofmannsthal
-                  an Schnitzler, [4. 6. 1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02681">Goldmann an
-                  Schnitzler, 9. 6. [1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00922">Hofmannsthal an Schnitzler, [4. 6. 1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02681">Goldmann an Schnitzler, 9. 6. [1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00917">Schnitzler an Brandes,
-                  19. 5. 1899</ref>
+                          target="L00917">Schnitzler an Brandes, 19. 5. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1079,17 +960,13 @@
                      <date when="1899-06-14">14. 6. 1899</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02681">Goldmann an
-                  Schnitzler, 9. 6. [1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02877">Goldmann an
-                  Schnitzler, 13. 6. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02681">Goldmann an Schnitzler, 9. 6. [1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02877">Goldmann an Schnitzler, 13. 6. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00923">Schnitzler an Brandes,
-                  8. 6. 1899</ref>
+                          target="L00923">Schnitzler an Brandes, 8. 6. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1114,17 +991,13 @@
                   – 20. 6. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02877">Goldmann an
-                  Schnitzler, 13. 6. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00926">Beer-Hofmann an
-                  Schnitzler, 16. [6.] 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02877">Goldmann an Schnitzler, 13. 6. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00926">Beer-Hofmann an Schnitzler, 16. [6.] 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00924">Brandes an Schnitzler,
-                  12. 6. 1899</ref>
+                          target="L00924">Brandes an Schnitzler, 12. 6. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1148,17 +1021,13 @@
                   – 15. 2. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01011">Beer-Hofmann
-                  an Schnitzler, [7.?] 2. 1900</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02904">Goldmann an
-                  Schnitzler, 11. 2. 1900</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01011">Beer-Hofmann an Schnitzler, [7.?] 2. 1900</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02904">Goldmann an Schnitzler, 11. 2. 1900</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L00925">Schnitzler an Brandes,
-                  15. 6. 1899</ref>
+                          target="L00925">Schnitzler an Brandes, 15. 6. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1183,17 +1052,13 @@
                   – 22. 3. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01021">Hofmannsthal
-                  an Schnitzler, 15. 3. [1900]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01023">Hofmannsthal an
-                  Schnitzler, 22. 3. 1900</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01021">Hofmannsthal an Schnitzler, 15. 3. [1900]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01023">Hofmannsthal an Schnitzler, 22. 3. 1900</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01012">Schnitzler an Brandes,
-                  11. 2. 1900</ref>
+                          target="L01012">Schnitzler an Brandes, 11. 2. 1900</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1217,17 +1082,13 @@
                      <date when="1900-04-03">[3. 4. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01027">Schnitzler an
-                  Hofmannsthal, 3. 4. 1900</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01029">Brandes an
-                  Schnitzler, 3. 4. [1900]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01027">Schnitzler an Hofmannsthal, 3. 4. 1900</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01029">Brandes an Schnitzler, 3. 4. [1900]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01022">Brandes an Schnitzler,
-                  [18. 3. 1900]</ref>
+                          target="L01022">Brandes an Schnitzler, [18. 3. 1900]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1251,17 +1112,13 @@
                   – 7. 4. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01028">Brandes an
-                  Schnitzler, [3. 4. 1900?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01030">Schnitzler an
-                  Beer-Hofmann, 4. 4. 1900</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01028">Brandes an Schnitzler, [3. 4. 1900?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01030">Schnitzler an Beer-Hofmann, 4. 4. 1900</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01028">Brandes an Schnitzler,
-                  [3. 4. 1900?]</ref>
+                          target="L01028">Brandes an Schnitzler, [3. 4. 1900?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1285,17 +1142,13 @@
                   – 4. 5. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02913">Goldmann an
-                  Schnitzler, 27. 4. [1900]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02914">Goldmann an
-                  Schnitzler, 2. 5. [1900]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02913">Goldmann an Schnitzler, 27. 4. [1900]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02914">Goldmann an Schnitzler, 2. 5. [1900]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01029">Brandes an Schnitzler,
-                  3. 4. [1900]</ref>
+                          target="L01029">Brandes an Schnitzler, 3. 4. [1900]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1320,17 +1173,13 @@
                   – 8. 5. 1900?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02914">Goldmann an
-                  Schnitzler, 2. 5. [1900]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01035">Hofmannsthal an
-                  Schnitzler, 6. 5. [1900]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02914">Goldmann an Schnitzler, 2. 5. [1900]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01035">Hofmannsthal an Schnitzler, 6. 5. [1900]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01033">Brandes an Schnitzler,
-                  30. 4. 1900</ref>
+                          target="L01033">Brandes an Schnitzler, 30. 4. 1900</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1354,17 +1203,13 @@
                   – 29. 4. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01113">Schnitzler an
-                  Hofmannsthal, [24.?] 4. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01115">Bahr an
-                  Schnitzler, 25. 4. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01113">Schnitzler an Hofmannsthal, [24.?] 4. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01115">Bahr an Schnitzler, 25. 4. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01034">Schnitzler an Brandes,
-                  3. 5. 1900</ref>
+                          target="L01034">Schnitzler an Brandes, 3. 5. 1900</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1389,17 +1234,13 @@
                   – 15. 5. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03065">Goldmann an
-                  Schnitzler, 7. 5. [1901]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03527">Goldmann an
-                  Gussmann, 10. 5. [1901]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03065">Goldmann an Schnitzler, 7. 5. [1901]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03527">Goldmann an Gussmann, 10. 5. [1901]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01114">Schnitzler an Brandes,
-                  25. 4. 1901</ref>
+                          target="L01114">Schnitzler an Brandes, 25. 4. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1423,17 +1264,13 @@
                   – 15. 5. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03527">Goldmann an
-                  Gussmann, 10. 5. [1901]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01118">Brandes an
-                  Schnitzler, 13. 5. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03527">Goldmann an Gussmann, 10. 5. [1901]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01118">Brandes an Schnitzler, 13. 5. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01116">Brandes an Schnitzler,
-                  10. 5. [1901]</ref>
+                          target="L01116">Brandes an Schnitzler, 10. 5. [1901]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1458,17 +1295,13 @@
                   – 18. 5. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01117">Schnitzler an
-                  Brandes, 11. 5. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01119">David an
-                  Schnitzler, 13. 5. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01117">Schnitzler an Brandes, 11. 5. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01119">David an Schnitzler, 13. 5. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01117">Schnitzler an Brandes,
-                  11. 5. 1901</ref>
+                          target="L01117">Schnitzler an Brandes, 11. 5. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1492,17 +1325,13 @@
                   – 18. 5. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03066">Goldmann an
-                  Schnitzler, 13. 5. [1901]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03067">Goldmann an
-                  Schnitzler, 16. 5. [1901]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03066">Goldmann an Schnitzler, 13. 5. [1901]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03067">Goldmann an Schnitzler, 16. 5. [1901]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01118">Brandes an Schnitzler,
-                  13. 5. 1901</ref>
+                          target="L01118">Brandes an Schnitzler, 13. 5. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1527,17 +1356,13 @@
                   – 22. 5. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03067">Goldmann an
-                  Schnitzler, 16. 5. [1901]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01122">Schnitzler an
-                  Bahr, [20.?] 5. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03067">Goldmann an Schnitzler, 16. 5. [1901]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01122">Schnitzler an Bahr, [20.?] 5. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01120">Schnitzler an Brandes,
-                  14. 5. 1901</ref>
+                          target="L01120">Schnitzler an Brandes, 14. 5. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1561,17 +1386,13 @@
                      <placeName evidence="conjecture" ref="#pmb50">Wien</placeName>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01122">Schnitzler an
-                  Bahr, [20.?] 5. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03528">Goldmann an
-                  Gussmann, 28. 5. [1901]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01122">Schnitzler an Bahr, [20.?] 5. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03528">Goldmann an Gussmann, 28. 5. [1901]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01121">Brandes an Schnitzler,
-                  17. 5. 1901</ref>
+                          target="L01121">Brandes an Schnitzler, 17. 5. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1595,17 +1416,13 @@
                   – 15. 6. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03038">Schnitzler an
-                  Salten, [10. 6. 1901?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03069">Goldmann an
-                  Schnitzler, 11. 6. [1901]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03038">Schnitzler an Salten, [10. 6. 1901?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03069">Goldmann an Schnitzler, 11. 6. [1901]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01123">Brandes an Schnitzler,
-                  22. 5. 1901</ref>
+                          target="L01123">Brandes an Schnitzler, 22. 5. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1633,17 +1450,13 @@
                   – 21. 6. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01128">Hofmannsthal
-                  an Schnitzler, 14. 6. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01130">Saar an
-                  Schnitzler, 19. 6. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01128">Hofmannsthal an Schnitzler, 14. 6. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01130">Saar an Schnitzler, 19. 6. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01127">Schnitzler an Brandes,
-                  11. 6. 1901</ref>
+                          target="L01127">Schnitzler an Brandes, 11. 6. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1670,17 +1483,13 @@
                   – 30. 6. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01134">Schnitzler an
-                  Bahr, 26. 6. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01136">Schnitzler an
-                  Beer-Hofmann, 27. 6. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01134">Schnitzler an Bahr, 26. 6. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01136">Schnitzler an Beer-Hofmann, 27. 6. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01129">Brandes an Schnitzler,
-                  16. 6. 1901</ref>
+                          target="L01129">Brandes an Schnitzler, 16. 6. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1705,17 +1514,13 @@
                   – 9. 7. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01140">Schnitzler an
-                  Beer-Hofmann, 4. 7. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01142">Schnitzler an
-                  Hofmannsthal, [4.? 7. 1901]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01140">Schnitzler an Beer-Hofmann, 4. 7. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01142">Schnitzler an Hofmannsthal, [4.? 7. 1901]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01135">Brandes an Schnitzler,
-                  26. 6. 1901</ref>
+                          target="L01135">Brandes an Schnitzler, 26. 6. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1743,17 +1548,13 @@
                   – 20. 7. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01146">Schnitzler an
-                  Beer-Hofmann, 1[2?]. 7. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01148">Schnitzler an
-                  Beer-Hofmann, 1[7?]. 7. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01146">Schnitzler an Beer-Hofmann, 1[2?]. 7. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01148">Schnitzler an Beer-Hofmann, 1[7?]. 7. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01141">Schnitzler an Brandes,
-                  4. 7. 1901</ref>
+                          target="L01141">Schnitzler an Brandes, 4. 7. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1778,17 +1579,13 @@
                   – 27. 7. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01150">Schnitzler an
-                  Beer-Hofmann, 22. 7. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01152">Schnitzler an
-                  Beer-Hofmann, 26. 7. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01150">Schnitzler an Beer-Hofmann, 22. 7. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01152">Schnitzler an Beer-Hofmann, 26. 7. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01147">Brandes an Schnitzler,
-                  15. 7. 1901</ref>
+                          target="L01147">Brandes an Schnitzler, 15. 7. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1813,17 +1610,13 @@
                   – 4. 8. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01154">Schnitzler an
-                  Beer-Hofmann, 30. 7. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01156">Schnitzler an
-                  Beer-Hofmann, 1. 8. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01154">Schnitzler an Beer-Hofmann, 30. 7. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01156">Schnitzler an Beer-Hofmann, 1. 8. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01151">Schnitzler an Brandes,
-                  22. 7. 1901</ref>
+                          target="L01151">Schnitzler an Brandes, 22. 7. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1849,17 +1642,13 @@
                      <date when="1901-08-26">2<gap quantity="1" reason="illegible" unit="chars"/>. [8. 1901] </date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01164">Beer-Hofmann
-                  an Schnitzler, 20. 8. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01166">Beer-Hofmann an
-                  Schnitzler, 21. 8. 1901</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01164">Beer-Hofmann an Schnitzler, 20. 8. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01166">Beer-Hofmann an Schnitzler, 21. 8. 1901</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01155">Brandes an Schnitzler,
-                  31. 7. 1901</ref>
+                          target="L01155">Brandes an Schnitzler, 31. 7. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1880,17 +1669,13 @@
                      <persName ref="#pmb2121">Schnitzler, Arthur</persName>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01376">Schnitzler an
-                  Bahr, 22. 2. 1904</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01377">Bahr an
-                  Schnitzler, [5.] 3. 1904</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01376">Schnitzler an Bahr, 22. 2. 1904</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01377">Bahr an Schnitzler, [5.] 3. 1904</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01165">Goldmann, Schnitzler an Brandes,
-                  21. 8. 1901</ref>
+                          target="L01165">Goldmann, Schnitzler an Brandes, 21. 8. 1901</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1914,17 +1699,13 @@
                   – 15. 3. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03415">Salten an
-                  Schnitzler, 9. 3. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01590">Schnitzler an
-                  Brandes, 13. 3. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03415">Salten an Schnitzler, 9. 3. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01590">Schnitzler an Brandes, 13. 3. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01388">Brandes an Schnitzler, [März
-                  1904]</ref>
+                          target="L01388">Brandes an Schnitzler, [März 1904]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1948,17 +1729,13 @@
                   – 17. 3. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01589">Brandes an
-                  Schnitzler, 11. 3. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01591">Ehrenstein an
-                  Schnitzler, [16. 3.? 1906]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01589">Brandes an Schnitzler, 11. 3. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01591">Ehrenstein an Schnitzler, [16. 3.? 1906]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01589">Brandes an Schnitzler,
-                  11. 3. 1906</ref>
+                          target="L01589">Brandes an Schnitzler, 11. 3. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -1983,17 +1760,13 @@
                   – 16. 7. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03247">Goldmann an
-                  Schnitzler, 10. 7. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01609">Brandes an
-                  Schnitzler, 11. 7. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03247">Goldmann an Schnitzler, 10. 7. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01609">Brandes an Schnitzler, 11. 7. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01590">Schnitzler an Brandes,
-                  13. 3. 1906</ref>
+                          target="L01590">Schnitzler an Brandes, 13. 3. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2018,17 +1791,13 @@
                   – 15. 7. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01608">Schnitzler an
-                  Brandes, 11. 7. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01610">Schnitzler an
-                  Brandes, 13. 7. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01608">Schnitzler an Brandes, 11. 7. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01610">Schnitzler an Brandes, 13. 7. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01608">Schnitzler an Brandes,
-                  11. 7. 1906</ref>
+                          target="L01608">Schnitzler an Brandes, 11. 7. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2053,17 +1822,13 @@
                   – 18. 7. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01609">Brandes an
-                  Schnitzler, 11. 7. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01611">Beer-Hofmann an
-                  Schnitzler, 13. 7. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01609">Brandes an Schnitzler, 11. 7. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01611">Beer-Hofmann an Schnitzler, 13. 7. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01609">Brandes an Schnitzler,
-                  11. 7. 1906</ref>
+                          target="L01609">Brandes an Schnitzler, 11. 7. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2087,17 +1852,13 @@
                      <date when="1906-07-25">25. 7.1906</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01614">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 24. 7. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01616">Schnitzler an
-                  Brandes, 25. 7. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01614">Schnitzler, Schnitzler an Beer-Hofmann, 24. 7. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01616">Schnitzler an Brandes, 25. 7. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01610">Schnitzler an Brandes,
-                  13. 7. 1906</ref>
+                          target="L01610">Schnitzler an Brandes, 13. 7. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2122,17 +1883,13 @@
                   – 30. 7. 1906?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01615">Brandes an
-                  Schnitzler, 24. 7. 1906</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01617">Hofmannsthal an
-                  Schnitzler, 27. 7. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01615">Brandes an Schnitzler, 24. 7. 1906</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01617">Hofmannsthal an Schnitzler, 27. 7. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01615">Brandes an Schnitzler,
-                  24. 7. 1906</ref>
+                          target="L01615">Brandes an Schnitzler, 24. 7. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2160,17 +1917,13 @@
                   – 4. 7. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02586">Hauschner an
-                  Schnitzler, 17. 6. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01778">Schnitzler,
-                  Schnitzler an Beer-Hofmann, Beer-Hofmann, 26. 6. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02586">Hauschner an Schnitzler, 17. 6. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01778">Schnitzler, Schnitzler an Beer-Hofmann, Beer-Hofmann, 26. 6. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01616">Schnitzler an Brandes,
-                  25. 7. 1906</ref>
+                          target="L01616">Schnitzler an Brandes, 25. 7. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2194,17 +1947,13 @@
                   – 8. 7. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03014">Schnitzler an
-                  Salten, 29. 6. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03497">Salten an
-                  Schnitzler, 5. 7. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03014">Schnitzler an Salten, 29. 6. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03497">Salten an Schnitzler, 5. 7. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01777">Brandes an Schnitzler,
-                  [25. 6. 1908]</ref>
+                          target="L01777">Brandes an Schnitzler, [25. 6. 1908]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2234,19 +1983,14 @@
                      <date when="1909-07-27">27. 7. 1909</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11485">Goldmann,
-                  Paul</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01860">Schnitzler an
-                  Liliencron, 24. 7. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01861">Burckhard an
-                  Schnitzler, 29. 7. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11485">Goldmann, Paul</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01860">Schnitzler an Liliencron, 24. 7. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01861">Burckhard an Schnitzler, 29. 7. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11485"
-                          target="L03468">Goldmann an Schnitzler,
-                  26. 4. 1909</ref>
+                          target="L03468">Goldmann an Schnitzler, 26. 4. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11485"
@@ -2254,8 +1998,7 @@
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01779">Schnitzler an Brandes,
-                  4. 7. 1908</ref>
+                          target="L01779">Schnitzler an Brandes, 4. 7. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2279,17 +2022,13 @@
                      <date evidence="conjecture" notBefore="1910-12-19" notAfter="1910-12-23">[19. 12. 1910 – 23. 12. 1910?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01990">Schnitzler an
-                  Adam, 3. 12. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01992">Beer-Hofmann an
-                  Schnitzler, [22. 12. 1910]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01990">Schnitzler an Adam, 3. 12. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01992">Beer-Hofmann an Schnitzler, [22. 12. 1910]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02637">Goldmann, Goldmann, Brandes an
-                  Schnitzler, 26. 7. 1909</ref>
+                          target="L02637">Goldmann, Goldmann, Brandes an Schnitzler, 26. 7. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2313,17 +2052,13 @@
                   – 23. 1. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03475">Goldmann an
-                  Schnitzler, 13. 1. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02001">Schnitzler an
-                  Ehrenstein, 31. 1. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03475">Goldmann an Schnitzler, 13. 1. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02001">Schnitzler an Ehrenstein, 31. 1. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L01991">Brandes an Schnitzler,
-                  18. 12. 1910</ref>
+                          target="L01991">Brandes an Schnitzler, 18. 12. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2348,17 +2083,13 @@
                   – 16. 4. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02015">Schnitzler an
-                  Hofmannsthal, 27. 3. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02017">Ehrenstein an
-                  Schnitzler, 27. 4. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02015">Schnitzler an Hofmannsthal, 27. 3. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02017">Ehrenstein an Schnitzler, 27. 4. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02000">Schnitzler an Brandes,
-                  19. 1. 1911</ref>
+                          target="L02000">Schnitzler an Brandes, 19. 1. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2383,17 +2114,13 @@
                   – 4. 5. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02017">Ehrenstein an
-                  Schnitzler, 27. 4. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02019">Schnitzler an
-                  Ehrenstein, 6. 5. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02017">Ehrenstein an Schnitzler, 27. 4. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02019">Schnitzler an Ehrenstein, 6. 5. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02016">Brandes an Schnitzler,
-                  11. 4. 1911</ref>
+                          target="L02016">Brandes an Schnitzler, 11. 4. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2417,17 +2144,13 @@
                   – 10. 10. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03541">Goldmann an
-                  Schnitzler, 1. 10. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02034">Beer-Hofmann an
-                  Schnitzler, 9. 10. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03541">Goldmann an Schnitzler, 1. 10. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02034">Beer-Hofmann an Schnitzler, 9. 10. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02018">Schnitzler an Brandes,
-                  29. 4. 1911</ref>
+                          target="L02018">Schnitzler an Brandes, 29. 4. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2451,17 +2174,13 @@
                      <date evidence="conjecture" notBefore="1911-10-13" notAfter="1911-10-17">[13. 10. 1911 – 17. 10. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02034">Beer-Hofmann
-                  an Schnitzler, 9. 10. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02036">Schnitzler an
-                  Bahr, 13. 10. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02034">Beer-Hofmann an Schnitzler, 9. 10. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02036">Schnitzler an Bahr, 13. 10. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02033">Brandes an Schnitzler,
-                  6. 10. 1911</ref>
+                          target="L02033">Brandes an Schnitzler, 6. 10. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2485,17 +2204,13 @@
                      <date evidence="conjecture" notBefore="1911-10-20" notAfter="1911-10-24">[20. 10. 1911 – 24. 10. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02039">Mann an
-                  Schnitzler, 16. 10. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02949">Schnitzler an
-                  Salten, 20. 10. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02039">Mann an Schnitzler, 16. 10. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02949">Schnitzler an Salten, 20. 10. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02035">Schnitzler an Brandes,
-                  12. 10. 1911</ref>
+                          target="L02035">Schnitzler an Brandes, 12. 10. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2520,17 +2235,13 @@
                   – 7. 12. 1911?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02552">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 1. 12. 1911</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03052">Salten an
-                  Schnitzler, 12. 12. 1911</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02552">Schnitzler, Schnitzler an Beer-Hofmann, 1. 12. 1911</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03052">Salten an Schnitzler, 12. 12. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02040">Brandes an Schnitzler,
-                  19. 10. 1911</ref>
+                          target="L02040">Brandes an Schnitzler, 19. 10. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2556,17 +2267,13 @@
                   – 8. 2. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02050">Bahr an
-                  Schnitzler, 8. 1. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02052">Großmann an
-                  Schnitzler, 5. 2. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03555">Salten an Schnitzler, [26. 1. 1912]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02052">Großmann an Schnitzler, 5. 2. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02049">Brandes an Schnitzler, vor dem
-                  2. 12. 1911</ref>
+                          target="L02049">Brandes an Schnitzler, vor dem 2. 12. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2591,17 +2298,13 @@
                   – 1. 10. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02090">Schnitzler an
-                  Bahr, [25./26.] 9. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02092">Bahr an
-                  Schnitzler, 28. 9. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02090">Schnitzler an Bahr, [25./26.] 9. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02092">Bahr an Schnitzler, 28. 9. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02051">Brandes an Schnitzler, Schnitzler,
-                  3. 2. 1912</ref>
+                          target="L02051">Brandes an Schnitzler, Schnitzler, 3. 2. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2625,17 +2328,13 @@
                      <date notBefore="1912-11-16" notAfter="1912-12-31">[nach dem 16. 11. 1912]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02099">Schnitzler an
-                  Bahr, 16. 11. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02101">Schnitzler an
-                  Brandes, 20. 11. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02099">Schnitzler an Bahr, 16. 11. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02101">Schnitzler an Brandes, 20. 11. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02091">Brandes an Schnitzler,
-                  26. 9. 1912</ref>
+                          target="L02091">Brandes an Schnitzler, 26. 9. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2659,17 +2358,13 @@
                      <date evidence="conjecture" notBefore="1912-11-20" notAfter="1912-11-22">[20. 11. 1912 – 24. 11. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02100">Brandes an
-                  Schnitzler, [nach dem 16. 11. 1912]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02102">Brandes an
-                  Schnitzler, 20. 11. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02100">Brandes an Schnitzler, [nach dem 16. 11. 1912]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02102">Brandes an Schnitzler, 20. 11. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02100">Brandes an Schnitzler, [nach dem
-                  16. 11. 1912]</ref>
+                          target="L02100">Brandes an Schnitzler, [nach dem 16. 11. 1912]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2693,17 +2388,13 @@
                      <date evidence="conjecture" notBefore="1912-11-20" notAfter="1912-11-22">[20. 11. 1912 – 24. 11. 1912?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02101">Schnitzler an
-                  Brandes, 20. 11. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02103">Hofmannsthal an
-                  Schnitzler, 21. 11. 1912</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02101">Schnitzler an Brandes, 20. 11. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02103">Hofmannsthal an Schnitzler, 21. 11. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02101">Schnitzler an Brandes,
-                  20. 11. 1912</ref>
+                          target="L02101">Schnitzler an Brandes, 20. 11. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2728,17 +2419,13 @@
                   – 4. 3. 1913?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02113">Hofmannsthal
-                  an Schnitzler, [21. 2. 1913]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02115">Beer-Hofmann,
-                  Beer-Hofmann an Schnitzler, 28. 2. 1913</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02113">Hofmannsthal an Schnitzler, [21. 2. 1913]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02115">Beer-Hofmann, Beer-Hofmann an Schnitzler, 28. 2. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02102">Brandes an Schnitzler,
-                  20. 11. 1912</ref>
+                          target="L02102">Brandes an Schnitzler, 20. 11. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2763,17 +2450,13 @@
                   – 10. 3. 1913?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02115">Beer-Hofmann,
-                  Beer-Hofmann an Schnitzler, 28. 2. 1913</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02594">Herzfeld an
-                  Schnitzler, 30. 3. 1913</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02115">Beer-Hofmann, Beer-Hofmann an Schnitzler, 28. 2. 1913</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02594">Herzfeld an Schnitzler, 30. 3. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02114">Schnitzler an Brandes,
-                  27. 2. 1913</ref>
+                          target="L02114">Schnitzler an Brandes, 27. 2. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2798,17 +2481,13 @@
                   – 8. 8. 1914?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02189">Schnitzler an
-                  Beer-Hofmann, 2. 8. 1914</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02191">Beer-Hofmann an
-                  Schnitzler, 10. 8. 1914</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02189">Schnitzler an Beer-Hofmann, 2. 8. 1914</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02191">Beer-Hofmann an Schnitzler, 10. 8. 1914</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02116">Brandes an Schnitzler,
-                  5. 3. 1913</ref>
+                          target="L02116">Brandes an Schnitzler, 5. 3. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2833,17 +2512,13 @@
                   – 28. 8. 1914?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02194">Schnitzler an
-                  Beer-Hofmann, 22. 8. 1914</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02196">Hofmannsthal an
-                  Schnitzler, 11. 9. [1914]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02194">Schnitzler an Beer-Hofmann, 22. 8. 1914</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02196">Hofmannsthal an Schnitzler, 11. 9. [1914]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02190">Schnitzler an Brandes,
-                  3. 8. 1914</ref>
+                          target="L02190">Schnitzler an Brandes, 3. 8. 1914</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2867,17 +2542,13 @@
                      <date evidence="conjecture" notBefore="1914-10-19" notAfter="1914-10-23">[19. 10. 1914 – 23. 10. 1914?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02197">Hofmannsthal
-                  an Schnitzler, 24. 9. [1914]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02199">Schnitzler an
-                  Brandes, 20. 10. 1914</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02197">Hofmannsthal an Schnitzler, 24. 9. [1914]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02199">Schnitzler an Brandes, 20. 10. 1914</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02195">Brandes an Schnitzler,
-                  23. 8. 1914</ref>
+                          target="L02195">Brandes an Schnitzler, 23. 8. 1914</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2900,17 +2571,13 @@
                      <date evidence="conjecture" notBefore="1914-10-20" notAfter="1914-10-24">[20. 10. 1914 – 24. 10. 1914?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02198">Brandes an
-                  Schnitzler, 18. 10. 1914</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02200">Schnitzler an
-                  Brandes, 18. 12. 1914</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02198">Brandes an Schnitzler, 18. 10. 1914</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02198">Brandes an Schnitzler,
-                  18. 10. 1914</ref>
+                          target="L02198">Brandes an Schnitzler, 18. 10. 1914</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2934,17 +2601,13 @@
                      <date evidence="conjecture" notBefore="1914-12-19" notAfter="1914-12-23">[19. 12. 1914 – 23. 12. 1914?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02199">Schnitzler an
-                  Brandes, 20. 10. 1914</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02201">Brandes an
-                  Schnitzler, 23. 12. 1914</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02199">Schnitzler an Brandes, 20. 10. 1914</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02201">Brandes an Schnitzler, 23. 12. 1914</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02199">Schnitzler an Brandes,
-                  20. 10. 1914</ref>
+                          target="L02199">Schnitzler an Brandes, 20. 10. 1914</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -2968,17 +2631,13 @@
                      <date evidence="conjecture" notBefore="1914-12-24" notAfter="1914-12-28">[24. 12. 1914 – 28. 12. 1914?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02200">Schnitzler an
-                  Brandes, 18. 12. 1914</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02202">Schnitzler an
-                  Brandes, 8. 1. 1915</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02202">Schnitzler an Brandes, 8. 1. 1915</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02200">Schnitzler an Brandes,
-                  18. 12. 1914</ref>
+                          target="L02200">Schnitzler an Brandes, 18. 12. 1914</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3003,17 +2662,13 @@
                   – 13. 1. 1915?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02201">Brandes an
-                  Schnitzler, 23. 12. 1914</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02203">Schnitzler an
-                  Bahr, 9. 2. 1915</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02201">Brandes an Schnitzler, 23. 12. 1914</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02203">Schnitzler an Bahr, 9. 2. 1915</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02201">Brandes an Schnitzler,
-                  23. 12. 1914</ref>
+                          target="L02201">Brandes an Schnitzler, 23. 12. 1914</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3038,17 +2693,13 @@
                   – 9. 12. 1915?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02220">Adam an
-                  Schnitzler, 21. 10. 1915</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02222">Schnitzler an
-                  Brandes, 9. 12. 1915</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02220">Adam an Schnitzler, 21. 10. 1915</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02222">Schnitzler an Brandes, 9. 12. 1915</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02202">Schnitzler an Brandes,
-                  8. 1. 1915</ref>
+                          target="L02202">Schnitzler an Brandes, 8. 1. 1915</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3072,17 +2723,13 @@
                   – 13. 12. 1915?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02221">Brandes an
-                  Schnitzler, 4. 12. 1915</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02223">Brandes an
-                  Schnitzler, 13. 12. 1915</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02221">Brandes an Schnitzler, 4. 12. 1915</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02221">Brandes an Schnitzler,
-                  4. 12. 1915</ref>
+                          target="L02221">Brandes an Schnitzler, 4. 12. 1915</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3106,17 +2753,13 @@
                      <date evidence="conjecture" notBefore="1915-12-14" notAfter="1915-12-18">[14. 12. 1915 – 18. 12. 1915?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02222">Schnitzler an
-                  Brandes, 9. 12. 1915</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02224">Schnitzler an
-                  Brandes, 22. 12. 1915</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02222">Schnitzler an Brandes, 9. 12. 1915</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02224">Schnitzler an Brandes, 22. 12. 1915</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02222">Schnitzler an Brandes,
-                  9. 12. 1915</ref>
+                          target="L02222">Schnitzler an Brandes, 9. 12. 1915</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3139,17 +2782,13 @@
                      <date evidence="conjecture" notBefore="1915-12-22" notAfter="1915-12-26">[22. 12. 1915 – 26. 12. 1915?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02223">Brandes an
-                  Schnitzler, 13. 12. 1915</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02225">Hofmannsthal,
-                  Hofmannsthal an Schnitzler, Schnitzler, 5. 5. [1916?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02225">Hofmannsthal, Hofmannsthal an Schnitzler, Schnitzler, 5. 5. [1916?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02223">Brandes an Schnitzler,
-                  13. 12. 1915</ref>
+                          target="L02223">Brandes an Schnitzler, 13. 12. 1915</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3174,17 +2813,13 @@
                   – 3. 10. 1917?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02273">Beer-Hofmann
-                  an Schnitzler, 5. 9. 1917</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02275">Adam an
-                  Schnitzler, 12. 10. 1917</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02273">Beer-Hofmann an Schnitzler, 5. 9. 1917</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02275">Adam an Schnitzler, 12. 10. 1917</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02224">Schnitzler an Brandes,
-                  22. 12. 1915</ref>
+                          target="L02224">Schnitzler an Brandes, 22. 12. 1915</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3208,17 +2843,13 @@
                      <date evidence="conjecture" notBefore="1917-12-20" notAfter="1917-12-24">[20. 12. 1917 – 24. 12. 1917?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02281">Adam an
-                  Schnitzler, 23. 11. 1917</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02283">Schnitzler an
-                  Beer-Hofmann, 12. 4. 1918</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02281">Adam an Schnitzler, 23. 11. 1917</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03567">Salten an Schnitzler, 27. 12. 1917</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02274">Brandes an Schnitzler,
-                  28. 9. 1917</ref>
+                          target="L02274">Brandes an Schnitzler, 28. 9. 1917</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3243,17 +2874,13 @@
                   – 7. 8. 1918?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02291">Adam an
-                  Schnitzler, 29. 7. 1918</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02293">Schnitzler an
-                  Adam, 6. 8. 1918</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02291">Adam an Schnitzler, 29. 7. 1918</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02293">Schnitzler an Adam, 6. 8. 1918</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02282">Brandes an Schnitzler,
-                  19. 12. 1917</ref>
+                          target="L02282">Brandes an Schnitzler, 19. 12. 1917</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3277,17 +2904,13 @@
                   – 22. 9. 1918?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01255">Schnitzler an
-                  Bahr, 14. 9. 1918</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02304">Schnitzler an
-                  Bahr, 23. 9. 1918</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01255">Schnitzler an Bahr, 14. 9. 1918</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02304">Schnitzler an Bahr, 23. 9. 1918</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02292">Schnitzler an Brandes,
-                  2. 8. 1918</ref>
+                          target="L02292">Schnitzler an Brandes, 2. 8. 1918</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3312,17 +2935,14 @@
                   – 5. 12. 1918?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02311">Adam an
-                  Schnitzler, 15. 11. 1918</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02313">Hofmannsthal an
-                  Schnitzler, [Anfang Dezember 1918]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02311">Adam an Schnitzler, 15. 11. 1918</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02313">Hofmannsthal an Schnitzler, [Anfang Dezember
+                  1918]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02303">Brandes an Schnitzler,
-                  18. 9. 1918</ref>
+                          target="L02303">Brandes an Schnitzler, 18. 9. 1918</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3347,17 +2967,13 @@
                   – 18. 6. 1920?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02341">Schnitzler an
-                  Adam, 12. 6. 1920</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02343">Adam an
-                  Schnitzler, 17. 6. 1920</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02341">Schnitzler an Adam, 12. 6. 1920</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02343">Adam an Schnitzler, 17. 6. 1920</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02312">Schnitzler an Brandes,
-                  30. 11. 1918</ref>
+                          target="L02312">Schnitzler an Brandes, 30. 11. 1918</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3382,17 +2998,13 @@
                   – 21. 8. 1920?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02352">Hofmannsthal
-                  an Schnitzler, 30. 7. 1920</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02354">Brandes an
-                  Schnitzler, 17. 8. 1920</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02352">Hofmannsthal an Schnitzler, 30. 7. 1920</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02342">Brandes an Schnitzler,
-                  13. 6. 1920</ref>
+                          target="L02342">Brandes an Schnitzler, 13. 6. 1920</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3417,17 +3029,13 @@
                   – 22. 8. 1920?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02353">Schnitzler an
-                  Brandes, 16. 8. 1920</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02355">Schnitzler an
-                  Brandes, 21. 8. 1920</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02353">Schnitzler an Brandes, 16. 8. 1920</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02355">Schnitzler an Brandes, 21. 8. 1920</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02353">Schnitzler an Brandes,
-                  16. 8. 1920</ref>
+                          target="L02353">Schnitzler an Brandes, 16. 8. 1920</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3452,17 +3060,13 @@
                   – 26. 8. 1920?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02354">Brandes an
-                  Schnitzler, 17. 8. 1920</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02356">Schnitzler an
-                  Adam, 28. 10. 1920</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02356">Schnitzler an Adam, 28. 10. 1920</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02354">Brandes an Schnitzler,
-                  17. 8. 1920</ref>
+                          target="L02354">Brandes an Schnitzler, 17. 8. 1920</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3486,17 +3090,13 @@
                      <date evidence="conjecture" notBefore="1921-12-29" notAfter="1922-01-02">[29. 12. 1921 – 2. 1. 1922?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02371">Schnitzler an
-                  Bahr, 16. 12. 1921</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02373">Brandes an
-                  Schnitzler, 5. 1. 1922</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02371">Schnitzler an Bahr, 16. 12. 1921</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02373">Brandes an Schnitzler, 5. 1. 1922</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02355">Schnitzler an Brandes,
-                  21. 8. 1920</ref>
+                          target="L02355">Schnitzler an Brandes, 21. 8. 1920</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3520,17 +3120,13 @@
                   – 9. 1. 1922?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02372">Schnitzler an
-                  Brandes, 28. 12. 1921</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02374">Hofmannsthal an
-                  Schnitzler, 28. 1. 192[2]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02372">Schnitzler an Brandes, 28. 12. 1921</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02374">Hofmannsthal an Schnitzler, 28. 1. 192[2]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02372">Schnitzler an Brandes,
-                  28. 12. 1921</ref>
+                          target="L02372">Schnitzler an Brandes, 28. 12. 1921</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3555,17 +3151,13 @@
                   – 4. 2. 1922?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02375">Hofmannsthal
-                  an Schnitzler, 28. 1. 192[2]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02377">Schnitzler an
-                  Hauptmann, 17. 3. 1922</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02375">Hofmannsthal an Schnitzler, 28. 1. 192[2]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03595">Salten an Schnitzler, [22. 2. 1922?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02373">Brandes an Schnitzler,
-                  5. 1. 1922</ref>
+                          target="L02373">Brandes an Schnitzler, 5. 1. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3590,17 +3182,13 @@
                   – 20. 5. 1922?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02382">Schnitzler an
-                  Beer-Hofmann, 15. 5. 1921</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02384">Hauptmann an
-                  Schnitzler, 15. 5. 1922</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02382">Schnitzler an Beer-Hofmann, 15. 5. 1921</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02384">Hauptmann an Schnitzler, 15. 5. 1922</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02376">Schnitzler an Brandes,
-                  30. 1. 1922</ref>
+                          target="L02376">Schnitzler an Brandes, 30. 1. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3623,17 +3211,13 @@
                   – 12. 6. 1922?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02386">Schnitzler an
-                  Hauptmann, 6. 6. 1922</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02388">Bahr an
-                  Schnitzler, 9. 6. 1922</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02386">Schnitzler an Hauptmann, 6. 6. 1922</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02388">Bahr an Schnitzler, 9. 6. 1922</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02383">Brandes an Schnitzler,
-                  15. 5. 1922</ref>
+                          target="L02383">Brandes an Schnitzler, 15. 5. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3658,17 +3242,13 @@
                   – 15. 5. 1923?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02572">Rie an
-                  Schnitzler, 3. 5. 1923</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02399">Hofmannsthal an
-                  Schnitzler, 15. 5. 1923</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02572">Rie an Schnitzler, 3. 5. 1923</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02399">Hofmannsthal an Schnitzler, 15. 5. 1923</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02387">Schnitzler an Brandes,
-                  7. 6. 1922</ref>
+                          target="L02387">Schnitzler an Brandes, 7. 6. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3693,17 +3273,13 @@
                   – 16. 6. 1923?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02400">Holz an
-                  Schnitzler, 29. 5. 1923</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02573">Rie an Schnitzler,
-                  [Anfang Juli 1923]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02400">Holz an Schnitzler, 29. 5. 1923</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02793">Salten an Schnitzler, 15. 6. 1923</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02398">Brandes an Schnitzler,
-                  [11. 5. 1923]</ref>
+                          target="L02398">Brandes an Schnitzler, [11. 5. 1923]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3728,17 +3304,13 @@
                      </date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02406">Schnitzler an
-                  Beer-Hofmann, 14. 12. 1923</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02408">Hofmannsthal an
-                  Schnitzler, 18. 1. 1924</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02406">Schnitzler an Beer-Hofmann, 14. 12. 1923</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02408">Hofmannsthal an Schnitzler, 18. 1. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02401">Brandes an Schnitzler,
-                  11. 6. 1923</ref>
+                          target="L02401">Brandes an Schnitzler, 11. 6. 1923</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3763,17 +3335,13 @@
                   – 28. 6. 1924?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02412">Hofmannsthal,
-                  Hofmannsthal, Hofmannsthal an Schnitzler, 8. 5. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02414">Schnitzler an
-                  Beer-Hofmann, 18. 8. 1924</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02412">Hofmannsthal, Hofmannsthal, Hofmannsthal an Schnitzler, 8. 5. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02414">Schnitzler an Beer-Hofmann, 18. 8. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02407">Schnitzler an Brandes,
-                  4. 1. 1924</ref>
+                          target="L02407">Schnitzler an Brandes, 4. 1. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3797,17 +3365,13 @@
                      <date evidence="conjecture" notBefore="1924-12-11" notAfter="1924-12-15">[11. 12. 1924 – 15. 12. 1924?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02421">Braun an
-                  Schnitzler, 9. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02653">Lasker-Schüler an
-                  Schnitzler, 10. 12. 1924</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02421">Braun an Schnitzler, 9. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02653">Lasker-Schüler an Schnitzler, 10. 12. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02413">Schnitzler an Brandes,
-                  23. 6. 1924</ref>
+                          target="L02413">Schnitzler an Brandes, 23. 6. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3830,17 +3394,13 @@
                      <date evidence="conjecture" notBefore="1924-12-14" notAfter="1924-12-18">[14. 12. 1924 – 18. 12. 1924?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02653">Lasker-Schüler
-                  an Schnitzler, 10. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02424">Schnitzler an
-                  Hofmannsthal, 23. 12. 1924</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02653">Lasker-Schüler an Schnitzler, 10. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02424">Schnitzler an Hofmannsthal, 23. 12. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02422">Brandes an Schnitzler,
-                  10. 12. 1924</ref>
+                          target="L02422">Brandes an Schnitzler, 10. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3865,17 +3425,13 @@
                   – 16. 2. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03042">Salten an
-                  Schnitzler, Februar 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03478">Goldmann an
-                  Schnitzler, 16. 2. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03042">Salten an Schnitzler, Februar 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03478">Goldmann an Schnitzler, 16. 2. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02423">Schnitzler an Brandes,
-                  14. 12. 1924</ref>
+                          target="L02423">Schnitzler an Brandes, 14. 12. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3900,17 +3456,13 @@
                   – 22. 2. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03478">Goldmann an
-                  Schnitzler, 16. 2. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02434">Schnitzler an
-                  Brandes, 22. 2. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03478">Goldmann an Schnitzler, 16. 2. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02434">Schnitzler an Brandes, 22. 2. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02432">Schnitzler an Brandes,
-                  11. 2. 1925</ref>
+                          target="L02432">Schnitzler an Brandes, 11. 2. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3934,17 +3486,13 @@
                      <date when="1925-02-25">25. 2. 25</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02433">Rung an
-                  Schnitzler, 17. 2. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02435">Rung an
-                  Schnitzler, 1. 3. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02433">Rung an Schnitzler, 17. 2. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02435">Rung an Schnitzler, 1. 3. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02433">Rung an Schnitzler,
-                  17. 2. 1925</ref>
+                          target="L02433">Rung an Schnitzler, 17. 2. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -3969,17 +3517,13 @@
                   – 6. 3. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02434">Schnitzler an
-                  Brandes, 22. 2. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02436">Hofmannsthal an
-                  Schnitzler, 3. 3. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02434">Schnitzler an Brandes, 22. 2. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02436">Hofmannsthal an Schnitzler, 3. 3. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02434">Schnitzler an Brandes,
-                  22. 2. 1925</ref>
+                          target="L02434">Schnitzler an Brandes, 22. 2. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4004,12 +3548,9 @@
                   – 14. 3. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02437">Hofmannsthal
-                  an Schnitzler, 7. 3. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03519">Schnitzler an
-                  Goldmann, 9. 3. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02437">Hofmannsthal an Schnitzler, 7. 3. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03519">Schnitzler an Goldmann, 9. 3. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4038,12 +3579,9 @@
                   – 27. 5. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03021">Schnitzler an
-                  Salten, 6. 5. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02441">Rung an
-                  Schnitzler, 24. 5. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03584">Salten an Schnitzler, 12. 5. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02441">Rung an Schnitzler, 24. 5. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4072,17 +3610,13 @@
                   – 29. 5. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02440">Schnitzler an
-                  Rung, 22. 5. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02601">Schnitzler an ,
-                  2. 6. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02440">Schnitzler an Rung, 22. 5. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02601">Schnitzler an , 2. 6. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02440">Schnitzler an Rung,
-                  22. 5. 1925</ref>
+                          target="L02440">Schnitzler an Rung, 22. 5. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4107,17 +3641,13 @@
                   – 26. 6. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02442">Schnitzler an
-                  Mann, 7. 6. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02444">Schnitzler an
-                  Brandes, 7. 7. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02442">Schnitzler an Mann, 7. 6. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02444">Schnitzler an Brandes, 7. 7. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02441">Rung an Schnitzler,
-                  24. 5. 1925</ref>
+                          target="L02441">Rung an Schnitzler, 24. 5. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4142,17 +3672,13 @@
                   – 12. 7. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02443">Brandes an
-                  Schnitzler, 21. 6. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02445">Brandes an
-                  Schnitzler, 12. 7. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02443">Brandes an Schnitzler, 21. 6. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02445">Brandes an Schnitzler, 12. 7. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02443">Brandes an Schnitzler,
-                  21. 6. 1925</ref>
+                          target="L02443">Brandes an Schnitzler, 21. 6. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4177,17 +3703,13 @@
                   – 17. 7. 1925?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02444">Schnitzler an
-                  Brandes, 7. 7. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02446">Schnitzler an
-                  Brandes, 2[7?]. 7. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02444">Schnitzler an Brandes, 7. 7. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02446">Schnitzler an Brandes, 2[7?]. 7. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02444">Schnitzler an Brandes,
-                  7. 7. 1925</ref>
+                          target="L02444">Schnitzler an Brandes, 7. 7. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4211,17 +3733,13 @@
                      <date when="1925-07-29">29. 7. [1925] </date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02445">Brandes an
-                  Schnitzler, 12. 7. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02447">Schnitzler an
-                  Beer-Hofmann, 10. 9. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02445">Brandes an Schnitzler, 12. 7. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02447">Schnitzler an Beer-Hofmann, 10. 9. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02445">Brandes an Schnitzler,
-                  12. 7. 1925</ref>
+                          target="L02445">Brandes an Schnitzler, 12. 7. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4245,17 +3763,13 @@
                      <date evidence="conjecture" notBefore="1925-12-31" notAfter="1926-01-04">[31. 12. 1925 – 4. 1. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02461">Schnitzler an
-                  Hofmannsthal, 26. 12. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02463">Rung an
-                  Schnitzler, 30. 12. 1925</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02461">Schnitzler an Hofmannsthal, 26. 12. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02463">Rung an Schnitzler, 30. 12. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02446">Schnitzler an Brandes,
-                  2[7?]. 7. 1925</ref>
+                          target="L02446">Schnitzler an Brandes, 2[7?]. 7. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4279,17 +3793,13 @@
                      <date when="1926-01-02">2. I. 26</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02462">Brandes an
-                  Schnitzler, 30. 12. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02464">Großmann an
-                  Schnitzler, 2. 1. 192[6?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02462">Brandes an Schnitzler, 30. 12. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02464">Großmann an Schnitzler, 2. 1. 192[6?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02462">Brandes an Schnitzler,
-                  30. 12. 1925</ref>
+                          target="L02462">Brandes an Schnitzler, 30. 12. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4314,17 +3824,13 @@
                   – 8. 1. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02464">Großmann an
-                  Schnitzler, 2. 1. 192[6?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02466">Hofmannsthal an
-                  Schnitzler, 9. 3. [1926]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02464">Großmann an Schnitzler, 2. 1. 192[6?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03585">Salten an Schnitzler, 23. 2. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02463">Rung an Schnitzler,
-                  30. 12. 1925</ref>
+                          target="L02463">Rung an Schnitzler, 30. 12. 1925</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4352,17 +3858,13 @@
                      <!-- Brief an CK Pollaczek -->
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02469">Schnitzler an
-                  Braun, [nach dem 15. 3. 1926?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02471">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 29. 4. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02469">Schnitzler an Braun, [nach dem 15. 3. 1926?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02471">Schnitzler, Schnitzler an Beer-Hofmann, 29. 4. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02465">Schnitzler an Brandes,
-                  3. 1. 1926</ref>
+                          target="L02465">Schnitzler an Brandes, 3. 1. 1926</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4386,17 +3888,13 @@
                      <date when="1926-05-13">13. 5. 1926</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02471">Schnitzler,
-                  Schnitzler an Beer-Hofmann, 29. 4. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02473">Schnitzler an
-                  Beer-Hofmann, 5. 5. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02471">Schnitzler, Schnitzler an Beer-Hofmann, 29. 4. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02473">Schnitzler an Beer-Hofmann, 5. 5. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02470">Brandes an Schnitzler,
-                  21. 4. 1926</ref>
+                          target="L02470">Brandes an Schnitzler, 21. 4. 1926</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
@@ -4421,17 +3919,13 @@
                   – 2. 9. 1926?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes,
-                  Georg</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02477">Großmann an
-                  Schnitzler, 2. 6. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02479">Beer-Hofmann an
-                  Schnitzler, 12. 10. 1926</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_10992">Brandes, Georg</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02477">Großmann an Schnitzler, 2. 6. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02479">Beer-Hofmann an Schnitzler, 12. 10. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_10992"
-                          target="L02472">Schnitzler an Brandes,
-                  1. 5. 1926</ref>
+                          target="L02472">Schnitzler an Brandes, 1. 5. 1926</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="postkarte"/>

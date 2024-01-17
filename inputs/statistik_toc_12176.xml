@@ -53,10 +53,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01373">Bahr an
-                  Schnitzler, 15. 2. 1904</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01375">Hofmannsthal an
-                  Schnitzler, 20. 2. 1904</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01373">Bahr an Schnitzler, 15. 2. 1904</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01375">Hofmannsthal an Schnitzler, 20. 2. 1904</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -82,15 +80,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01786">Schnitzler an
-                  Hofmannsthal, 6. 8. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03464">Goldmann an
-                  Schnitzler, 9. 8. 1908</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01786">Schnitzler an Hofmannsthal, 6. 8. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03464">Goldmann an Schnitzler, 9. 8. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L01374">Mann an Schnitzler,
-                  15. 2. 1904</ref>
+                          target="L01374">Mann an Schnitzler, 15. 2. 1904</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -115,10 +110,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01985">Bahr an
-                  Schnitzler, 22. 11. 1910</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01987">Burckhard an
-                  Schnitzler, 25. 11. 1910</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01985">Bahr an Schnitzler, 22. 11. 1910</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03546">Salten an Schnitzler, [23. 11. 1910?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -148,15 +141,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02031">Hofmannsthal
-                  an Schnitzler, 23. [9. 1911]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03541">Goldmann an
-                  Schnitzler, 1. 10. 1911</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02031">Hofmannsthal an Schnitzler, 23. [9. 1911]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03541">Goldmann an Schnitzler, 1. 10. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L01986">Mann an Schnitzler,
-                  22. 11. 1910</ref>
+                          target="L01986">Mann an Schnitzler, 22. 11. 1910</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -181,15 +171,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02038">Hofmannsthal
-                  an Schnitzler, 16. 10. [1911?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02040">Brandes an
-                  Schnitzler, 19. 10. 1911</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02038">Hofmannsthal an Schnitzler, 16. 10. [1911?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02040">Brandes an Schnitzler, 19. 10. 1911</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02032">Mann an Schnitzler,
-                  25. 9.  1911</ref>
+                          target="L02032">Mann an Schnitzler, 25. 9.  1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -214,15 +201,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02063">Schnitzler an
-                  Beer-Hofmann, 13. 5. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02064">Blumenthal an
-                  Schnitzler, 14. 5. 1912</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02063">Schnitzler an Beer-Hofmann, 13. 5. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02064">Blumenthal an Schnitzler, 14. 5. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02039">Mann an Schnitzler,
-                  16. 10. 1911</ref>
+                          target="L02039">Mann an Schnitzler, 16. 10. 1911</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -248,15 +232,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02107">Bahr an
-                  Schnitzler, 7. 12. 1912</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02109">Hofmannsthal an
-                  Schnitzler, 1[7?]. 12. 1912</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02107">Bahr an Schnitzler, 7. 12. 1912</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02109">Hofmannsthal an Schnitzler, 1[7?]. 12. 1912</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02678">Mann an Schnitzler,
-                  13. 5. [1912?]</ref>
+                          target="L02678">Mann an Schnitzler, 13. 5. [1912?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -282,15 +263,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02138">Adam an
-                  Schnitzler, 15. 5. 1913</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02140">Beer-Hofmann an
-                  Schnitzler, 5. 7. 1913</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02138">Adam an Schnitzler, 15. 5. 1913</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03561">Salten an Schnitzler, 24. 6. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02108">Mann an Schnitzler,
-                  8. 12. 1912</ref>
+                          target="L02108">Mann an Schnitzler, 8. 12. 1912</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -316,15 +294,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02269">Schnitzler an
-                  Adam, 27. 8. 1917</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02271">Schnitzler an
-                  Beer-Hofmann, 1. 9. 1917</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02269">Schnitzler an Adam, 27. 8. 1917</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02271">Schnitzler an Beer-Hofmann, 1. 9. 1917</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02139">Mann an Schnitzler,
-                  22. 5. 1913</ref>
+                          target="L02139">Mann an Schnitzler, 22. 5. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -350,15 +325,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02389">Schnitzler an
-                  Bahr, 26. 6. 192[2]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02554">Schnitzler an
-                  Beer-Hofmann, 28. 7. 1922</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02389">Schnitzler an Bahr, 26. 6. 192[2]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02554">Schnitzler an Beer-Hofmann, 28. 7. 1922</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02270">Mann an Schnitzler,
-                  27. 8. 1917</ref>
+                          target="L02270">Mann an Schnitzler, 27. 8. 1917</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -384,15 +356,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02391">Schnitzler an
-                  Beer-Hofmann, [zwischen 10. und 28. 8.] 1922</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02393">Schnitzler an
-                  Hauptmann, 14. 11. 1922</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03582">Salten an Schnitzler, 17. 8. 1922</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02393">Schnitzler an Hauptmann, 14. 11. 1922</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02390">Schnitzler an Mann,
-                  26. 6. 1922</ref>
+                          target="L02390">Schnitzler an Mann, 26. 6. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -417,10 +386,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02393">Schnitzler an
-                  Hauptmann, 14. 11. 1922</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02395">Schnitzler an
-                  Hofmannsthal, 15. 1. 1923</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02393">Schnitzler an Hauptmann, 14. 11. 1922</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02395">Schnitzler an Hofmannsthal, 15. 1. 1923</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -450,15 +417,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02396">Hofmannsthal
-                  an Schnitzler, 16. 1. 1923</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02572">Rie an Schnitzler,
-                  3. 5. 1923</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02396">Hofmannsthal an Schnitzler, 16. 1. 1923</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02572">Rie an Schnitzler, 3. 5. 1923</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02394">Schnitzler an Mann,
-                  28. 12. 1922</ref>
+                          target="L02394">Schnitzler an Mann, 28. 12. 1922</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -483,15 +447,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02576">Rie an
-                  Schnitzler, 30. 9. 1923</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02405">Mann an
-                  Schnitzler, 22. 11. 1923</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02576">Rie an Schnitzler, 30. 9. 1923</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02405">Mann an Schnitzler, 22. 11. 1923</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02397">Mann an Schnitzler,
-                  20. 2. 1923</ref>
+                          target="L02397">Mann an Schnitzler, 20. 2. 1923</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -516,15 +477,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02404">Schnitzler an
-                  Mann, 18. 11. 1923</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02948">Schnitzler an
-                  Salten, 10. 12. 1923</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02404">Schnitzler an Mann, 18. 11. 1923</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02948">Schnitzler an Salten, 10. 12. 1923</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02404">Schnitzler an Mann,
-                  18. 11. 1923</ref>
+                          target="L02404">Schnitzler an Mann, 18. 11. 1923</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -549,15 +507,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02416">Schnitzler an
-                  Braun, 19. 10. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02418">Hofmannsthal an
-                  Schnitzler, 31. 10. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02416">Schnitzler an Braun, 19. 10. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02418">Hofmannsthal an Schnitzler, 31. 10. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02405">Mann an Schnitzler,
-                  22. 11. 1923</ref>
+                          target="L02405">Mann an Schnitzler, 22. 11. 1923</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -583,15 +538,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02419">Schnitzler an
-                  Hofmannsthal, [5?.] 11. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02421">Braun an
-                  Schnitzler, 9. 12. 1924</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02419">Schnitzler an Hofmannsthal, [5?.] 11. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02421">Braun an Schnitzler, 9. 12. 1924</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02417">Mann an Schnitzler,
-                  22. 10. 1924</ref>
+                          target="L02417">Mann an Schnitzler, 22. 10. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -616,15 +568,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02428">Braun an
-                  Schnitzler, 31. 12. 1924</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02430">Mann an
-                  Schnitzler, 9. 1. 1925</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02428">Braun an Schnitzler, 31. 12. 1924</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02430">Mann an Schnitzler, 9. 1. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02420">Schnitzler an Mann,
-                  6. 11. 1924</ref>
+                          target="L02420">Schnitzler an Mann, 6. 11. 1924</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -650,10 +599,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02429">Schnitzler an
-                  Mann, 5. 1. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02431">Schnitzler an
-                  Beer-Hofmann, 23. 1. 1925</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02429">Schnitzler an Mann, 5. 1. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02431">Schnitzler an Beer-Hofmann, 23. 1. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -682,10 +629,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02601">Schnitzler an
-                  , 2. 6. 1925</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02443">Brandes an
-                  Schnitzler, 21. 6. 1925</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02601">Schnitzler an , 2. 6. 1925</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02443">Brandes an Schnitzler, 21. 6. 1925</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -715,10 +660,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02473">Schnitzler an
-                  Beer-Hofmann, 5. 5. 1926</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02475">Großmann an
-                  Schnitzler, 25. 5. 1926</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02473">Schnitzler an Beer-Hofmann, 5. 5. 1926</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02475">Großmann an Schnitzler, 25. 5. 1926</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -747,15 +690,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02494">Braun an
-                  Schnitzler, 25. 12. 1927</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02568">Rie an Schnitzler,
-                  25. 12. 1927</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02494">Braun an Schnitzler, 25. 12. 1927</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02568">Rie an Schnitzler, 25. 12. 1927</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02474">Mann, Mann an Schnitzler,
-                  23. 5. 1926</ref>
+                          target="L02474">Mann, Mann an Schnitzler, 23. 5. 1926</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -781,15 +721,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02500">Adam an
-                  Schnitzler, 11. 5. 1928</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02502">Hofmannsthal,
-                  Hofmannsthal an Schnitzler, Mitte Juni 1928</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02500">Adam an Schnitzler, 11. 5. 1928</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02502">Hofmannsthal, Hofmannsthal an Schnitzler, Mitte Juni 1928</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02495">Mann an Schnitzler,
-                  25. 12. 1927</ref>
+                          target="L02495">Mann an Schnitzler, 25. 12. 1927</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -815,15 +752,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02506">Schnitzler an
-                  Hofmannsthal, 4. 11. 1928</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02508">Mann an
-                  Schnitzler, 1. 2. 1929</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02506">Schnitzler an Hofmannsthal, 4. 11. 1928</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02508">Mann an Schnitzler, 1. 2. 1929</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02501">Mann an Schnitzler,
-                  28. 5. 1928</ref>
+                          target="L02501">Mann an Schnitzler, 28. 5. 1928</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -849,15 +783,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02507">Schnitzler an
-                  Mann, 30. 1. 1929</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02509">Hofmannsthal an
-                  Schnitzler, 3. 6. 1929</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02507">Schnitzler an Mann, 30. 1. 1929</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02509">Hofmannsthal an Schnitzler, 3. 6. 1929</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02507">Schnitzler an Mann,
-                  30. 1. 1929</ref>
+                          target="L02507">Schnitzler an Mann, 30. 1. 1929</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -882,10 +813,8 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02522">Hofmannsthal
-                  an Schnitzler, 3. 9. 1929</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02524">Mann an
-                  Schnitzler, [nach dem 18. 11. 1929]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03589">Salten an Schnitzler, [16. 11. 1929]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02524">Mann an Schnitzler, [nach dem 18. 11. 1929]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -914,15 +843,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02523">Schnitzler an
-                  Mann, 18. 11. 1929</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02525">Hofmannsthal an
-                  Schnitzler, 23. 11. 1929</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02523">Schnitzler an Mann, 18. 11. 1929</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02525">Hofmannsthal an Schnitzler, 23. 11. 1929</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02523">Schnitzler an Mann,
-                  18. 11. 1929</ref>
+                          target="L02523">Schnitzler an Mann, 18. 11. 1929</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
@@ -948,15 +874,12 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02539">Beer-Hofmann,
-                  Beer-Hofmann an Schnitzler, 11. 9. 1930</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02541">Schnitzler an
-                  Beer-Hofmann, 14. 1. 1931</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02539">Beer-Hofmann, Beer-Hofmann an Schnitzler, 11. 9. 1930</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02541">Schnitzler an Beer-Hofmann, 14. 1. 1931</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"
-                          target="L02524">Mann an Schnitzler, [nach dem
-                  18. 11. 1929]</ref>
+                          target="L02524">Mann an Schnitzler, [nach dem 18. 11. 1929]</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="visitenkarte"/>

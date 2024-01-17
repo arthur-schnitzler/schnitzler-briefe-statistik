@@ -52,12 +52,9 @@
                   – 12. 8. 1896?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00579">Schnitzler an
-                  Hofmannsthal, 7. 8. 1896</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03178">Salten an
-                  Schnitzler, 8. 8. 1896</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00579">Schnitzler an Hofmannsthal, 7. 8. 1896</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03178">Salten an Schnitzler, 8. 8. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -82,17 +79,13 @@
                   – 28. 8. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00963">Schnitzler an
-                  Beer-Hofmann, 23. 8. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00964">Schnitzler an
-                  Hauptmann, 25. 8. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00963">Schnitzler an Beer-Hofmann, 23. 8. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00964">Schnitzler an Hauptmann, 25. 8. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02590">Herzfeld an Schnitzler,
-                  7. 8. 1896</ref>
+                          target="L02590">Herzfeld an Schnitzler, 7. 8. 1896</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -117,17 +110,13 @@
                   – 20. 1. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03460">Goldmann an
-                  Schnitzler, 16. 1. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03509">Salten an
-                  Schnitzler, 16. 1. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03460">Goldmann an Schnitzler, 16. 1. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03509">Salten an Schnitzler, 16. 1. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02591">Herzfeld an Schnitzler,
-                  23. 8. 1899</ref>
+                          target="L02591">Herzfeld an Schnitzler, 23. 8. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -152,17 +141,13 @@
                   – 28. 1. 1908?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01757">Schnitzler an
-                  Ehrenstein, 24. 1. 1908</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01758">Schnitzler an
-                  Hofmannsthal, 25. 1. 1908</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01757">Schnitzler an Ehrenstein, 24. 1. 1908</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01758">Schnitzler an Hofmannsthal, 25. 1. 1908</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02592">Herzfeld an Schnitzler,
-                  16. 1. 1908</ref>
+                          target="L02592">Herzfeld an Schnitzler, 16. 1. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -187,17 +172,13 @@
                   – 23. 4. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01839">Altenberg an
-                  Schnitzler, [17. 4. 1909]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02597">Schnitzler an
-                  Herzfeld, 20. 4. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01839">Altenberg an Schnitzler, [17. 4. 1909]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02597">Schnitzler an Herzfeld, 20. 4. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02599">Schnitzler an Herzfeld,
-                  24. 1. 1908</ref>
+                          target="L02599">Schnitzler an Herzfeld, 24. 1. 1908</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -222,17 +203,13 @@
                   – 24. 4. 1909?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02593">Herzfeld an
-                  Schnitzler, 19. 4. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03468">Goldmann an
-                  Schnitzler, 26. 4. 1909</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02593">Herzfeld an Schnitzler, 19. 4. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03468">Goldmann an Schnitzler, 26. 4. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02593">Herzfeld an Schnitzler,
-                  19. 4. 1909</ref>
+                          target="L02593">Herzfeld an Schnitzler, 19. 4. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -257,17 +234,13 @@
                   – 3. 4. 1913?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02116">Brandes an
-                  Schnitzler, 5. 3. 1913</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02117">Adam an
-                  Schnitzler, 2. 4. 1913</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02116">Brandes an Schnitzler, 5. 3. 1913</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02117">Adam an Schnitzler, 2. 4. 1913</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02597">Schnitzler an Herzfeld,
-                  20. 4. 1909</ref>
+                          target="L02597">Schnitzler an Herzfeld, 20. 4. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -292,17 +265,13 @@
                   – 9. 3. 1931?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02544">Hofmannsthal
-                  an Schnitzler, [5. 3. 1931]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02598">Schnitzler an
-                  Herzfeld, 7. 3. 1931</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02544">Hofmannsthal an Schnitzler, [5. 3. 1931]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02598">Schnitzler an Herzfeld, 7. 3. 1931</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02594">Herzfeld an Schnitzler,
-                  30. 3. 1913</ref>
+                          target="L02594">Herzfeld an Schnitzler, 30. 3. 1913</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -327,17 +296,13 @@
                   – 11. 3. 1931?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02589">Herzfeld an
-                  Schnitzler, 5. 3. 1931</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02595">Herzfeld an
-                  Schnitzler, 10. 3. 1931</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02589">Herzfeld an Schnitzler, 5. 3. 1931</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02595">Herzfeld an Schnitzler, 10. 3. 1931</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02589">Herzfeld an Schnitzler,
-                  5. 3. 1931</ref>
+                          target="L02589">Herzfeld an Schnitzler, 5. 3. 1931</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -362,17 +327,13 @@
                   – 14. 3. 1931?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02598">Schnitzler an
-                  Herzfeld, 7. 3. 1931</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02596">Herzfeld an
-                  Schnitzler, 12. 3. [1931]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02598">Schnitzler an Herzfeld, 7. 3. 1931</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02596">Herzfeld an Schnitzler, 12. 3. [1931]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02598">Schnitzler an Herzfeld,
-                  7. 3. 1931</ref>
+                          target="L02598">Schnitzler an Herzfeld, 7. 3. 1931</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
@@ -396,17 +357,14 @@
                   – 16. 3. 1931?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld,
-                  Marie</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02595">Herzfeld an
-                  Schnitzler, 10. 3. 1931</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03049">Salten an
-                  Schnitzler, [zwischen 1. und 29.] 5. 1931</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11666">Herzfeld, Marie</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02595">Herzfeld an Schnitzler, 10. 3. 1931</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03049">Salten an Schnitzler, [zwischen 1. und
+                  29.] 5. 1931</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11666"
-                          target="L02595">Herzfeld an Schnitzler,
-                  10. 3. 1931</ref>
+                          target="L02595">Herzfeld an Schnitzler, 10. 3. 1931</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="briefkarte"/>

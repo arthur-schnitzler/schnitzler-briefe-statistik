@@ -51,12 +51,9 @@
                      <date evidence="conjecture" notBefore="1894-12-23" notAfter="1894-12-25">[23. 12. 1894 – 27. 12. 1894?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02628">Goldmann an
-                  Schnitzler, 18. 12. [1894]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00412">Hofmannsthal an
-                  Schnitzler, [30. 12. 1894?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02628">Goldmann an Schnitzler, 18. 12. [1894]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00412">Hofmannsthal an Schnitzler, [30. 12. 1894?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -81,17 +78,13 @@
                   – 31. 3. 1895?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00426">Schnitzler an
-                  Hofmannsthal, 27. 3. 1895</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02732">Goldmann an
-                  Schnitzler, 28. 3. [1895]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00426">Schnitzler an Hofmannsthal, 27. 3. 1895</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02732">Goldmann an Schnitzler, 28. 3. [1895]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00411">David an Schnitzler,
-                  23. 12. 1894</ref>
+                          target="L00411">David an Schnitzler, 23. 12. 1894</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -116,17 +109,13 @@
                   – 9. 10. 1895?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00499">Fels an
-                  Schnitzler, 4. 10. 1895</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00501">Bahr an
-                  Schnitzler, [6. 10. 1895]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00499">Fels an Schnitzler, 4. 10. 1895</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00501">Bahr an Schnitzler, [6. 10. 1895]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00427">David an Schnitzler,
-                  [27. 3. 1895]</ref>
+                          target="L00427">David an Schnitzler, [27. 3. 1895]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -150,17 +139,13 @@
                      <date when="1895-11-05">5. 11. 1895</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00510">Schnitzler an
-                  Beer-Hofmann, [19. 10. 1895?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02754">Goldmann an
-                  Schnitzler, 6. 11. [1895]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00510">Schnitzler an Beer-Hofmann, [19. 10. 1895?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02754">Goldmann an Schnitzler, 6. 11. [1895]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00500">David an Schnitzler,
-                  [5. 10. 1895]</ref>
+                          target="L00500">David an Schnitzler, [5. 10. 1895]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -184,17 +169,13 @@
                      <date when="1899-02-27">27. 2. 1899</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02867">Goldmann an
-                  Schnitzler, 26. 2. [1899]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00895">David an
-                  Schnitzler, 28. 2. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02867">Goldmann an Schnitzler, 26. 2. [1899]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00895">David an Schnitzler, 28. 2. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00511">David an Schnitzler,
-                  4. 11. 1895</ref>
+                          target="L00511">David an Schnitzler, 4. 11. 1895</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -218,17 +199,13 @@
                      <date when="1899-02-28">28. 2. 1899</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00894">David an
-                  Schnitzler, 27. 2. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00896">Schnitzler an
-                  Bahr, [2. – 6.?] 3. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00894">David an Schnitzler, 27. 2. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00896">Schnitzler an Bahr, [2. – 6.?] 3. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00894">David an Schnitzler,
-                  27. 2. 1899</ref>
+                          target="L00894">David an Schnitzler, 27. 2. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -252,17 +229,13 @@
                      <date when="1899-03-03">3. 3. 1899</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00896">Schnitzler an
-                  Bahr, [2. – 6.?] 3. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02868">Goldmann an
-                  Schnitzler, 5. 3. [1899]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00896">Schnitzler an Bahr, [2. – 6.?] 3. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02868">Goldmann an Schnitzler, 5. 3. [1899]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00895">David an Schnitzler,
-                  28. 2. 1899</ref>
+                          target="L00895">David an Schnitzler, 28. 2. 1899</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -287,12 +260,9 @@
                   – 12. 3. 1899?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00901">Bahr an
-                  Schnitzler, 8. 3. 1899</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00903">Schnitzler an
-                  Bahr, 9. 3. 1899</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00901">Bahr an Schnitzler, 8. 3. 1899</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00903">Schnitzler an Bahr, 9. 3. 1899</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -321,17 +291,13 @@
                   – 17. 5. 1901?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01118">Brandes an
-                  Schnitzler, 13. 5. 1901</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03066">Goldmann an
-                  Schnitzler, 13. 5. [1901]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01118">Brandes an Schnitzler, 13. 5. 1901</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03066">Goldmann an Schnitzler, 13. 5. [1901]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L00902">David an Schnitzler,
-                  [8. 3. 1899?]</ref>
+                          target="L00902">David an Schnitzler, [8. 3. 1899?]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
@@ -357,17 +323,13 @@
                   – 6. 4. 1903?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob
-                  Julius</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L01284">Schnitzler an
-                  Bahr, [2.?] 4. 1903</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01286">Bahr an
-                  Schnitzler, 4. 4. 1903</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_2416">David, Jakob Julius</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L01284">Schnitzler an Bahr, [2.?] 4. 1903</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01286">Bahr an Schnitzler, 4. 4. 1903</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2416"
-                          target="L01119">David an Schnitzler,
-                  13. 5. 1901</ref>
+                          target="L01119">David an Schnitzler, 13. 5. 1901</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="widmung" ana="widmung_vortitel"/>

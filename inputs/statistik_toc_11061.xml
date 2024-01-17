@@ -52,12 +52,9 @@
                   – 6. 9. 1890?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02649">Goldmann an
-                  Schnitzler, 18. 8. 1890</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00004">Bölsche an
-                  Schnitzler, 17. 9. 1890</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02649">Goldmann an Schnitzler, 18. 8. 1890</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00004">Bölsche an Schnitzler, 17. 9. 1890</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -82,17 +79,13 @@
                   – 22. 9. 1890?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00005">Schnitzler an
-                  Bölsche, [Anfang September] 1890</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02650">Goldmann an
-                  Schnitzler, 25. 9. 1890</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00005">Schnitzler an Bölsche, [Anfang September] 1890</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02650">Goldmann an Schnitzler, 25. 9. 1890</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00005">Schnitzler an Bölsche, [Anfang
-                  September] 1890</ref>
+                          target="L00005">Schnitzler an Bölsche, [Anfang September] 1890</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -116,17 +109,13 @@
                      <date evidence="conjecture" notBefore="1890-10-15" notAfter="1890-10-19">[15. 10. 1890 – 19. 10. 1890?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02651">Goldmann an
-                  Schnitzler, 1. 10. 1890</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00007">Bölsche an
-                  Schnitzler, 25. 10. 1890</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02651">Goldmann an Schnitzler, 1. 10. 1890</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00007">Bölsche an Schnitzler, 25. 10. 1890</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00004">Bölsche an Schnitzler,
-                  17. 9. 1890</ref>
+                          target="L00004">Bölsche an Schnitzler, 17. 9. 1890</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -150,17 +139,13 @@
                      <date evidence="conjecture" notBefore="1890-10-26" notAfter="1890-10-30">[26. 10. 1890 – 30. 10. 1890?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00006">Schnitzler an
-                  Bölsche, 14. 10. 1890</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00008">Conrad an
-                  Schnitzler, 14. 11. 1890</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00006">Schnitzler an Bölsche, 14. 10. 1890</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00008">Conrad an Schnitzler, 14. 11. 1890</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00006">Schnitzler an Bölsche,
-                  14. 10. 1890</ref>
+                          target="L00006">Schnitzler an Bölsche, 14. 10. 1890</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -185,17 +170,13 @@
                   – 10. 5. 1891?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02953">Schnitzler an
-                  Salten, [Mai 1891–1892?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00011">Schnitzler an
-                  Hofmannsthal, [5.? 5. 1891]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02953">Schnitzler an Salten, [Mai 1891–1892?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00011">Schnitzler an Hofmannsthal, [5.? 5. 1891]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00007">Bölsche an Schnitzler,
-                  25. 10. 1890</ref>
+                          target="L00007">Bölsche an Schnitzler, 25. 10. 1890</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -220,17 +201,13 @@
                   – 8. 8. 1891?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00026">Hofmannsthal
-                  an Schnitzler, [Anfang August] 1891</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02668">Goldmann an
-                  Schnitzler, 4. 8. 1891</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00026">Hofmannsthal an Schnitzler, [Anfang August] 1891</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02668">Goldmann an Schnitzler, 4. 8. 1891</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00010">Schnitzler an Bölsche,
-                  [5. 5. 1891]</ref>
+                          target="L00010">Schnitzler an Bölsche, [5. 5. 1891]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -255,17 +232,14 @@
                   – 11. 10. 1891?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03106">Salten an
-                  Schnitzler, [28. 9. 1891?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00043">Schnitzler an
-                  Beer-Hofmann, [zwischen 7. 10. 1891 und 30. 4. 1892]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03106">Salten an Schnitzler, [28. 9. 1891?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00043">Schnitzler an Beer-Hofmann, [zwischen 7. 10. 1891 und
+                  30. 4. 1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00027">Schnitzler an Bölsche,
-                  3. 8. 1891</ref>
+                          target="L00027">Schnitzler an Bölsche, 3. 8. 1891</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -289,17 +263,13 @@
                      <date evidence="conjecture" notBefore="1891-12-16" notAfter="1891-12-20">[16. 12. 1891 – 20. 12. 1891?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00052">Blumenthal an
-                  Schnitzler, 15. 12. 1891</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00054">Beer-Hofmann an
-                  Schnitzler, [16. 12. 1891]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00052">Blumenthal an Schnitzler, 15. 12. 1891</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00054">Beer-Hofmann an Schnitzler, [16. 12. 1891]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00042">Bölsche an Schnitzler,
-                  6. 10. 1891</ref>
+                          target="L00042">Bölsche an Schnitzler, 6. 10. 1891</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -323,17 +293,13 @@
                      <date evidence="conjecture" notBefore="1891-12-20" notAfter="1891-12-24">[20. 12. 1891 – 24. 12. 1891?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02676">Goldmann an
-                  Schnitzler, 18. 12. 1891</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00056">Bahr an
-                  Schnitzler, 22. 12. 1891</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02676">Goldmann an Schnitzler, 18. 12. 1891</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00056">Bahr an Schnitzler, 22. 12. 1891</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00053">Bölsche an Schnitzler,
-                  15. 12. 1891</ref>
+                          target="L00053">Bölsche an Schnitzler, 15. 12. 1891</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -358,17 +324,13 @@
                   – 29. 2. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00075">Hofmannsthal
-                  an Schnitzler, 23. 2. 1892</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00077">Blumenthal an
-                  Schnitzler, [6. 3. 1892]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00075">Hofmannsthal an Schnitzler, 23. 2. 1892</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00077">Blumenthal an Schnitzler, [6. 3. 1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00055">Schnitzler an Bölsche,
-                  19. 12. 1891</ref>
+                          target="L00055">Schnitzler an Bölsche, 19. 12. 1891</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -393,17 +355,13 @@
                   – 29. 3. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02955">Schnitzler an
-                  Salten, 21. 3. 1892</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00088">Hofmannsthal an
-                  Schnitzler, 26. 3. 1892</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02955">Schnitzler an Salten, 21. 3. 1892</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00088">Hofmannsthal an Schnitzler, 26. 3. 1892</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00076">Schnitzler an Bölsche,
-                  24. 2. 1892</ref>
+                          target="L00076">Schnitzler an Bölsche, 24. 2. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -428,17 +386,13 @@
                   – 1. 4. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00088">Hofmannsthal
-                  an Schnitzler, 26. 3. 1892</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00090">Schnitzler an
-                  Hofmannsthal, 27. 3. 1892</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00088">Hofmannsthal an Schnitzler, 26. 3. 1892</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00090">Schnitzler an Hofmannsthal, 27. 3. 1892</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00087">Bölsche an Schnitzler,
-                  24. 3. 1892</ref>
+                          target="L00087">Bölsche an Schnitzler, 24. 3. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -463,17 +417,13 @@
                   – 6. 4. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03108">Salten an
-                  Schnitzler, [31. 3. 1892]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03184">Salten an
-                  Schnitzler, [April 1892]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03108">Salten an Schnitzler, [31. 3. 1892]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03184">Salten an Schnitzler, [April 1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00089">Schnitzler an Bölsche,
-                  27. 3. 1892</ref>
+                          target="L00089">Schnitzler an Bölsche, 27. 3. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -498,17 +448,13 @@
                   – 25. 4. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00094">Schnitzler an
-                  Hofmannsthal, [13.? 4. 1892]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02697">Goldmann an
-                  Schnitzler, 23. 4. [1892]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00094">Schnitzler an Hofmannsthal, [13.? 4. 1892]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02697">Goldmann an Schnitzler, 23. 4. [1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00091">Bölsche an Schnitzler, [Anfang April
-                  1892]</ref>
+                          target="L00091">Bölsche an Schnitzler, [Anfang April 1892]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -533,17 +479,13 @@
                   – 1. 6. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02956">Schnitzler an
-                  Salten, [21. 5. 1892?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03110">Salten an
-                  Schnitzler, [4. 6. 1892]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02956">Schnitzler an Salten, [21. 5. 1892?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03110">Salten an Schnitzler, [4. 6. 1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00095">Schnitzler an Bölsche,
-                  20. 4. 1892</ref>
+                          target="L00095">Schnitzler an Bölsche, 20. 4. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -568,17 +510,13 @@
                   – 29. 7. 1892?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02700">Goldmann an
-                  Schnitzler, 19. 7. [1892]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00107">Schnitzler an
-                  Hofmannsthal, [25.? 7. 1892]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02700">Goldmann an Schnitzler, 19. 7. [1892]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00107">Schnitzler an Hofmannsthal, [25.? 7. 1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00102">Schnitzler an Bölsche,
-                  27. 5. 1892</ref>
+                          target="L00102">Schnitzler an Bölsche, 27. 5. 1892</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -603,17 +541,13 @@
                   – 15. 4. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00195">Schnitzler an
-                  Beer-Hofmann, 3. 4. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00197">Schnitzler an
-                  Beer-Hofmann, 12. 4. 1893</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00195">Schnitzler an Beer-Hofmann, 3. 4. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00197">Schnitzler an Beer-Hofmann, 12. 4. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00106">Bölsche an Schnitzler,
-                  [24. 7. 1892]</ref>
+                          target="L00106">Bölsche an Schnitzler, [24. 7. 1892]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -638,17 +572,13 @@
                   – 6. 6. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00214">Hofmannsthal
-                  an Schnitzler, 27. 5. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02709">Goldmann an
-                  Schnitzler, 3. 6. 1893</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00214">Hofmannsthal an Schnitzler, 27. 5. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02709">Goldmann an Schnitzler, 3. 6. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00196">Schnitzler an Bölsche,
-                  10. 4. 1893</ref>
+                          target="L00196">Schnitzler an Bölsche, 10. 4. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -673,17 +603,13 @@
                   – 16. 6. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00219">Schnitzler an
-                  Beer-Hofmann, 9. 6. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00221">Bölsche an
-                  Schnitzler, 12. 6. 1893</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00219">Schnitzler an Beer-Hofmann, 9. 6. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00221">Bölsche an Schnitzler, 12. 6. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00215">Schnitzler an Bölsche,
-                  1. 6. 1893</ref>
+                          target="L00215">Schnitzler an Bölsche, 1. 6. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -708,17 +634,13 @@
                   – 17. 6. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00220">Schnitzler an
-                  Bölsche, 11. 6. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02954">Schnitzler an
-                  Salten, [13. 6. 1893?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00220">Schnitzler an Bölsche, 11. 6. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02954">Schnitzler an Salten, [13. 6. 1893?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00220">Schnitzler an Bölsche,
-                  11. 6. 1893</ref>
+                          target="L00220">Schnitzler an Bölsche, 11. 6. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -743,17 +665,13 @@
                   – 19. 6. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02954">Schnitzler an
-                  Salten, [13. 6. 1893?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00223">Beer-Hofmann an
-                  Schnitzler, [vor dem 22. 6. 1893?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02954">Schnitzler an Salten, [13. 6. 1893?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00223">Beer-Hofmann an Schnitzler, [vor dem 22. 6. 1893?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00221">Bölsche an Schnitzler,
-                  12. 6. 1893</ref>
+                          target="L00221">Bölsche an Schnitzler, 12. 6. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -778,17 +696,13 @@
                   – 6. 7. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00228">Schnitzler an
-                  Beer-Hofmann, 30. 6. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00230">Schnitzler an
-                  Beer-Hofmann, 2. 7. 1893</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00228">Schnitzler an Beer-Hofmann, 30. 6. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00230">Schnitzler an Beer-Hofmann, 2. 7. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00222">Schnitzler an Bölsche,
-                  14. 6. 1893</ref>
+                          target="L00222">Schnitzler an Bölsche, 14. 6. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -813,17 +727,13 @@
                   – 13. 7. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03123">Salten an
-                  Schnitzler, 6. 7. 1893</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00235">Hofmannsthal an
-                  Schnitzler, Beer-Hofmann, 8. 7. 1893</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03123">Salten an Schnitzler, 6. 7. 1893</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00235">Hofmannsthal an Schnitzler, Beer-Hofmann, 8. 7. 1893</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00229">Bölsche an Schnitzler,
-                  1. 7. 1893</ref>
+                          target="L00229">Bölsche an Schnitzler, 1. 7. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -848,17 +758,13 @@
                   – 30. 7. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00241">Bahr an
-                  Schnitzler, [24. 7. 1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00243">Beer-Hofmann an
-                  Schnitzler, [25. 7. 1893]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00241">Bahr an Schnitzler, [24. 7. 1893]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00243">Beer-Hofmann an Schnitzler, [25. 7. 1893]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00234">Schnitzler an Bölsche,
-                  8. 7. 1893</ref>
+                          target="L00234">Schnitzler an Bölsche, 8. 7. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -882,17 +788,13 @@
                      <date evidence="conjecture" notBefore="1893-11-15" notAfter="1893-11-19">[15. 11. 1893 – 19. 11. 1893?]</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00281">Bahr an
-                  Schnitzler, [7. 11. 1893?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00283">Beer-Hofmann an
-                  Schnitzler, [15. 11. 1893?]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00281">Bahr an Schnitzler, [7. 11. 1893?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00283">Beer-Hofmann an Schnitzler, [15. 11. 1893?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00242">Schnitzler an Fischer,
-                  25. 7. 1893</ref>
+                          target="L00242">Schnitzler an Fischer, 25. 7. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -916,22 +818,17 @@
                      <date when="1893-11-18">18 11 93</date>
                   </correspAction>
                   <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00283">Beer-Hofmann
-                  an Schnitzler, [15. 11. 1893?]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02720">Goldmann an
-                  Schnitzler, 28. 11. [1893]</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L00283">Beer-Hofmann an Schnitzler, [15. 11. 1893?]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02720">Goldmann an Schnitzler, 28. 11. [1893]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00282">Schnitzler an Bölsche,
-                  [12.? 11. 1893]</ref>
+                          target="L00282">Schnitzler an Bölsche, [12.? 11. 1893]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an
-                  Schnitzler, 19. 4. 1906</ref>
+                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="postkarte"/>
@@ -966,19 +863,15 @@
                      <ref type="belongsToCorrespondence" target="correspondence_2167">Salten, Felix</ref>
                      <ref type="belongsToCorrespondence" target="#pmb18900">Jonas, Clara</ref>
                      <ref type="belongsToCorrespondence" target="#pmb2713">Heilbut, Emil</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
                      <ref type="belongsToCorrespondence" target="#pmb2657">Fischer, Hedwig</ref>
                      <ref type="belongsToCorrespondence" target="#pmb147457">Jonas, Lili</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03243">Goldmann an
-                  Schnitzler, 16. 4. [1906]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03244">Goldmann an
-                  Schnitzler, 20. 4. [1906]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03243">Goldmann an Schnitzler, 16. 4. [1906]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03244">Goldmann an Schnitzler, 20. 4. [1906]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2167"
-                          target="L03418">Salten an Schnitzler,
-                  15. 4. 1906</ref>
+                          target="L03418">Salten an Schnitzler, 15. 4. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2167"
@@ -986,16 +879,15 @@
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00284">Bölsche an Schnitzler,
-                  16. 11. 1893</ref>
+                          target="L00284">Bölsche an Schnitzler, 16. 11. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L03426">Salten, Salten, Fischer, Fischer, an Schnitzler, 4. 6. 1906</ref>
+                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="#pmb2657"
-                          target="L03426">Salten, Salten, Fischer, Fischer, an Schnitzler, 4. 6. 1906</ref>
+                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="postkarte"/>
@@ -1021,20 +913,15 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_2167">Salten, Felix</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
                      <ref type="belongsToCorrespondence" target="#pmb2657">Fischer, Hedwig</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb147550">?? [Frau in Königs
-                  Wusterhausen]</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03246">Goldmann an
-                  Schnitzler, 3. 6. [1906]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02796">Schnitzler an
-                  Ehrenstein, 5. 6. 1906</ref>
+                     <ref type="belongsToCorrespondence" target="#pmb147550">?? [Frau in Königs Wusterhausen]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03246">Goldmann an Schnitzler, 3. 6. [1906]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L02796">Schnitzler an Ehrenstein, 5. 6. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2167"
-                          target="L03006">Schnitzler an Salten,
-                  26. 5. 1906</ref>
+                          target="L03006">Schnitzler an Salten, 26. 5. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2167"
@@ -1042,23 +929,21 @@
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L03419">Salten, Salten, Brahm, Jonas,
-                  Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
+                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler,
-                  [zwischen 19. und 30. 7.? 1909]</ref>
+                          target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler, [zwischen 19. und
+                  30. 7.? 1909]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="#pmb2657"
-                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an
-                  Schnitzler, 19. 4. 1906</ref>
+                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="#pmb2657"
-                          target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler,
-                  [zwischen 19. und 30. 7.? 1909]</ref>
+                          target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler, [zwischen 19. und
+                  30. 7.? 1909]</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="bildpostkarte"/>
@@ -1086,18 +971,14 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_2167">Salten, Felix</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche,
-                  Wilhelm</ref>
+                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
                      <ref type="belongsToCorrespondence" target="#pmb2657">Fischer, Hedwig</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03503">Salten an
-                  Schnitzler, 18. 7. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01859">Schnitzler an
-                  Ehrenstein, 24. 7. 1909</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03503">Salten an Schnitzler, 18. 7. 1909</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L01859">Schnitzler an Ehrenstein, 24. 7. 1909</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_2167"
-                          target="L03503">Salten an Schnitzler,
-                  18. 7. 1909</ref>
+                          target="L03503">Salten an Schnitzler, 18. 7. 1909</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_2167"
@@ -1105,12 +986,11 @@
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L03426">Salten, Salten, Fischer, Fischer, an
-                  Schnitzler, 4. 6. 1906</ref>
+                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="#pmb2657"
-                          target="L03426">Salten, Salten, Fischer, Fischer, an Schnitzler, 4. 6. 1906</ref>
+                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="bildpostkarte"/>
