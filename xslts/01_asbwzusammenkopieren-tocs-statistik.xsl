@@ -7,7 +7,7 @@
     <xsl:mode on-no-match="shallow-skip"/>
     <xsl:param name="listcorrespondence" select="document('https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/main/data/indices/listcorrespondence.xml')"/>
     <xsl:template match="root">
-        <xsl:variable name="folderURI" select="https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/main/data/editions"/>
+        <xsl:variable name="folderURI" select="'https://raw.githubusercontent.com/arthur-schnitzler/schnitzler-briefe-data/main/data/editions'"/>
         <xsl:for-each
             select="$listcorrespondence/descendant::tei:listPerson/tei:personGrp[not(@xml:id = 'correspondence_null')]">
             <xsl:variable name="correspondence-nummer"

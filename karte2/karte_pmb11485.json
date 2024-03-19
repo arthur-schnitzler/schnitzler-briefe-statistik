@@ -87,11 +87,7 @@
 {
 "from": "Wien",
 "to": "Berlin",
-"weight": 1},
-{
-"from": "Wien",
-"to": "Berlin?",
-"weight": 1},
+"weight": 2},
 {
 "from": "Wien",
 "to": "Venedig",
@@ -110,6 +106,10 @@
 {
 "from": "Venedig",
 "to": "Wien",
+"weight": 0},
+{
+"from": "Venedig",
+"to": "Berlin",
 "weight": 1}
 
 ]}

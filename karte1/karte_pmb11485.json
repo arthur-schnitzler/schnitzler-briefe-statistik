@@ -141,8 +141,8 @@
 },
 {
 "id": "Indischer Ozean",
-"lat": ,
-"lon": 
+"lat": -22.0,
+"lon": 76.0
 },
 {
 "id": "Singapur",
@@ -395,14 +395,19 @@
 "lon": 3.500556
 },
 {
-"id": "Pass Lueg",
-"lat": 47.56667,
-"lon": 13.2
+"id": "Lueg am Wolfgangsee",
+"lat": 47.754041,
+"lon": 13.372211
 },
 {
 "id": "Como",
 "lat": 45.80819,
 "lon": 9.0832
+},
+{
+"id": "Pass Lueg",
+"lat": 47.56667,
+"lon": 13.2
 },
 {
 "id": "Semmering",
@@ -440,11 +445,6 @@
 "lon": 11.502201
 },
 {
-"id": "Carezza",
-"lat": 46.41147,
-"lon": 11.58817
-},
-{
 "id": "Karersee",
 "lat": 46.409167,
 "lon": 11.575
@@ -468,11 +468,6 @@
 "id": "Karlsbad",
 "lat": 50.23271,
 "lon": 12.87117
-},
-{
-"id": "Gmunden",
-"lat": 47.91839,
-"lon": 13.79933
 }
 
       ]
@@ -503,11 +498,7 @@
 {
 "from": "Wien",
 "to": "Berlin",
-"weight": 1},
-{
-"from": "Wien",
-"to": "Berlin?",
-"weight": 1},
+"weight": 2},
 {
 "from": "Wien",
 "to": "Venedig",
@@ -674,7 +665,7 @@
 {
 "from": "Berlin",
 "to": "Wien",
-"weight": 146},
+"weight": 147},
 {
 "from": "Berlin",
 "to": "Altaussee?",
@@ -702,7 +693,7 @@
 {
 "from": "Berlin",
 "to": "Wien?",
-"weight": 7},
+"weight": 6},
 {
 "from": "Berlin",
 "to": "Berlin",
@@ -755,10 +746,6 @@
 "from": "Berlin",
 "to": "Welsberg-Taisten",
 "weight": 2},
-{
-"from": "Berlin",
-"to": "München",
-"weight": 1},
 {
 "from": "Berlin",
 "to": "Seis am Schlern",
@@ -863,7 +850,7 @@
 "weight": 1},
 {
 "from": "Mailand",
-"to": "Pass Lueg",
+"to": "Lueg",
 "weight": 1}
 ,
 {
@@ -878,7 +865,11 @@
 {
 "from": "Venedig",
 "to": "Wien",
-"weight": 3}
+"weight": 2},
+{
+"from": "Venedig",
+"to": "Berlin",
+"weight": 1}
 ,
 {
 "from": "Pontebba",
@@ -997,19 +988,14 @@
 "weight": 2}
 ,
 {
-"from": "Madonna di Campiglio?",
-"to": "Wien",
-"weight": 1}
-,
-{
-"from": "Mende",
+"from": "Mendel",
 "to": "Wien",
 "weight": 1}
 ,
 {
 "from": "Madonna di Campiglio",
-"to": "Wien?",
-"weight": 1}
+"to": "Wien",
+"weight": 2}
 ,
 {
 "from": "Como",
@@ -1043,7 +1029,7 @@
 ,
 {
 "from": "Hühnerspiel",
-"to": "Carezza?",
+"to": "Wien",
 "weight": 1}
 ,
 {
@@ -1068,7 +1054,7 @@
 ,
 {
 "from": "Velden am Wörthersee",
-"to": "Gmunden?",
+"to": "Wien",
 "weight": 1}
 
 ]}
