@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2024-01-17+01:00</date>
+            <date>2024-03-19+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/schnitzler-briefe/tocs/statistik_toc_11061.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -171,7 +171,7 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L02953">Schnitzler an Salten, [Mai 1891–1892?]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L02661">Goldmann an Schnitzler, 27. 4. 1891</ref>
                      <ref subtype="next_letter" type="withinCollection" target="L00011">Schnitzler an Hofmannsthal, [5.? 5. 1891]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
@@ -419,7 +419,7 @@
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
                      <ref subtype="previous_letter" type="withinCollection" target="L03108">Salten an Schnitzler, [31. 3. 1892]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03184">Salten an Schnitzler, [April 1892]</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L00092">Hofmannsthal an Schnitzler, [4. 4. 1892?]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -449,7 +449,7 @@
                   </correspAction>
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00094">Schnitzler an Hofmannsthal, [13.? 4. 1892]</ref>
+                     <ref subtype="previous_letter" type="withinCollection" target="L03184">Salten an Schnitzler, [13.? 4. 1892]</ref>
                      <ref subtype="next_letter" type="withinCollection" target="L02697">Goldmann an Schnitzler, 23. 4. [1892]</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
@@ -737,42 +737,11 @@
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00242">Schnitzler an Fischer, 25. 7. 1893</ref>
-                  </correspContext>
-               </correspDesc>
-               <objectType corresp="brief"/>
-               <measure unit="zeichenanzahl" quantity="528"/>
-            </item>
-            <item corresp="L00242">
-               <title level="a">Arthur Schnitzler an Samuel Fischer, 25. 7. 1893</title>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName ref="#pmb2121">Schnitzler, Arthur</persName>
-                     <placeName ref="#pmb50">Wien</placeName>
-                     <date when="1893-07-25" n="01">25. 7. 1893</date>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName ref="#pmb11324">Fischer, Samuel</persName>
-                     <placeName ref="#pmb168">Berlin</placeName>
-                     <date evidence="conjecture" notBefore="1893-07-26" notAfter="1893-07-30">[26. 7. 1893
-                  – 30. 7. 1893?]</date>
-                  </correspAction>
-                  <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L00241">Bahr an Schnitzler, [24. 7. 1893]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00243">Beer-Hofmann an Schnitzler, [25. 7. 1893]</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L00234">Schnitzler an Bölsche, 8. 7. 1893</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
                           target="L00282">Schnitzler an Bölsche, [12.? 11. 1893]</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="brief"/>
-               <measure unit="zeichenanzahl" quantity="914"/>
+               <measure unit="zeichenanzahl" quantity="528"/>
             </item>
             <item corresp="L00282">
                <title level="a">Arthur Schnitzler an Wilhelm Bölsche, [12.? 11. 1893]</title>
@@ -794,7 +763,7 @@
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
-                          target="L00242">Schnitzler an Fischer, 25. 7. 1893</ref>
+                          target="L00234">Schnitzler an Bölsche, 8. 7. 1893</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11061"
@@ -825,176 +794,10 @@
                           type="withinCorrespondence"
                           source="correspondence_11061"
                           target="L00282">Schnitzler an Bölsche, [12.? 11. 1893]</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
                   </correspContext>
                </correspDesc>
                <objectType corresp="karte" ana="postkarte"/>
                <measure unit="zeichenanzahl" quantity="377"/>
-            </item>
-            <item corresp="L03419">
-               <title level="a">Felix Salten u. a. an Arthur Schnitzler, 19. 4. 1906</title>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName ref="#pmb2167">Salten, Felix</persName>
-                     <persName ref="#pmb23918">Salten, Ottilie</persName>
-                     <persName ref="#pmb10986">Brahm, Otto</persName>
-                     <persName ref="#pmb18900">Jonas, Clara</persName>
-                     <persName ref="#pmb2713">Heilbut, Emil</persName>
-                     <persName ref="#pmb11324">Fischer, S.</persName>
-                     <persName ref="#pmb2657">Fischer, Hedwig</persName>
-                     <persName ref="#pmb147457">Jonas, Lili</persName>
-                     <date when="1906-04-19" n="01">19. 4. 1906</date>
-                     <placeName ref="#pmb168">Berlin</placeName>
-                  </correspAction>
-                  <correspAction type="transmitted">
-                     <date when="1906-04-20">20. 4. 1906</date>
-                     <placeName ref="#pmb168">Berlin</placeName>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName ref="#pmb2121">Schnitzler, Arthur</persName>
-                     <placeName ref="#pmb50" evidence="conjecture">Wien</placeName>
-                     <date evidence="conjecture" notBefore="1906-04-21" notAfter="1906-04-25">[21. 4. 1906
-                  – 25. 4. 1906?]</date>
-                  </correspAction>
-                  <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2167">Salten, Felix</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb18900">Jonas, Clara</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb2713">Heilbut, Emil</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb2657">Fischer, Hedwig</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb147457">Jonas, Lili</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03243">Goldmann an Schnitzler, 16. 4. [1906]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L03244">Goldmann an Schnitzler, 20. 4. [1906]</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_2167"
-                          target="L03418">Salten an Schnitzler, 15. 4. 1906</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_2167"
-                          target="L03420">Salten an Schnitzler, 21. 4. [1906]</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L00284">Bölsche an Schnitzler, 16. 11. 1893</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="#pmb2657"
-                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
-                  </correspContext>
-               </correspDesc>
-               <objectType corresp="karte" ana="postkarte"/>
-               <measure unit="zeichenanzahl" quantity="766"/>
-            </item>
-            <item corresp="L03426">
-               <title level="a">Felix Salten u. a. an Arthur Schnitzler, 4. 6. 1906</title>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName ref="#pmb2167">Salten, Felix</persName>
-                     <persName ref="#pmb23918">Salten, Ottilie</persName>
-                     <persName ref="#pmb11324">Fischer, S.</persName>
-                     <persName ref="#pmb2657">Fischer, Hedwig</persName>
-                     <persName ref="#pmb147550">?? [Frau in Königs Wusterhausen]</persName>
-                     <date when="1906-06-04" n="01">4. 6. 1906</date>
-                     <placeName ref="#pmb147545">Königs Wusterhausen</placeName>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName ref="#pmb2121">Schnitzler, Arthur</persName>
-                     <placeName evidence="conjecture" ref="#pmb50">Wien</placeName>
-                     <date evidence="conjecture" notBefore="1906-06-05" notAfter="1906-06-09">[5. 6. 1906
-                  – 9. 6. 1906?]</date>
-                  </correspAction>
-                  <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2167">Salten, Felix</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb2657">Fischer, Hedwig</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb147550">?? [Frau in Königs Wusterhausen]</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03246">Goldmann an Schnitzler, 3. 6. [1906]</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02796">Schnitzler an Ehrenstein, 5. 6. 1906</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_2167"
-                          target="L03006">Schnitzler an Salten, 26. 5. 1906</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_2167"
-                          target="L03424">Salten an Schnitzler, 9. 6. 1906</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler, [zwischen 19. und
-                  30. 7.? 1909]</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="#pmb2657"
-                          target="L03419">Salten, Salten, Brahm, Jonas, Heilbut, Fischer, Fischer, Jonas an Schnitzler, 19. 4. 1906</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="#pmb2657"
-                          target="L03504">Salten, Salten, Wassermann, Fischer, Fischer an Schnitzler, [zwischen 19. und
-                  30. 7.? 1909]</ref>
-                  </correspContext>
-               </correspDesc>
-               <objectType corresp="karte" ana="bildpostkarte"/>
-               <measure unit="zeichenanzahl" quantity="259"/>
-            </item>
-            <item corresp="L03504">
-               <title level="a">Felix Salten u. a. an Arthur Schnitzler, [zwischen 19. und
-               30. 7.? 1909]</title>
-               <correspDesc>
-                  <correspAction type="sent">
-                     <persName ref="#pmb2167">Salten, Felix</persName>
-                     <persName ref="#pmb23918">Salten, Ottilie</persName>
-                     <persName ref="#pmb13055">Wassermann, Jakob</persName>
-                     <persName ref="#pmb11324">Fischer, S.</persName>
-                     <persName ref="#pmb2657">Fischer, Hedwig</persName>
-                     <date notBefore="1909-07-19" notAfter="1909-07-30" n="01">[zwischen 19. und
-                  30. 7.? 1909]</date>
-                     <placeName ref="#pmb758">Höhlenstein</placeName>
-                  </correspAction>
-                  <correspAction type="received">
-                     <persName ref="#pmb2121">Schnitzler, Arthur</persName>
-                     <placeName ref="#pmb470">Edlach</placeName>
-                     <date notBefore="1909-07-20" notAfter="1909-07-31">[zwischen 20. und
-                  31. 7.? 1909]</date>
-                  </correspAction>
-                  <correspContext>
-                     <ref type="belongsToCorrespondence" target="correspondence_2167">Salten, Felix</ref>
-                     <ref type="belongsToCorrespondence" target="correspondence_11061">Bölsche, Wilhelm</ref>
-                     <ref type="belongsToCorrespondence" target="#pmb2657">Fischer, Hedwig</ref>
-                     <ref subtype="previous_letter" type="withinCollection" target="L03503">Salten an Schnitzler, 18. 7. 1909</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L01859">Schnitzler an Ehrenstein, 24. 7. 1909</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_2167"
-                          target="L03503">Salten an Schnitzler, 18. 7. 1909</ref>
-                     <ref subtype="next_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_2167"
-                          target="L03505">Salten an Schnitzler, 31. 7. 1909</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="correspondence_11061"
-                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
-                     <ref subtype="previous_letter"
-                          type="withinCorrespondence"
-                          source="#pmb2657"
-                          target="L03426">Salten, Salten, Fischer, Fischer,  an Schnitzler, 4. 6. 1906</ref>
-                  </correspContext>
-               </correspDesc>
-               <objectType corresp="karte" ana="bildpostkarte"/>
-               <measure unit="zeichenanzahl" quantity="448"/>
             </item>
          </list>
       </body>

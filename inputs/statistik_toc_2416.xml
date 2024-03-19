@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2024-01-17+01:00</date>
+            <date>2024-03-19+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/schnitzler-briefe/tocs/statistik_toc_2416.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -332,7 +332,7 @@
                           target="L01119">David an Schnitzler, 13. 5. 1901</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_schmutztitel"/>
                <measure unit="zeichenanzahl" quantity="60"/>
             </item>
          </list>

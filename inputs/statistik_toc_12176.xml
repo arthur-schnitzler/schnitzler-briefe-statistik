@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2024-01-17+01:00</date>
+            <date>2024-03-19+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/schnitzler-briefe/tocs/statistik_toc_12176.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -875,7 +875,7 @@
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_12176">Mann, Thomas</ref>
                      <ref subtype="previous_letter" type="withinCollection" target="L02539">Beer-Hofmann, Beer-Hofmann an Schnitzler, 11. 9. 1930</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L02541">Schnitzler an Beer-Hofmann, 14. 1. 1931</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03485">Schnitzler an Salten, 1. 1. 1931</ref>
                      <ref subtype="previous_letter"
                           type="withinCorrespondence"
                           source="correspondence_12176"

@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural
                                     Heritage (ACDH-CH)</publisher>
-            <date>2024-01-17+01:00</date>
+            <date>2024-03-19+01:00</date>
             <idno type="URI">https://id.acdh.oeaw.ac.at/schnitzler-briefe/tocs/statistik_toc_11036.xml</idno>
          </publicationStmt>
          <sourceDesc>
@@ -54,7 +54,7 @@
                   <correspContext>
                      <ref type="belongsToCorrespondence" target="correspondence_11036">Burckhard, Max Eugen</ref>
                      <ref subtype="previous_letter" type="withinCollection" target="L00013">Beer-Hofmann an Schnitzler, 19. 5. 1891</ref>
-                     <ref subtype="next_letter" type="withinCollection" target="L00015">Schnitzler an Beer-Hofmann, 23. 5. 1891</ref>
+                     <ref subtype="next_letter" type="withinCollection" target="L03102">Salten an Schnitzler, [23. 5. 1891]</ref>
                      <ref subtype="next_letter"
                           type="withinCorrespondence"
                           source="correspondence_11036"
@@ -517,7 +517,7 @@
                           target="L00744">Burckhard an Schnitzler, [19. 11.? 1897]</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_schmutztitel"/>
                <measure unit="zeichenanzahl" quantity="54"/>
             </item>
             <item corresp="L00744">
@@ -883,7 +883,7 @@
                           target="L01565">Burckhard an Schnitzler, 27. 10. 1905</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_schmutztitel"/>
                <measure unit="zeichenanzahl" quantity="50"/>
             </item>
             <item corresp="L01565">
@@ -914,7 +914,7 @@
                           target="L01566">Burckhard an Schnitzler, [27. 10. 1905?]</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_schmutztitel"/>
                <measure unit="zeichenanzahl" quantity="66"/>
             </item>
             <item corresp="L01566">
@@ -1006,7 +1006,7 @@
                           target="L01648">Burckhard an Schnitzler, 3. 1. 1907</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_schmutztitel"/>
                <measure unit="zeichenanzahl" quantity="56"/>
             </item>
             <item corresp="L01648">
@@ -1342,7 +1342,7 @@
                           target="L01847">Burckhard an Schnitzler, 20. 6. 1909</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_schmutztitel"/>
                <measure unit="zeichenanzahl" quantity="70"/>
             </item>
             <item corresp="L01847">
@@ -1677,7 +1677,7 @@
                           target="L02028">Burckhard an Schnitzler, 12. 9. 1911</ref>
                   </correspContext>
                </correspDesc>
-               <objectType corresp="widmung" ana="widmung_vortitel"/>
+               <objectType corresp="widmung" ana="widmung_titelblatt"/>
                <measure unit="zeichenanzahl" quantity="58"/>
             </item>
          </list>
