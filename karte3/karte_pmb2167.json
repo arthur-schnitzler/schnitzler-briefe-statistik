@@ -60,6 +60,11 @@
 "lon": 13.04532
 },
 {
+"id": "Berlin",
+"lat": 52.52437,
+"lon": 13.41053
+},
+{
 "id": "Trondheim",
 "lat": 63.43049,
 "lon": 10.39506
@@ -73,11 +78,6 @@
 "id": "Skodsborg",
 "lat": 55.8225,
 "lon": 12.57324
-},
-{
-"id": "Berlin",
-"lat": 52.52437,
-"lon": 13.41053
 },
 {
 "id": "Teplice",
@@ -365,9 +365,9 @@
 "lon": -31.0
 },
 {
-"id": "El Tovar Hotel",
-"lat": 36.05748,
-"lon": -112.13711
+"id": "Grand Canyon Village",
+"lat": 36.053333333333,
+"lon": -112.13944444444
 },
 {
 "id": "San Francisco",
@@ -393,7 +393,7 @@
 "data": [{
 "from": "Wien",
 "to": "Wien",
-"weight": 159},
+"weight": 160},
 {
 "from": "Wien",
 "to": "Miskolc",
@@ -409,15 +409,15 @@
 {
 "from": "Wien",
 "to": "Ischl",
-"weight": 5},
+"weight": 6},
+{
+"from": "Wien",
+"to": "Berlin",
+"weight": 8},
 {
 "from": "Wien",
 "to": "Trondheim",
 "weight": 2},
-{
-"from": "Wien",
-"to": "Berlin",
-"weight": 7},
 {
 "from": "Wien",
 "to": "Paris",
@@ -501,7 +501,7 @@
 {
 "from": "Salzburg",
 "to": "Wien",
-"weight": 2},
+"weight": 3},
 {
 "from": "Salzburg",
 "to": "Salzburg",
@@ -783,7 +783,7 @@
 "weight": 1}
 ,
 {
-"from": "El Tovar Hotel",
+"from": "Grand Canyon Village",
 "to": "Wien",
 "weight": 1}
 ,
